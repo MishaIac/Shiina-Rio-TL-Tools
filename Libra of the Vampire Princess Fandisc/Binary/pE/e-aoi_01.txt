@@ -1,0 +1,2795 @@
+;====================================================
+
+
+;à®ÅEÉäÉRÉäÉXï“Å@aoi_01
+
+
+;====================================================
+
+
+
+
+;Å@Å¶Å¶Å¶Å@BGÅFà√ì]
+
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,0,,1000,1
+
+;Å@Å¶Å¶Å¶Å@ÉÅÉbÉZÅ[ÉWÉEÉBÉìÉhÉEÅAï∂éöÇæÇØââèo
+
+
+Why are people born? Why do they die?
+
+
+I care not about the meaning of this existence which was not born of my own intentions, nor of the death which will inevitably visit upon it one day.
+
+
+Even if it were possible to redo your life upon knowing it was coming, there is no way of avoiding the inevitable future of death. It's futile to even try...
+
+;$FACE,,M,AO20F0105
+
+$VOICE,v\AOZ0001.ogg,0,100
+ÅyAoiÅz
+"The only important thing is that I don't die right now."
+
+;$FACE
+
+That...is my one and only reason to live!
+
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,0,,1000,1
+
+$MUSIC,m\bgm07.ogg,1
+
+;Å@Å¶Å¶Å¶Å@îíÉtÉâÉbÉVÉÖ
+$L_CHR,5,b\bgwhite.s25,0,0,0
+$L_CHR,2,es\evr01d_00-101-1-1-1.s25,640,-360,0
+$DRAW_EX,0,,500,1
+$A_CHR,150,5,2000,1
+$A_CHR,114,2,480,-360,20000,1
+$DRAW
+$WAIT, 1000
+
+$VOICE,v\AOZ0002.ogg,0,100
+ÅyAoiÅz
+"So this is Yurigaoka City..."
+
+The fairly developed town has a somewhat sinister beauty in the way it sinks into the red and purple sunset.
+
+
+$L_CHR,2,es\evr01d_00-101-1-1-1.s25,-310,85,0
+$L_CHR,1,es\evr01_00-102-1-1-1.s25,0,0,0
+$DRAW_EX,0,,1000,1
+$WAIT, 500
+
+$VOICE,v\AOZ0003.ogg,0,100
+ÅyAoiÅz
+"Tsk, an unimpressive place."
+
+Looking out over it all from the roof of the tallest building in the area, I click my tongue slightly and mutter those disparaging words.
+
+I have no particular attachment to this small island nation I'm coming back to after so long. All I have is a quietly burning disgust and hatred.
+
+$A_CHR,114,2,-310,-360,30000,1
+$A_CHR,150,2,20000,1
+$DRAW
+
+$VOICE,v\AOZ0004.ogg,0,100
+ÅyAoiÅz
+(At their mercy, just waiting to be hunted by them...it's crazy!)
+
+Just how many people are aware of the existence of "them"...of vampires, anyway?
+
+Even though "they" can so easily shatter their peaceful daily lives on a mere whim.
+
+Even though that false peaceful daily life, going about unaware and unable to put up any kind of defense or resistance, is as fragile and dangerous as walking upon thin ice...
+
+$VOICE,v\AOZ0005.ogg,0,100
+ÅyAoiÅz
+"Why did it choose here?"
+
+It is the existence related to the vampire progenitor.
+
+$VOICE,v\AOZ0006.ogg,0,100
+ÅyAoiÅz
+"...Lycoris. What did you find?"
+
+My former buddy's name escapes my mouth and I hurriedly bite my lip, experiencing a nostalgia so strong it feels like my chest is being squeezed.
+
+The Rubina had got hold of information that the existence related to the vampire progenitor was in Japan, and had sent an investigator...that investigator was Lycoris.
+
+It is standard practice among the Rubina, whose lives were fraught with danger, to have a buddy...a partner.
+
+The rule is to avoid independent action whenever possible. When your usual buddy is unavailable, you ask for help from someone who's free.
+
+That's why, when Lycoris received the order and I was unavailable, she should have gotten someone else to accompany her as her buddy, but...
+
+Saying it was "just a simple investigation", she had turned down the hastily improvised buddy and departed on her own.
+
+;Å@Å¶Å¶Å¶Å@à√ì]
+
+$MUSIC_FADE
+$L_BG,b\bgwhite.s25,0,0,0
+$DRAW_EX,2,c\rule14.s25,1000,1
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,0,,1000,1
+$MUSIC,m\bgm04.ogg,1
+
+;Å@Å¶Å¶Å¶Å@Å´Å´Å´Å@âÒëz
+;Å@Å¶Å¶Å¶Å@Å´Å´Å´Å@ÉäÉRÉäÉXÉ{ÉCÉXÅAìdòbâzÇµÉ{ÉCÉXâ¡çH
+
+$FACE,,M,AO20F0121
+
+$VOICE,v\AOZ0007.ogg,0,100
+ÅyAoiÅz
+"I heard, Lycoris! That you went off on a mission on your own?! If I'm not around, you're supposed to take someone else with you!"
+
+$FACE
+
+;Å@Å¶Å¶Å¶Å@îwåiÅFãÛÅiÉZÉsÉAÇ…èoóàÇ‹Ç∑Ç©ÅHÅj
+
+$VOICE,v\RCZ0001.ogg,0,100
+ÅyLycorisÅz
+'......'
+
+$EX,PPFGBLUR,11,11
+$L_BG,b\bg25_01d.s25,0,0,0
+$L_CHR,3,b\tr.s25,0,0,0
+$L_MONT,2,,0,0,0,M,AO20L0126
+$DRAW_EX,0,,300,0
+
+$A_CHR,01,2,2,20,500
+
+$VOICE,v\AOZ0008.ogg,0,100
+ÅyAoiÅz
+"Hey, Lycoris, are you listening?! ...Lycoris? Hey, you!"
+
+$L_MONT,2,,0,0,0,M,AO20L0306
+
+$VOICE,v\RCZ0002.ogg,0,100
+ÅyLycorisÅz
+'...Are you done already? Hello, Aoi? Did the call hang up? Hellooo?'
+
+$L_MONT,2,,0,0,0,M,AO20L0110
+
+After leaving a few beats of silence after my shouting, I hear such a boneheaded response through the receiver it almost makes my anger look stupid.
+
+$L_MONT,2,,0,0,0,M,AO20L0320
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0009.ogg,0,100
+ÅyAoiÅz
+"...You didn't even have the phone to your ear, did you?"
+
+$VOICE,v\RCZ0003.ogg,0,100
+ÅyLycorisÅz
+'Oops, you got me.'
+
+
+Her completely unabashed tone grates on my nerves like nails on a chalkboard.
+
+$L_MONT,2,,0,0,0,M,AO20L0207
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0010.ogg,0,100
+ÅyAoiÅz
+"Argh, geez! Going off on a mission on your own...you have no idea how dangerous a job it could be, do you?!"
+
+Lycoris clearly has more sense of danger than me when it comes to missions relating to vampires.
+
+In contrast to me, who often goes jumping in head first, guns blazing, she never fails to strategize and gather the most detailed of information, down to the number of hairs on someone's butt.
+
+When we're on a mission together, she's the one who holds me back from dashing headlong into the battlefield...
+
+$L_MONT,2,,0,0,0,M,AO20L0109
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0011.ogg,0,100
+ÅyAoiÅz
+"What's going on? This isn't like you at all!"
+
+Which is exactly why I'm worried, which comes out as criticism.
+
+$VOICE,v\RCZ0004.ogg,0,100
+ÅyLycorisÅz
+'I'm just doing things your way.'
+
+$L_MONT,2,,0,0,0,M,AO20L0120
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0012.ogg,0,100
+ÅyAoiÅz
+"What, you're trying to make this my fault?!"
+
+$VOICE,v\RCZ0005.ogg,0,100
+ÅyLycorisÅz
+'That's not it. I thought that, after you'd finished up what you had to do, you'd rather come directly to Japan without going back to the Rubina.'
+
+$L_MONT,2,,0,0,0,M,AO20L0228
+$DRAW_EX,1,,300,0
+$A_CHR,02,2,1,10,300
+
+$L_DELAY,2,T,2000
+$L_MONT,2,,0,0,0,M,AO20L0319
+$L_DELAY,2,E
+
+$VOICE,v\AOZ0013.ogg,0,100
+ÅyAoiÅz
+"Gah...! W-Well...I suppose I can't deny that."
+
+
+It's true that I'm reckless like that. It's possible that I would gleefully hop right onto the next plane to Japan upon hearing word of the existence related to the vampire progenitor...
+
+But even so, I can't be okay with my precious partner heading off into danger by herself!
+
+$L_MONT,2,,0,0,0,M,AO20L0105
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0006.ogg,0,100
+ÅyLycorisÅz
+"So I thought I'd go on ahead and survey the scene so that we can move as soon as you arrive."
+
+$L_MONT,2,,0,0,0,M,AO20L0109
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0014.ogg,0,100
+ÅyAoiÅz
+"I feel like I'm dancing in the palm of your hand. It's vexing."
+
+$VOICE,v\RCZ0007.ogg,0,100
+ÅyLycorisÅz
+'Hehe, please don't get all sulky. I actually like that headstrong side of yours.'
+
+$L_MONT,2,,0,0,0,M,AO20L0262
+$DRAW_EX,0,,300,0
+
+It feels like her soft voice and breath is tickling my ear through the phone receiver, and I blush.
+
+$L_MONT,2,,0,0,0,M,AO20L0170
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0015.ogg,0,100
+ÅyAoiÅz
+"...Are you a lesbian? I feel like you're coming onto me."
+
+Not wanting her to sense my embarrassment, I find myself sniping at her.
+
+$VOICE,v\RCZ0008.ogg,0,100
+ÅyLycorisÅz
+'Unfortunately I have no such intentions. Well I suppose, if you insisted, I'd go as far as sharing a bed with you?'
+
+$L_MONT,2,,0,0,0,M,AO20L0271
+$DRAW_EX,1,,300,0
+$A_CHR,01,2,1,10,300
+
+$VOICE,v\AOZ0016.ogg,0,100
+ÅyAoiÅz
+"I-idiot! W-why would I want to sleep with you anyway?!"
+
+Flustered, I deny it, and she responds with a teasing "oh, that's a shame".
+
+$L_MONT,2,,0,0,0,M,AO20L0119
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0017.ogg,0,100
+ÅyAoiÅz
+"A-anyway! You stay right where you are until I get there! I'll be finished up here soon!"
+
+$VOICE,v\RCZ0009.ogg,0,100
+ÅyLycorisÅz
+'Then there'd be no point in me coming here first. I will go ahead with my investigation, without fail.'
+
+$L_MONT,2,,0,0,0,M,AO20L0122
+
+Ignoring my concern, she breezily declares her intention to go ahead with the mission.
+
+$L_MONT,2,,0,0,0,M,AO20L0320
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0018.ogg,0,100
+ÅyAoiÅz
+(That's right. She was the kind who wouldn't budge an inch once she'd decided something!)
+
+
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,2,b\tr2.s25,0,0,0
+$DRAW_EX,0,,1000,1
+$L_CHR,1,b\bg24_01d.s25,500,0,0
+$A_CHR,114,1,-500,0,120000,1
+$A_CHR,151,1,1000,1
+$DRAW
+$WAIT, 1000
+
+I recall the nightmare of when we'd used our day off to go hiking.
+
+Back then she'd suddenly decided "let's climb that mountain", and then set off straight for the peak...
+
+In the end, I'd been made to climb it along with her. I'm really impressed that we made it back down alive in the thin clothes we were wearing.
+
+
+Even though she's usually so overly cautious, serious to the extent you could stick a dunce's cap on her. A girl with a persistent spirit where once she's decided on something, she'll carry it out no matter what...
+
+Which means this time, too, there's no chance she'll readily listen to me and wait until I arrive. So...
+
+
+If she won't wait for me, all I can do is chase after her!
+
+$EX,PPFGBLUR,11,11
+$L_BG,b\bg25_01d.s25,0,0,0
+$L_CHR,3,b\tr.s25,0,0,0
+$L_MONT,2,,0,0,0,M,AO20L0119
+$DRAW_EX,0,,1000,1
+
+$VOICE,v\AOZ0019.ogg,0,100
+ÅyAoiÅz
+"I'll make sure to get there as quickly as possible. So don't do anything stupid before then! Okay?!"
+
+$VOICE,v\RCZ0010.ogg,0,100
+ÅyLycorisÅz
+'We promised each other, Aoi, that we wouldn't die alone.'
+
+$L_MONT,2,,0,0,0,M,AO20L0102
+
+$VOICE,v\AOZ0020.ogg,0,100
+ÅyAoiÅz
+"Right. And I won't let you! When it's time to die, I'll be right there with you, okay?!"
+
+This is the promise Lycoris and I made, as buddies...and as best friends.
+
+$L_MONT,2,,0,0,0,M,AO20L0115
+
+$VOICE,v\RCZ0011.ogg,0,100
+ÅyLycorisÅz
+'Yeah, okay. I will not do anything stupid.'
+
+$MUSIC_FADE
+$L_BG,b\bgwhite.s25,0,0,0
+$DRAW_EX,2,c\rule15.s25,1500,1
+
+;Å@Å¶Å¶Å¶Å@Å™Å™Å™Å@âÒëzèIÇÌÇË
+;Å@Å¶Å¶Å¶Å@Å™Å™Å™Å@ÉäÉRÉäÉXÅAÉ{ÉCÉXÉGÉtÉFÉNÉgÇ±Ç±Ç‹Ç≈
+
+;Å@Å¶Å¶Å¶Å@CGÇPÅFà®Ç…äÒÇ¡ÇƒÉAÉbÉvÇ≈ï\é¶ÅBÅiÉxÅ[ÉXÅ{ç∑ï™ÇPÅjÅiï\èÓÅFévàƒÅj
+
+$MUSIC,m\bgm17.ogg,1
+
+$VOICE,v\AOZ0021.ogg,0,100
+ÅyAoiÅz
+"What's 'okay'? There's nothing okay about this at all."
+
+In her sixth progress report, she had reported that she had gathered pertinent information here in Yurigaoka City about the existence relating to the progenitor, and after that, her communications had ceased.
+
+$VOICE,v\AOZ0022.ogg,0,100
+ÅyAoiÅz
+"...Idiot Lycoris."
+
+;Å@Å¶Å¶Å¶Å@CGÇPÅFëSëÃï\é¶ÅiÉxÅ[ÉXÅ{ç∑ï™ÇPÅjÅiï\èÓÅFïÅí Åj
+
+I know that I'm just venting my anger.
+
+The real idiot is me...
+
+Back then I should have abandoned my current mission and gone straight to Japan. It's my own idiotic fault for not doing that.
+
+After hearing word that contact with Lycoris had ceased, the higher-ups at the Rubina had arbitrarily declared her dead in action, but...this is no joke!
+
+$VOICE,v\AOZ0023.ogg,0,100
+ÅyAoiÅz
+"Like Lycoris would be offed by a measly vampire!"
+
+It's a conviction only someone who has shared their fate with her over long years as her buddy can understand.
+
+$VOICE,v\AOZ0024.ogg,0,100
+ÅyAoiÅz
+(And she promised me!)
+
+$VOICE,v\RCZ0012.ogg,0,100
+ÅyLycorisÅz
+'We promised each other, Aoi, that we wouldn't die alone.'
+
+;Å@Å¶Å¶Å¶Å@Å™Å™Å™Å@âÒëzÅAÉ{ÉCÉXÉGÉtÉFÉNÉgÅBÉäÉoÅ[Éuê[ÇﬂÇ…ÇµÇƒÇ≠ÇæÇ≥Ç¢ÅB
+
+$VOICE,v\AOZ0025.ogg,0,100
+ÅyAoiÅz
+"Lycoris would never break a promise...!"
+
+So there's no way Lycoris would die and leave me behind.
+
+Because that was our promise to one another!
+
+;Å\Å\ÅB
+
+;Å\Å\Å\Å\ÅB
+
+$MUSIC_FADE
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,0,,1000,1
+$WAIT, 1000
+;Å@Å¶Å¶Å¶Å@à√ì]
+
+Our promise.
+
+;ÅcÅcÅB
+
+This is the story of how Lycoris and I came to be formally paired together as buddies.
+
+$L_BG,b\bgwhite.s25,0,0,0
+$DRAW_EX,2,c\rule06.s25,2000,1
+$WAIT, 1000
+
+$SE,se\SE_J001.ogg,0,0,50
+
+$L_CHR,1,b\bg30_03.s25,0,0,0
+$DRAW_EX,0,,1000,1
+
+$MUSIC,m\bgm11.ogg,1
+
+I hear the gunshot of Lycoris' Benevolence from a little ways off.
+
+;Å@Å¶Å¶Å¶Å@îwåiÅFñÇñ@è≠èóbg1801ÅiêXÇÃíÜÅj
+
+;Å@Å¶Å¶Å¶Å@à®ÅAóßÇøäGï\é¶
+$L_MONT,2,,400,0,0,M,AO20S1305
+$A_CHR,114,2,350,0,500,1
+$A_CHR,151,2,500,1
+$DRAW
+
+It's the signal we had decided upon.
+
+$L_MONT,2,,350,0,0,M,AO20S1119
+$DRAW_EX,0,,300,0
+
+$A_CHR,01,2,1,10,2000
+
+$L_DELAY,2,T,5000
+$L_MONT,2,,350,0,0,M,AO20S1220
+$A_CHR,02,2,1,10,300
+$L_DELAY,2,E
+
+$VOICE,v\AOZ0026.ogg,0,100
+ÅyAoiÅz
+"*Deep breath* ...Alright, come at me!"
+
+I fill my lungs with the almost chokingly thick scent of foliage and ready my plain twin blades.
+
+
+
+;Å@Å¶Å¶Å¶Å@ÉäÉRÉäÉXÅAÉÅÉbÉZÅ[ÉWÉEÉBÉìÉhÉEÇ…äÁÉAÉCÉRÉìÇÃÇ›ï\é¶ÅióßÇøäGÇ»ÇµÅj
+
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,2,c\rule01.s25,500,1
+$SE,se\SE_A096.ogg,0,0
+$L_CHR,1,b\bg30_03d.s25,-500,200,0
+$L_CHR,5,b\tr2.s25,0,0,0
+$DRAW_EX,2,c\rule01.s25,500,1
+$A_CHR,02,1,0,10,300
+$SE,se\SE_C031.ogg,1,1
+
+$VOICE,v\RCZ0013.ogg,0,100
+ÅyLycorisÅz
+"Haa, haa...!"
+
+Keeping an eye out behind her, Lycoris dashes through the forest, trampling the densely growing vegetation.
+
+In fierce pursuit is a creature with black wings, like a human and a bat have merged, gradually closing the distance between them.
+
+$VOICE,v\RCZ0014.ogg,0,100
+ÅyLycorisÅz
+"Are you mowing the grass with your own intestines?! You disgusting aberration!"
+
+;Å@Å¶Å¶Å¶Å@Å™Å™Å™Å@ì«Ç›Åuí∞ÅvÅÅÇÕÇÁÇÌÇΩ
+
+Its guts spill from its torn stomach and it brandishes its entrails like a scythe, cutting the plants and ivy out of its way as it dashes along. The sight is sickening.
+
+$SE_FADE,1000,1
+$L_BG,b\bgwhite.s25,0,0,0
+$DRAW_EX,2,c\rule06.s25,1000,1
+$L_BG,b\bg30_03.s25,0,0,0
+$L_MONT,2,,350,0,0,M,AO20S1306
+$DRAW_EX,1,,300,0
+
+;Å@Å¶Å¶Å¶Å@ÇrÇdÅFñŒÇ›Çï™ÇØÇÈâπÅuÉKÉTÉbÅIÅv
+
+;Å@Å¶Å¶Å¶Å@ÉäÉRÉäÉXÅAóßÇøäGï\é¶ÅB
+$SE,se\SE_C013.ogg,0,0
+$L_MONT,3,,-400,0,0,M,RC30S1101
+$A_CHR,114,3,-200,0,500,1
+$A_CHR,151,3,250,1
+$A_CHR,01,3,1,50,500
+$DRAW
+
+
+$VOICE,v\RCZ0015.ogg,0,100
+ÅyLycorisÅz
+"Sorry to keep you waiting, Aoi!"
+
+Lycoris comes bursting out of the shrubbery into our prearranged meeting place.
+
+$L_MONT,2,,350,0,0,M,AO20S1204
+$DRAW_EX,1,,300,0
+$A_CHR,114,2,250,0,500,1
+$A_CHR,02,2,2,5,250
+
+$VOICE,v\AOZ0027.ogg,0,100
+ÅyAoiÅz
+"I was so bored I was about to fall asleep!"
+
+$L_MONT,3,,-200,0,0,M,RC30S1203
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0016.ogg,0,100
+ÅyLycorisÅz
+"It is unfortunate you did not. I was planning to leave you as food and make my escape."
+
+$L_MONT,2,,250,0,0,M,AO20S1322
+$DRAW_EX,1,,300,0
+$A_CHR,01,2,1,10,300
+
+$VOICE,v\AOZ0028.ogg,0,100
+ÅyAoiÅz
+"Hey...you're not serious, right?"
+
+$L_MONT,3,,-200,0,0,M,RC30S1302
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0017.ogg,0,100
+ÅyLycorisÅz
+"Who knows?"
+
+$L_BG,b\bgblack.s25,0,0,0
+$EX,PPFGBLUR,11,11
+$L_CHR,1,b\bg30_03d.s25,0,100,0
+$L_MONT,2,,0,0,0,M,AO20L1105
+$DRAW_EX,1,,300,0
+$A_CHR,114,1,0,-150,300,1
+
+I lower my stance, feeling a slight twinge of unease at my partner's straight-faced and really not amusing response.
+
+
+;Å@Å¶Å¶Å¶Å@ÇrÇdÅFñŒÇ›Çï™ÇØÇÈâπÅuÉKÉTÉKÉTÉbÅIÅv
+
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,2,c\rule01.s25,500,1
+$SE,se\SE_A096.ogg,0,0
+$L_CHR,1,b\bg24_03.s25,0,0,0
+$DRAW_EX,2,c\rule01.s25,500,1
+
+$VOICE,v\MSH0001.ogg,0,100
+ÅyVampireÅz
+"GYEEEEEEEEEEEEEEEEEEEEEEEE!!!"
+
+$FACE,,M,RC30F1106
+
+$VOICE,v\RCZ0018.ogg,0,100
+ÅyLycorisÅz
+"It's here, Aoi!"
+
+$FACE,,M,AO20F1120
+
+$VOICE,v\AOZ0029.ogg,0,100
+ÅyAoiÅz
+"I know!!"
+
+$FACE
+
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,47,c\rule09.s25,300,1
+$L_BG,b\bg30_03.s25,0,0,0
+$L_CHR,8,e\emo.s25,0,0,0
+$DRAW_EX,47,c\rule09.s25,300,1
+
+With a screeching sound like nails raking across metal, a black shape comes bursting from the undergrowth, and I leap.
+
+$EMOTION,8,èWíÜ
+$SE,se\SE_K002.ogg,0,0
+$L_CHR,2,es\evb01d_0000-1-1-1-1.s25,-160,300,0
+$A_CHR,128,2,0,270,300,1
+$A_CHR,06,2,0,5,300
+
+$VOICE,v\AOZ0030.ogg,0,100
+ÅyAoiÅz
+"Gyaaaaah, eat your guts back in the land of the dead, foul beast!"
+
+;Å@Å¶Å¶Å¶Å@Å™Å™Å™Å@ì«Ç›Åuí∞ãÚÇ¡ÇƒÇÎÅvÅÅÇÕÇÁÇÌÇΩÅ@Ç≠Ç¡ÇƒÇÎ
+
+$A_CHR,50,2,640,360,120,300,1
+$A_CHR,114,2,-100,270,300,1
+$DRAW
+$WAITA
+$WAIT, 300
+
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,1,ef\effect8.s25,0,0,0
+$L_CHR,7,e\emo.s25,0,0,0
+$L_CHR,8,e\emo.s25,0,0,0
+$DRAW_EX,1,,300,0
+$SE,se\SE_I051.ogg,0,0
+$EMOTION,7,ëoãÛ2
+$DRAW
+$WAIT, 100
+$SE,se\SE_I053.ogg,0,1
+$WAIT, 200
+$SE,se\SE_I012.ogg,0,2
+$EMOTION,8,ëoãÛ4
+$DRAW
+$WAIT, 200
+$SE,se\SE_I050.ogg,0,0
+$WAIT, 300
+
+$SE,se\SE_I011.ogg,0,1
+$EMOTION,8,ëoòAA
+$DRAW
+$WAITA
+$SE,se\SE_I075.ogg,0,2
+
+$L_BG,b\bgred.s25,0,0,0
+$DRAW_EX,1,,300,0
+$SE,se\SE_I070.ogg,0,0
+
+;Å@Å¶Å¶Å¶Å@Åiñ{ï“Ç…Ç†Ç¡ÇΩÅAêÌì¨íÜÇÃÅuÉJÉLÅ[ÉìÅIÅvÅuÉoÉVÉÖÅ[ÅIÅvìôÇÃà≈ÇÃíÜÇ…ëñÇÈçUåÇÇÃëMåıââèoÅBÇQâÒÇ≠ÇÁÇ¢ÅHÅj
+
+;Å@Å¶Å¶Å¶Å@ÇrÇdÅFà®ïêäÌÅAçUåÇÇµÇƒì˜ÇêÿÇÈâπ
+
+$VOICE,v\MSH0002.ogg,0,100
+ÅyVampireÅz
+"GEEEYYAAAaaAAAAaaaAAAahhhh!"
+
+$MUSIC_FADE
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,1,b\bg30_03d.s25,200,-250,0
+$L_CHR,2,b\tr2.s25,0,0,0
+$DRAW_EX,1,,300,0
+$SE,se\SE_I080.ogg,0,0
+$A_CHR,128,1,400,-250,600,1
+$A_CHR,02,1,2,10,300
+
+With its head now gone, the torso crumples motionless down into the vegetation with a thump.
+
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,0,,1000,1
+$L_BG,b\bg30_03.s25,0,0,0
+$DRAW_EX,0,,1000,1
+
+$L_MONT,2,,150,300,0,M,AO20M1308
+$A_CHR,128,2,150,0,1000,1
+$A_CHR,151,2,500,1
+$DRAW
+
+$VOICE,v\AOZ0031.ogg,0,100
+ÅyAoiÅz
+"Haa, haa...! It's finally dead. Geez, why are these vampire fuckers so stubborn?!"
+
+$L_MONT,2,,150,0,0,M,AO20M1209
+$DRAW_EX,1,,300,0
+$SE,se\SE_I085.ogg,0,0
+$A_CHR,02,2,2,10,300
+
+I give the head lying on the ground a nudge with the tip of my toe and brush my sticky bangs back from my forehead.
+
+$L_MONT,2,,150,0,0,M,AO20M1120
+
+Even after sustaining injuries that would have easily killed a human, the vampire had still bared its shining fangs.
+
+Creatures of the night that prey upon humanity, they have lost all sense of reason but gained immense physical power.
+
+They have no thought or morality in their principles of conduct.
+
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,5,b\tr.s25,0,0,0
+$DRAW_EX,0,,500,1
+$MUSIC,m\bgm07.ogg,1
+$L_CHR,1,b\bg30_03d.s25,500,0,0
+$A_CHR,114,1,-500,0,120000,1
+$DRAW
+
+...Sometimes for food.
+
+...Sometimes on impulse.
+
+...Sometimes simply to kill time.
+
+They hunt, devour, torment, kill humans. The hideous existence known as a vampire.
+
+However, the face on the creature's head, which my nudge has sent rolling like a ball, still retains strong traces of humanity.
+
+$VOICE,v\AOZ0032.ogg,0,100
+ÅyAoiÅz
+(You might as well make their face that of a monster too...!)
+
+
+When there are still traces from when they were human, it makes me feel bad after I've killed them.
+
+It's not out of guilt for taking a vampire life that was once human.
+
+It's disappointment and regret aimed at myself for being too weak to stop people falling to the vampires in the first place.
+
+;Å@Å¶Å¶Å¶Å@ÇrÇdÅFï‡Ç›äÒÇÈë´âπ
+
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,1,b\bg30_03.s25,0,0,0
+$DRAW_EX,1,,300,0
+
+$SE,se\SE_C003t1.ogg,0,0
+
+$L_MONT,2,,150,0,0,M,RC30S0104
+$A_CHR,114,1,-50,0,500,1
+$A_CHR,114,2,200,0,500,1
+$A_CHR,151,2,500,1
+
+$DRAW
+
+$VOICE,v\RCZ0019.ogg,0,100
+ÅyLycorisÅz
+"......"
+
+$L_MONT,2,,200,0,0,M,RC30S0112
+$DRAW_EX,1,,300,0
+$A_CHR,128,2,200,400,500,1
+$L_DELAY,1,T,500
+$SE,se\SE_I041.ogg,0,0
+$L_DELAY,1,E
+
+Lycoris slips past me and goes up to the fallen head then, without any hesitation, picks it up.
+
+$EX,PPFGBLUR,11,11
+$L_BG,b\bg30_03d.s25,0,0,0
+$DRAW_EX,0,,300,0
+$L_MONT,2,,0,400,0,M,RC30L0102
+$A_CHR,114,2,0,0,600,1
+$A_CHR,151,2,300,1
+$DRAW
+
+$FACE,,M,AO20F0124
+
+$VOICE,v\AOZ0033.ogg,0,100
+ÅyAoiÅz
+"Lycoris? Hey, what are you doing?! It's our duty to report back to the Rubina without interfering with the scene!"
+
+$FACE
+
+The Rubina is a special organization whose calling is the extermination of vampires.
+
+Eliminating vampires requires specialist knowledge and weaponry. Also indispensable are the agents who use those tools and risk their lives to fight.
+
+This unique organization gathers daily reports on incidents relating to vampires worldwide. Our fate is to fight and to die at the instruction of the Rubina.
+
+The Rubina's orders are absolute. We must not doubt them.
+
+$L_MONT,2,,0,0,0,M,RC30L0103
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0020.ogg,0,100
+ÅyLycorisÅz
+"I'm cleaning it just after we've defeated it, so there should be no problem."
+
+$A_CHR,06,2,2,20,1000
+
+Lycoris responds in her usual unreadable tone, then sets the severed head on a stone and uses the hem of her skirt to wipe the dirt from its visage.
+
+$FACE,,M,AO20F0112
+
+$VOICE,v\AOZ0034.ogg,0,100
+ÅyAoiÅz
+"Do whatever you like, but I'm not defending you when you get told off."
+
+$FACE
+$L_MONT,2,,0,0,0,M,RC30L0104
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0021.ogg,0,100
+ÅyLycorisÅz
+"......"
+
+$A_CHR,06,2,3,20,800,0
+$SE,se\SE_B003.ogg,0,0
+
+She can definitely hear my rebuke, but Lycoris ignores it and continues wiping off the dirt in silence.
+
+$VOICE,v\AOZ0035.ogg,0,100
+ÅyAoiÅz
+(I seriously have no idea what she's thinking...)
+
+Just moments ago, this vampire had been trying to kill us.
+
+$A_CHR,05,2,3,20,800
+$SE,se\SE_B104.ogg,0,0
+
+
+Why is Lycoris acting like she's mourning for this monster that has devoured a total of 146 people over 32 separate incidents...?
+
+Lycoris, who is habitually silent and does not speak to anyone, is somewhat of an oddball even in the Rubina.
+
+$A_CHR,06,2,3,20,800
+$SE,se\SE_B003.ogg,0,0
+
+Because of that, although it's an ironclad rule that we operate in pairs, she still hasn't been assigned a specific partner.
+
+
+$MUSIC_FADE
+$SE_FADE,1000,0
+
+$VOICE,v\AOZ0036.ogg,0,100
+ÅyAoiÅz
+(I don't know what she's thinking, but...)
+
+$MUSIC,m\bgm03.ogg,1
+$EX,PPFGBLUR,11,11
+$L_BG,b\bg30_03d.s25,0,-500,0
+$L_MONT,2,,0,0,0,M,AO20L0320
+$DRAW_EX,1,,300,0
+$A_CHR,02,2,2,10,300
+
+$VOICE,v\AOZ0037.ogg,0,100
+ÅyAoiÅz
+"Tsk, you're hopeless! Look, if you use your dirty clothes you're just spreading the dirt around!"
+
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,2,c\rule01.s25,500,1
+$L_CHR,1,b\bg30_03.s25,0,0,0
+$L_MONT,2,,-200,0,0,M,RC30S0105
+$DRAW_EX,2,c\rule01.s25,500,1
+
+$L_MONT,3,,300,0,0,M,AO20S0207
+$A_CHR,114,3,250,0,300,1
+$DRAW
+
+I pull out a handkerchief from my pocket and thrust it in front of her.
+
+$L_MONT,2,,-200,0,0,M,RC30S0315
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0022.ogg,0,100
+ÅyLycorisÅz
+"Huh? ...A handkerchief? Aoi?"
+
+She hesitates, looking stupidly down at the handkerchief I've forced into her hand as though she really has no clue what's going on.
+
+$L_MONT,2,,-200,0,0,M,RC30S0313
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0023.ogg,0,100
+ÅyLycorisÅz
+"Is it okay for me to use it? It'll get dirty."
+
+$L_MONT,3,,250,0,0,M,AO20S0201
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0038.ogg,0,100
+ÅyAoiÅz
+"It's fine, I got it cheap! It's a bit worn, but it'll be better than using your skirt."
+
+$L_MONT,2,,-200,0,0,M,RC30S0311
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0024.ogg,0,100
+ÅyLycorisÅz
+"......"
+
+As she stares unmoving at the handkerchief, I start to fidget, feeling a sense of embarrassment quite unlike me.
+
+$L_MONT,3,,250,0,0,M,AO20S0319
+$DRAW_EX,1,,300,0
+$A_CHR,114,3,150,0,300,1
+$A_CHR,02,3,1,10,300
+
+$VOICE,v\AOZ0039.ogg,0,100
+ÅyAoiÅz
+"H-hurry up and get it over with! There's a TV show I want to get home and watch!"
+
+$L_MONT,2,,-200,0,0,M,RC30S0115
+$DRAW_EX,0,,300,0
+
+It's a lie I've come up with on the spot because I want to break this strange mood quickly, but...I'm kind of annoyed at myself for not thinking to say I have a date or something.
+
+$L_MONT,2,,-200,0,0,M,RC30S0112
+$DRAW_EX,0,,300,0
+
+$A_CHR,02,2,1,10,500
+
+$VOICE,v\RCZ0025.ogg,0,100
+ÅyLycorisÅz
+"...I'll wash it then give it back."
+
+$L_MONT,3,,150,0,0,M,AO20S0102
+$DRAW_EX,1,,300,0
+
+$A_CHR,128,3,300,0,500,1
+$A_CHR,02,3,2,10,250
+
+$VOICE,v\AOZ0040.ogg,0,100
+ÅyAoiÅz
+"No, you don't need to! In fact I don't want that dirty rag back at all! Ew!"
+
+$L_MONT,2,,-200,0,0,M,RC30S0301
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0026.ogg,0,100
+ÅyLycorisÅz
+"Don't worry. I have some super strength stain remover. I'll give it back as good as new."
+
+$L_MONT,3,,300,0,0,M,AO20S0121
+$DRAW_EX,1,,300,0
+$A_CHR,02,3,2,10,300
+
+$VOICE,v\AOZ0041.ogg,0,100
+ÅyAoiÅz
+"That's not what I meant! I'm saying that, even if you get the stains out of the cloth, it'll still be a blot on my mind!"
+
+$L_MONT,3,,300,0,0,M,AO20S0110
+$DRAW_EX,0,,300,0
+
+$L_DELAY,3,T,2000
+$L_MONT,3,,300,0,0,M,AO20S0416
+$L_DELAY,3,T,8000
+$L_MONT,3,,300,0,0,M,AO20S0227
+$L_DELAY,3,T,10000
+$L_MONT,3,,300,0,0,M,AO20S0226
+$A_CHR,02,3,2,10,300
+$L_DELAY,3,E
+
+$VOICE,v\AOZ0042.ogg,0,100
+ÅyAoiÅz
+"Every time I use it, I'll remember that this is the handkerchief that was covered in the blood of that vampire with its guts hanging out! Wouldn't that be terrible for me?!"
+
+;Å@Å¶Å¶Å¶Å@Å™Å™Å™Å@ì«Ç›Åuí∞ÅvÅÅÇÕÇÁÇÌÇΩ
+
+I blurt it all out in one breath.
+
+$L_MONT,2,,-200,0,0,M,RC30S0204
+$DRAW_EX,0,,300,0
+$A_CHR,02,2,2,10,300
+
+Indifferent to my slight dizziness from lack of oxygen, Lycoris' eyes widen and she claps her hands together with a noise of deep admiration.
+
+$L_MONT,3,,300,0,0,M,AO20S0322
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0043.ogg,0,100
+ÅyAoiÅz
+(I can't take any more of her... Whenever I'm with her I start feeling out of sorts.)
+
+If I had a hole, I'd bury Lycoris alive in it with that vampire and leave her for dead.
+
+With that dangerous thought in mind, I cast my eyes over the area, but alas there is no such convenient hole.
+
+Once this mission is over I probably won't be paired with Lycoris again for a while...so!
+
+Giving up on the burying her in a hole plan, I decide to replace it with a scheme to get away from her before she drives me any crazier.
+
+$L_MONT,3,,300,0,0,M,AO20S0119
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0044.ogg,0,100
+ÅyAoiÅz
+(Cleaning up a severed head, or whatever she wants to do...I'll just go along with it and finish this up ASAP! That's the best thing to do!)
+
+This is the benefit and strength of our temporary scratch team.
+
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,2,c\rule01.s25,500,1
+$EX,PPFGBLUR,11,11
+$L_BG,b\bg30_03.s25,0,0,0
+$L_MONT,2,,0,0,0,M,AO20L0121
+$DRAW_EX,2,c\rule01.s25,500,1
+
+$VOICE,v\AOZ0045.ogg,0,100
+ÅyAoiÅz
+"Give me that! If you're not going to clean it, I will!"
+
+$L_MONT,2,,0,0,0,M,AO20L0120
+
+I snatch the handkerchief from her hand then set about vigorously wiping down the vampire's face.
+
+$SE,se\SE_D013.ogg,0,0
+$L_MONT,2,,0,0,0,M,AO20L0314
+$DRAW_EX,1,,300,0
+$A_CHR,01,2,1,10,300
+
+$VOICE,v\AOZ0046.ogg,0,100
+ÅyAoiÅz
+"Eww...! Its skin is all stretchy like a condom! And it smells like rotten worms or something! So gross!"
+
+$FACE,,M,RC30F0304
+
+$VOICE,v\RCZ0027.ogg,0,100
+ÅyLycorisÅz
+"......"
+
+$FACE
+
+$L_MONT,2,,0,0,0,M,AO20L0227
+$DRAW_EX,1,,300,0
+$A_CHR,06,2,0,10,300
+$MUSIC_VOL,50,5000
+$L_CHR,5,b\bgblack.s25,0,0,0
+$A_CHR,151,5,5000,1
+$DRAW
+
+Lycoris watches as I violently scrub at the creature's face, letting loose all my ill will onto it, until...
+
+
+Partway through, she joins me in my cleaning.
+
+;Å@Å¶Å¶Å¶Å@éûä‘åoâﬂââèo
+$L_BG,b\bg30_03.s25,0,0,0
+$DRAW_EX,0,,1000,1
+$MUSIC_VOL,100,2000
+
+$L_MONT,2,,250,0,0,M,AO20S0103
+$L_MONT,3,,-200,0,0,M,RC30S0202
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0047.ogg,0,100
+ÅyAoiÅz
+"Alright! It's pretty clean now, isn't it? What do you think?!"
+
+$VOICE,v\RCZ0028.ogg,0,100
+ÅyLycorisÅz
+"...Yeah."
+
+Lycoris nods slightly, then offers up a short prayer.
+
+$L_MONT,3,,-200,50,0,M,RC30A1101
+$A_CHR,50,3,640,360,65,0,1
+$DRAW_EX,0,,300,0
+
+Then...she puts her finger to the trigger of her beloved Benevolence.
+
+$MUSIC
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,1,ef\effect7.s25,0,0,0
+$DRAW_EX,1,,300,0
+$L_MONT,2,,-100,0,0,M,RC30C1101
+$A_CHR,128,2,0,0,300,1
+$A_CHR,151,2,300,1
+$DRAW
+
+$WAIT, 300
+
+$SE,se\SE_J001.ogg,0,0
+$L_MONT,2,,0,0,0,M,RC30C1200
+$DRAW_EX,1,,300,0
+$WAIT, 100
+$L_MONT,2,,0,0,0,M,RC30C1100
+$DRAW_EX,1,,300,0
+$WAIT, 100
+$SE,se\SE_J001.ogg,0,0
+$L_MONT,2,,0,0,0,M,RC30C1200
+$DRAW_EX,1,,300,0
+$WAIT, 100
+$L_MONT,2,,0,0,0,M,RC30C1100
+$DRAW_EX,1,,300,0
+$WAIT, 100
+$SE,se\SE_J001.ogg,0,0
+$L_MONT,2,,0,0,0,M,RC30C1200
+$DRAW_EX,1,,300,0
+$WAIT, 100
+$L_MONT,2,,0,0,0,M,RC30C1300
+$DRAW_EX,0,,300,0
+
+$WAIT, 300
+
+$EX,PPFGBLUR,11,11
+$L_BG,b\bg30_03d.s25,0,0,0
+$L_MONT,2,,0,0,0,M,AO20L0228
+$DRAW_EX,11,,1000,1
+
+
+
+$MUSIC,m\bgm09.ogg,1
+
+$VOICE,v\AOZ0048.ogg,0,100
+ÅyAoiÅz
+"Aaaaaah?! W-what the heck are you doing?!"
+
+This time it's my turn to look at her with wide eyes at her completely unexpected, eccentric behavior.
+
+$L_BG,b\bg30_03.s25,0,0,0
+$L_MONT,2,,250,0,0,M,AO20S0121
+$L_MONT,3,,-200,50,0,M,RC30A1602
+$A_CHR,50,3,640,360,65,0,1
+$DRAW_EX,0,,1000,1
+
+$VOICE,v\AOZ0049.ogg,0,100
+ÅyAoiÅz
+"You've gone and messed its face up after we just got it all clean?!"
+
+The severed head sitting atop the rock sustains a rain of her special silver bullets and explodes into mush like a tomato.
+
+$L_MONT,2,,250,0,0,M,AO20S0308
+$L_MONT,3,,-200,0,0,M,RC30S1306
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0029.ogg,0,100
+ÅyLycorisÅz
+"I said the prayer. We didn't need it anymore."
+
+$L_MONT,2,,250,0,0,M,AO20S0209
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0050.ogg,0,100
+ÅyAoiÅz
+"I don't understand what you're saying..."
+
+If she was just going to smash it up, there was no need to work so hard to clean it up in the first place. It was a complete waste of effort!
+
+$L_MONT,3,,-200,0,0,M,RC30S1210
+$DRAW_EX,1,,300,0
+$A_CHR,114,3,-300,0,800,1
+$A_CHR,05,3,2,10,400
+
+$VOICE,v\RCZ0030.ogg,0,100
+ÅyLycorisÅz
+"...Even if I explained, you would not understand."
+
+She glances at me out of the corner of her eye then turns away and sticks her nose in the air.
+
+$L_MONT,2,,250,0,0,M,AO20S0307
+$DRAW_EX,1,,300,0
+$A_CHR,128,2,150,0,400,1
+$A_CHR,05,2,2,10,200
+
+$VOICE,v\AOZ0051.ogg,0,100
+ÅyAoiÅz
+"Hey, you! Is that really something you say to the buddy who fought alongside you...!"
+
+I stop, holding back the rest of my reproachful words.
+
+$L_MONT,2,,150,0,0,M,AO20S0312
+
+$VOICE,v\AOZ0052.ogg,0,100
+ÅyAoiÅz
+(Right. It's not like Lycoris and I are paired together...)
+
+We were teamed up just for this mission. Just what was I expecting from a temporary partner?
+
+Our team will be disbanded soon enough. I don't have any right to criticize Lycoris for her eccentricities. And for her part, Lycoris also has no obligation to explain everything to me.
+
+;;;$VOICE,v\AOZ0053.ogg,0,100
+;;;Åyà®Åz
+;;;ÅuÉ`ÉbÅIÅ@É`ÉbÅIÅ@É`ÉbÅIÅv
+
+;;;óùê´Ç≈óùïsêsÇ»ì{ÇËÇó}Ç¶çûÇÒÇ≈Ç›ÇΩÇ‡ÇÃÇÃÅAêSÇ©ÇÁòRÇÍÇΩä¥èÓÇ™ÅAòAë±ê„ë≈ÇøÇ∆ÇµÇƒï\ñ âªÇµÇƒÇµÇ‹Ç¡ÇΩÅB
+
+$MUSIC_FADE
+$L_MONT,2,,150,0,0,M,AO20S0326
+$DRAW_EX,1,,300,0
+$A_CHR,128,2,200,0,500,1
+$A_CHR,05,2,2,10,250
+$DRAW
+
+$VOICE,v\AOZ0054.ogg,0,100
+ÅyAoiÅz
+"Aaaargh, geez! I get it, you idiot! I won't pry anymore, idiot!"
+
+$MUSIC,m\bgm08.ogg,1
+$L_MONT,3,,-300,0,0,M,RC30S1209
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0031.ogg,0,100
+ÅyLycorisÅz
+"Did you need to say it twice? I have a higher IQ than you."
+
+$L_MONT,2,,200,0,0,M,AO20S0320
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0055.ogg,0,100
+ÅyAoiÅz
+"Yeah, yeah, whatever. Well I guess the ambush plan was your idea!"
+
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,5,b\tr2.s25,0,0,0
+$DRAW_EX,0,,1000,1
+$L_CHR,1,b\bg24_03d.s25,500,0,0
+$A_CHR,114,1,-500,0,120000,1
+$A_CHR,151,1,1000,1
+$DRAW
+$WAIT, 1000
+
+Although our opponent was a vampire, it was a low tier one. I'd been confident that we could beat it without resorting to cowardly tactics like an ambush if it came down to a fight.
+
+But the issue was those bat wings. They often cause problems when fighting vampires.
+
+Gravity...the force that humans, living on the earth, cannot escape the pull of.
+
+Because of gravity, we can't leave the ground. And so the majority of our attacks are land-based.
+
+However, while there are individual variations, among vampires in general are some rare creatures with bat wings. And they are an unparalleled nuisance.
+
+They especially appear among lower-tier vampires, in other words the more atavistic type, for what those creatures lack in intelligence they have a tendency to make up for in survival ability and aggression.
+
+No matter how experienced a vampire hunter you are, it is no easy feat to wage battle in the blind spot above your head.
+
+And so our plan to defeat it in this case had been to lure it into the forest where it wouldn't have the space to spread its wings, while one of us lie in wait to attack it there.
+
+Lycoris' plan is the reason I could execute this mission to its completion. I'm grateful for that...but...
+
+$FACE,,M,AO20F0119
+
+$VOICE,v\AOZ0056.ogg,0,100
+ÅyAoiÅz
+"Since I don't want to repay good with evil, in my report I'll put this weirdness down to the effects of the battle!"
+
+$FACE,,M,AO20F0120
+
+$VOICE,v\AOZ0057.ogg,0,100
+ÅyAoiÅz
+"I'm doing you a favor! So be grateful for it!"
+
+$FACE,,M,RC30F0110
+
+$VOICE,v\RCZ0032.ogg,0,100
+ÅyLycorisÅz
+"You're ordering me to be grateful right after saying you're grateful to me...?"
+
+$FACE,,M,AO20F0104
+
+$VOICE,v\AOZ0058.ogg,0,100
+ÅyAoiÅz
+"I am grateful! Even if you do have a thing for messing around with corpses, it doesn't change the fact that I'm going home alive because of you! Thank you!"
+
+$FACE
+
+I thrust my finger violently at her as I make my declaration.
+
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,2,c\rule09.s25,500,1
+$L_BG,b\bg30_03.s25,0,0,0
+$L_MONT,2,,250,0,0,M,AO20M0208
+$L_MONT,3,,-250,0,0,M,RC30M0210
+$DRAW_EX,2,c\rule09.s25,500,1
+
+
+
+$VOICE,v\AOZ0059.ogg,0,100
+ÅyAoiÅz
+"But! That is that, and this is this! You slutty smear of smelly vaginal smegma, you're covered in severed head gunk! You'll never find a husband!"
+
+
+$L_MONT,3,,-250,0,0,M,RC30M0210
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0033.ogg,0,100
+ÅyLycorisÅz
+"Hmm. It's quite refreshing to be insulted straight to my face. Very interesting."
+
+Lycoris puts a hand to her chin with a look of deep admiration.
+
+$L_MONT,2,,250,0,0,M,AO20M0209
+$DRAW_EX,0,,300,0
+
+$L_DELAY,2,T,8000
+$L_MONT,2,,250,0,0,M,AO20M0319
+$L_DELAY,2,E
+
+$VOICE,v\AOZ0060.ogg,0,100
+ÅyAoiÅz
+"I don't like gossiping behind people's backs! Besides, I'm not shrewd enough to be able to pretend to be friends just on the surface. Hmph!"
+
+I bluff hard, sticking my chest out as far as I can in an effort to act cocky.
+
+$L_MONT,2,,250,0,0,M,AO20M0320
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0061.ogg,0,100
+ÅyAoiÅz
+"Okay?! You'll never get yourself a buddy until you fix that secretiveness of yours!"
+
+$L_MONT,3,,-250,0,0,M,RC30M0206
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0034.ogg,0,100
+ÅyLycorisÅz
+"...Then maybe I'm fine with how things are. It's easier by myself."
+
+$EX,PPFGBLUR,11,11
+$L_BG,b\bg30_03d.s25,0,0,0
+$L_MONT,2,,0,0,0,M,AO20L0221
+$DRAW_EX,1,,300,0
+
+$VOICE,v\AOZ0062.ogg,0,100
+ÅyAoiÅz
+"It. is. not. fine. for. me!"
+
+$L_BG,b\bg30_03.s25,0,0,0
+$L_MONT,2,,250,0,0,M,AO20M0111
+$L_MONT,3,,-250,0,0,M,RC30M0105
+$DRAW_EX,0,,300,0
+
+I yell at Lycoris, who is despairing...no, already completely accepting of her isolation.
+
+$L_MONT,2,,250,0,0,M,AO20M0210
+$L_MONT,3,,-250,0,0,M,RC30M0104
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0063.ogg,0,100
+ÅyAoiÅz
+"It's because you're like this that I get stuck with accompanying you on YOUR missions!"
+
+Although a large part of why I get paired with Lycoris so often is because I don't have an assigned buddy either, but I don't have any intention of going out of my way to tell her that!
+
+$L_MONT,2,,250,0,0,M,AO20M0226
+$DRAW_EX,1,,300,0
+
+$L_DELAY,2,T,1500
+$A_CHR,02,2,2,10,300
+$L_DELAY,2,E
+
+$VOICE,v\AOZ0064.ogg,0,100
+ÅyAoiÅz
+"Learn some social skills!"
+
+$MUSIC_FADE
+$SE,se\SE_H034a.ogg,1,0,50
+
+$L_MONT,2,,250,0,0,M,AO20M0306
+$L_MONT,3,,-250,0,0,M,RC30M0110
+$DRAW_EX,1,,300,0
+
+$L_CHR,5,b\bg24_03d.s25,0,-250,0
+$A_CHR,114,5,0,250,120000,1
+$A_CHR,151,5,2000,1
+$DRAW
+
+Just as I make that blunt retort, there's the sound of a helicopter from overhead. The familiar crest of the Rubina adorns its door.
+
+$FACE,,M,AO20F0124
+
+$VOICE,v\AOZ0065.ogg,0,100
+ÅyAoiÅz
+"Huh, is that the Rubina coming to pick us up?! Isn't it a bit soon?! I hadn't even contacted them yet!"
+
+$FACE,,M,RC30F0106
+
+$L_CHR,1,b\bg30_03.s25,0,0,0
+$L_MONT,2,,250,0,0,M,AO20M0306
+$L_MONT,3,,-250,0,0,M,RC30M0106
+
+$VOICE,v\RCZ0035.ogg,0,100
+ÅyLycorisÅz
+"I contacted them earlier. Since it is standard procedure for retrieval to let them know as soon as the mission is finished..."
+
+$FACE
+$A_CHR,150,5,1000,1
+$DRAW
+$SE,se\SE_H034a.ogg,1,0,80
+
+$L_DELAY,3,T,1000
+$A_CHR,114,3,-300,0,500,1
+$A_CHR,150,3,500,1
+$L_DELAY,3,E
+
+Retrieval of course means collecting us. At the same time, the Rubina also take away the vampire's remains to hand over to their researchers.
+
+$L_MONT,2,,250,0,0,M,AO20M0112
+
+The Rubina researchers dissect the dead bodies, and sometimes still living ones, and utilize the knowledge gleaned from them in creating weapons to defeat vampires.
+
+$L_MONT,2,,250,0,0,M,AO20M0111
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0066.ogg,0,100
+ÅyAoiÅz
+(To think that these loathsome creatures help keep us alive...how ironic.)
+
+$L_MONT,2,,250,0,0,M,AO20M0110
+$DRAW_EX,1,,300,0
+$A_CHR,114,1,-50,0,500,1
+$A_CHR,114,2,0,0,500,1
+$DRAW
+
+$VOICE,v\AOZ0067.ogg,0,100
+ÅyAoiÅz
+"Ironic...huh..."
+
+$SE,se\SE_H034a.ogg,1,0,100
+
+Her perfect plan to subdue the vampire, her contact to the Rubina. Lycoris had dispassionately carried out the mission without once seeking my opinion.
+
+And not just this time, but in every battle we've fought together up to now. Not once have my decisions factored into it...
+
+I'm nothing but a footnote, there to fulfill the role assigned to me.
+
+$L_MONT,2,,0,0,0,M,AO20M0122
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0068.ogg,0,100
+ÅyAoiÅz
+"...I guess I'm really not of any use to you."
+
+$SE_FADE,8000,0
+$L_CHR,4,b\bgblack.s25,0,0,0
+$A_CHR,151,4,8000,1
+$DRAW
+
+And to think that just a moment ago my completely useless self had been berating Lycoris...nothing could be more ironic than that.
+
+Whether fortunately or unfortunately, my muttered self-tormenting words are lost in the roar of the helicopter's propellers and don't reach Lycoris' ears...
+
+$SE_FADE,1000,0
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,0,,1000,1
+
+$MOVIE,mv\eye_ao1.mpg,0,0
+
+$WAIT, 500
+
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,5,b\tr2.s25,0,0,0
+$DRAW_EX,1,,500,0
+
+$SE,se\SE_A053.ogg,1,0
+
+$L_CHR,1,b\bg32_01d.s25,500,-200,0
+$A_CHR,114,1,-500,-200,120000,1
+$A_CHR,151,1,1000,1
+$DRAW
+
+$WAIT, 1000
+
+;Å@Å¶Å¶Å¶Å@ì˙ïtïœçXââèo
+
+;Å@Å¶Å¶Å¶Å@îwåiÅFñÇñ@è≠èóbg0501ÅiêHì∞Åj
+
+;Å@Å¶Å¶Å¶Å@ÇrÇdÅFêHì∞ÇÃêlÇÃê∫ÅBÇ¥ÇÌÇ¥ÇÌ
+$MUSIC,m\bgm02.ogg,1
+
+When I arrive at the canteen I'm surprised to find more people than I would have expected, in spite of it being our day off.
+
+As recompense for us putting our lives on the line, the Rubina provides us with food, lodging, and all other necessities of life.
+
+$SE_FADE,2000,0
+
+A large part of why former members of the Rubina find themselves unable to live outside of the organization is down to these blessings.
+
+$FACE,,M,AO20F0126
+
+$VOICE,v\AOZ0069.ogg,0,100
+ÅyAoiÅz
+"Om...nom...nom...nom...mmm?! *Cough* *splutter*! Buwah!"
+
+$FACE
+
+I take a bite of a cold fry, but it sticks in my throat and I hastily gulp down some water.
+
+$EX,PPFGBLUR,11,11
+$L_BG,b\bg32_01d.s25,0,0,0
+$L_MONT,2,,0,0,0,M,AO20L0114
+$DRAW_EX,2,c\rule09.s25,500,1
+
+$VOICE,v\AOZ0070.ogg,0,100
+ÅyAoiÅz
+"Ugh...why do cold fries get so dry?!"
+
+$L_MONT,2,,0,0,0,M,AO20L0110
+
+Well, it's probably my own fault for being lost in thought.
+
+Of course, the topic that had caused me to get so lost in thought that I forgot to eat my fries was Lycoris.
+
+$L_MONT,2,,0,0,0,M,AO20L0109
+
+$VOICE,v\AOZ0071.ogg,0,100
+ÅyAoiÅz
+(Why did she do that back then?)
+
+Wiping the dirt from the face of the vampire she should loathe, then shooting it into minced meat.
+
+$MUSIC_VOL,50,1000
+$L_BG,b\bgwhite.s25,0,0,0
+$DRAW_EX,2,c\rule14.s25,1000,1
+$L_BG,b\bg30_03.s25,0,0,0
+$L_CHR,5,b\wk.s25,0,0,0
+$L_MONT,3,,0,0,0,M,RC30M0306
+$DRAW_EX,0,,1000,1
+
+$VOICE,v\RCZ0036.ogg,0,100
+ÅyLycorisÅz
+'I said the prayer. We didn't need it anymore.'
+
+;Å@Å¶Å¶Å¶Å@Å™Å™Å™Å@âÒëzÉ{ÉCÉXÉGÉtÉFÉNÉg
+
+$L_BG,b\bgwhite.s25,0,0,0
+$DRAW_EX,2,c\rule15.s25,1000,1
+$EX,PPFGBLUR,11,11
+$MUSIC_VOL,100,1000
+$L_BG,b\bg32_01.s25,0,0,0
+$L_MONT,2,,0,0,0,M,AO20L0112
+$DRAW_EX,0,,1000,1
+
+$VOICE,v\AOZ0072.ogg,0,100
+ÅyAoiÅz
+(Was wiping the dirt away for the purpose of offering up the prayer? But for what reason?)
+
+No matter how hard I think about it, I can't find a reason for making that much effort.
+
+$L_MONT,2,,0,0,0,M,AO20L0127
+$DRAW_EX,1,,300,0
+
+$A_CHR,128,2,0,400,2000,1
+
+$VOICE,v\AOZ0073.ogg,0,100
+ÅyAoiÅz
+"Uuuuugh...I don't get it..."
+
+$MUSIC_FADE
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,1,e\emo.s25,0,0,0
+$L_CHR,5,b\bgblack.s25,0,0,0
+$DRAW_EX,0,,300,0
+
+I don't think she'd been like this when we were kids. Lycoris had been more expressive and emotional, and had been like a reliable older sister to me.
+
+I'd been taken in by the Rubina after my parents were killed by vampires and I had no other relatives to go to.
+
+It had taken about a week for the various procedures to be finalized, and during that time the Radiatas, a married couple belonging to the Rubina, had looked after me. That was Lycoris' family.
+
+The Radiatas are a family who gives birth to progeny that have the rare ability to communicate with God, and they are revered as elite even among the Rubina.
+
+With the love of her proud parents, at the time Lycoris was an always-optimistic girl who did her utmost to live up to the high expectations of those around her.
+
+$VOICE,v\AOZ0074.ogg,0,100
+ÅyAoiÅz
+(Lycoris changed ever since that incident...)
+
+$MUSIC,m\bgm18.ogg,1
+;ÉGÉÇââèo
+$EMOTION,1,ÉmÉCÉYÇP
+$A_CHR,150,5,5000,1
+
+It was one year after I had joined the Rubina...
+
+Lycoris' parents were killed in the line of duty, while battling a vampire.
+
+As soon as the tragic news was received, Lycoris was taken in by an orphanage that existed to raise orphaned children of Rubina agents.
+
+The next time we saw one another was a year later. However...
+
+The Lycoris who came out of the orphanage was not the Lycoris I had known when she went in.
+
+Devoid of emotion, her eyes lifeless, she had passed right by me as I went rushing up to her...she didn't spare me even a glance.
+
+Her stubborn attitude, trusting no one, letting no one get close, made her isolated and kept at a distance in an organization that enforced group activity...and in the end they stopped trying to partner her with anyone.
+
+$VOICE,v\AOZ0075.ogg,0,100
+ÅyAoiÅz
+(After that, I tried my best to engage her in my own way, but...)
+
+She never really saw me.
+
+Many years passed. I gained experience in battle and was eventually told it was time for me to get a designated buddy and contribute further to the Rubina.
+
+;Å@Å¶Å¶Å¶Å@ñÇñ@è≠èóbg1401
+$STOPEMO,1
+$L_BG,b\bgwhite.s25,0,0,0
+$DRAW_EX,2,c\rule14.s25,1000,1
+$L_BG,b\bg33_01.s25,0,0,0
+$L_CHR,5,b\wk.s25,0,0,0
+$L_MONT,2,,0,0,0,M,AO20M0116
+$DRAW_EX,0,,1000,1
+
+;Å@Å¶Å¶Å¶Å@Å´Å´Å´Å@âÒëz
+
+$VOICE,v\AOZ0076.ogg,0,100
+ÅyAoiÅz
+"Y-you want me to get a buddy?!"
+
+My shout reverberates around the room after being summoned to the HR office, which I rarely enter.
+
+The HR division is an important institution within the organization which deals with recruiting new fighters, deciding who is assigned to which mission, and so on.
+
+$VOICE,v\WOL0001.ogg,0,100
+ÅyMs. MillerÅz
+"Yes. While it is unusual for someone of your rank to have a buddy, we appreciate your recent exceptional performance and have high expectations for your future growth."
+
+$L_MONT,2,,0,0,0,M,AO20M0123
+
+Ms. Miller, the head of the Rubina's HR department, responds while adjusting the position of her glasses. The lenses, as thick as magnifying glasses, are so heavy they're always causing her glasses to slip down.
+
+
+$VOICE,v\WOL0002.ogg,0,100
+ÅyMs. MillerÅz
+"Is there anyone you would like to be partnered with? If not, then we can introduce someone who would be the best fit based on your fighting style."
+
+$L_MONT,2,,0,0,0,M,AO20M0318
+
+Your buddy is your important partner who you entrust your life to, and vice versa.
+
+You understand, leverage, and offset one another's skills. And that is connected to survival rate. Being assigned a mission paired with a buddy is actually something to be extremely thankful for.
+
+$L_MONT,2,,0,0,0,M,AO20M0319
+
+Therefore, the partner you are to be paired with is selected with great care, and if both parties are not fully on board, the partnership won't be established.
+
+$L_MONT,2,,0,0,0,M,AO20M0113
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0077.ogg,0,100
+ÅyAoiÅz
+"Oh, um. Then...Lycoris Radiata."
+
+Lycoris' name comes naturally out of my mouth. For some reason I couldn't think of anyone else.
+
+
+$VOICE,v\WOL0003.ogg,0,100
+ÅyMs. MillerÅz
+"Lycoris Radiata? Hmm...it's true that she is quite exceptional. Her personality, on the other hand, is...well, you know. Are you sure you wouldn't prefer someone else?"
+
+
+Ms. Miller frowns, her eyes narrowing.
+
+$L_MONT,2,,0,0,0,M,AO20M0112
+
+Lycoris had distinguished herself as soon as she was assigned to the Rubina, and had climbed the ladder to the point of being assigned a buddy exceptionally fast.
+
+Everyone had made a big deal about itÅ\they expected nothing less from the progeny of the Radiata family, after allÅ\and she had received a flood of applicants to be her buddy.
+
+But along with superior ability came increased rates of being sent on equally dangerous missions...
+
+Lycoris had already lost a number of buddies in the field, and people had started to ridicule her behind her back as the "red-headed harbinger of death".
+
+$L_MONT,2,,0,0,0,M,AO20M0110
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0078.ogg,0,100
+ÅyAoiÅz
+"...Perhaps you're right."
+
+$VOICE,v\WOL0004.ogg,0,100
+ÅyMs. MillerÅz
+"Well, anyway, we will check with her. But don't get too upset if she turns you down, okay?"
+
+
+$L_MONT,2,,0,0,0,M,AO20M0216
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0079.ogg,0,100
+ÅyAoiÅz
+"Okay! I'm used to being ignored by her anyway."
+
+
+
+Ms. Miller responds by saying something about strange birds of a feather flocking together.
+
+And the next day I receive word from her that Lycoris had politely refused...
+
+;Å@Å¶Å¶Å¶Å@Å™Å™Å™Å@âÒëzÇ±Ç±Ç‹Ç≈
+$MUSIC_FADE
+$L_BG,b\bgwhite.s25,0,0,0
+$DRAW_EX,2,c\rule15.s25,1000,1
+$EX,PPFGBLUR,11,11
+$L_BG,b\bg32_01d.s25,0,0,0
+$L_MONT,2,,0,0,0,M,AO20L0113
+$DRAW_EX,0,,1000,1
+;Å@Å¶Å¶Å¶Å@îwåiÅFñÇñ@è≠èóbg0501ÅiêHì∞Åj
+
+$VOICE,v\AOZ0080.ogg,0,100
+ÅyAoiÅz
+"Haha...so I'm from the same flock as her, am I? That's depressing."
+
+I feel like, since then, I've started being assigned more often as a temporary buddy to Lycoris when she's sent on missions.
+
+
+$L_MONT,2,,0,0,0,M,AO20L0109
+
+$VOICE,v\AOZ0081.ogg,0,100
+ÅyAoiÅz
+(Meddlesome Ms. Miller...)
+
+I smile wryly as I think of the Rubina's HR lady with her milk bottle glasses, but strangely I don't feel annoyed.
+
+$FACE,,M,RC30F0115
+
+$VOICE,v\RCZ0037.ogg,0,100
+ÅyLycorisÅz
+"...Aoi? What are you grinning to yourself about?"
+
+$FACE
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,2,c\rule05.s25,500,1
+$L_BG,b\bg32_01.s25,0,0,0
+$L_MONT,2,,-100,0,0,M,RC30S0206
+$DRAW_EX,2,c\rule01.s25,500,1
+$MUSIC,m\bgm05.ogg,1
+
+My head snaps up at the sudden voice of the person I'd just been thinking about. Lycoris is standing there holding a tray with a huge bowl on it and regarding me suspiciously.
+
+$FACE,,M,AO20F0128
+
+$VOICE,v\AOZ0082.ogg,0,100
+ÅyAoiÅz
+"L-L-L-L-Lycoris?!"
+
+$FACE
+$L_MONT,2,,-100,0,0,M,RC30S0215
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0038.ogg,0,100
+ÅyLycorisÅz
+"Why are you acting so strangely? Did you eat something that didn't agree with you?"
+
+She glances at the cold fries in front of me.
+
+$FACE,,M,AO20F0312
+
+$VOICE,v\AOZ0083.ogg,0,100
+ÅyAoiÅz
+"N-no! I was just thinking and you surprised me is all!"
+
+$FACE
+$L_MONT,2,,-100,0,0,M,RC30S0110
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0039.ogg,0,100
+ÅyLycorisÅz
+"So your meal is a bunch of potatoes like always. You won't get adequate nutrition without meat and vegetables, you know?"
+
+$L_BG,b\bg32_01.s25,0,0,0
+$L_CHR,5,b\tr2.s25,0,0,0
+$L_MONT,2,,250,0,0,M,AO20M0108
+$L_MONT,3,,-250,-50,0,M,RC30M0110
+$DRAW_EX,0,,500,1
+$SE,se\SE_C014.ogg,0,0
+$A_CHR,128,3,-250,0,500,1
+$A_CHR,01,3,2,10,500
+
+Lycoris warns me as she takes the seat next to me.
+
+$L_MONT,2,,250,0,0,M,AO20M0220
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0084.ogg,0,100
+ÅyAoiÅz
+"I-I'm eating just fine!"
+
+$L_MONT,3,,-250,0,0,M,RC30M0206
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0040.ogg,0,100
+ÅyLycorisÅz
+"Fries today. Mashed potato yesterday. Potato gratin the day before that. German potato salad the day before that. Potato, potato, potato."
+
+$L_MONT,2,,250,0,0,M,AO20M0278
+$DRAW_EX,1,,300,0
+$A_CHR,05,2,2,5,100
+
+$L_DELAY,2,T,1500
+$L_MONT,2,,250,0,0,M,AO20M0371
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0085.ogg,0,100
+ÅyAoiÅz
+"Ugh! Sh-shut up! What are you eating anyway?!"
+
+$L_MONT,3,,-250,0,0,M,RC30M0303
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0041.ogg,0,100
+ÅyLycorisÅz
+"Me? I am having gyuudon."
+
+She indicates the bowl on her tray.
+
+$L_MONT,2,,250,0,0,M,AO20M0206
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0086.ogg,0,100
+ÅyAoiÅz
+"Gyuudon? What is that?"
+
+$L_MONT,3,,-250,0,0,M,RC30M0102
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0042.ogg,0,100
+ÅyLycorisÅz
+"It's a Japanese dish. Beef and onions simmered in a mildly sweet sauce, on top of rice. It's surprisingly good. Want to try some?"
+
+
+She tilts the bowl so I can see inside as she describes it.
+
+$L_MONT,2,,250,0,0,M,AO20M0314
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0087.ogg,0,100
+ÅyAoiÅz
+"Ew, it's all brown."
+
+$L_MONT,3,,-250,0,0,M,RC30M0106
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0043.ogg,0,100
+ÅyLycorisÅz
+"That it is. But so are potatoes."
+
+$L_MONT,2,,250,0,0,M,AO20M0120
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0088.ogg,0,100
+ÅyAoiÅz
+"Potatoes are beige, not brown! Beige is far purer than dirty old brown!"
+
+$L_MONT,3,,-250,0,0,M,RC30M0209
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0044.ogg,0,100
+ÅyLycorisÅz
+"Please don't act like colors are nicer the more washed out they are. And you can't say that when you haven't even tried it...!"
+
+$L_MONT,2,,250,0,0,M,AO20M0124
+$L_MONT,3,,-250,0,0,M,RC30M0207
+
+
+Lycoris is looking unusually grumpy.
+
+This girl, who had turned a vampire to mincemeat without even flinching, is getting angry because I insulted her bowl of brown. I have no idea what the basis for an emotional response from her is.
+
+$L_MONT,2,,250,0,0,M,AO20M0120
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0089.ogg,0,100
+ÅyAoiÅz
+(Or is it possible that this brown stuff is delicious enough to make her annoyed by my insults?)
+
+$L_MONT,3,,-250,0,0,M,RC30M0106
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0045.ogg,0,100
+ÅyLycorisÅz
+"Are you going to have some or not? Well, I suppose someone who's so prejudiced they find fault with other people's food when they've never even tried it doesn't need to eat it anyway."
+
+The way she says it like a sulky child is so freaking annoying!
+
+$L_MONT,2,,250,0,0,M,AO20M0221
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0090.ogg,0,100
+ÅyAoiÅz
+"I-I'll try it! Then I'm allowed to insult it, right?! So give it here and I'll eat it!"
+
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,2,c\rule01.s25,500,1
+$EX,PPFGBLUR,11,11
+$L_BG,b\bg32_01d.s25,0,0,0
+$L_MONT,2,,0,0,0,M,AO20L0120
+$DRAW_EX,2,c\rule01.s25,500,1
+
+I snatch the entire bowl from her and scoop up a spoonful of rice and meat.
+
+$L_MONT,2,,0,0,0,M,AO20L0228
+$DRAW_EX,1,,300,0
+$A_CHR,01,2,1,10,300
+
+$VOICE,v\AOZ0091.ogg,0,100
+ÅyAoiÅz
+"...Ugh."
+
+$L_MONT,2,,0,0,0,M,AO20L0222
+
+As the spoon gets closer to my mouth the smell of fat and cheap meat reaches my nostrils, and that's almost enough for me.
+
+Maybe I'll quit while I'm ahead...
+
+$L_MONT,2,,0,0,0,M,AO20L0118
+
+I know! If I leap to my feet saying I just remembered something I have to do, I'll be able to get out of this! I'm a genius!
+
+$L_MONT,2,,0,0,0,M,AO20L0323
+$DRAW_EX,1,,300,0
+
+$A_CHR,128,2,0,-50,2000,1
+
+$L_DELAY,2,T,4000
+$L_MONT,2,,0,-50,0,M,AO20L0324
+$A_CHR,151,2,1,1
+$A_CHR,01,2,1,10,300
+$L_DELAY,2,E
+
+$VOICE,v\AOZ0092.ogg,0,100
+ÅyAoiÅz
+"Oh, right! There's something I have to-- blergh?!"
+
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,2,c\rule01.s25,300,1
+$EX,PPFGBLUR,11,11
+$L_BG,b\bg32_01d.s25,500,0,0
+$L_MONT,2,,0,0,0,M,RC30L0307
+$DRAW_EX,2,c\rule01.s25,300,1
+$SE,se\SE_G049.ogg,0,0
+
+$VOICE,v\RCZ0046.ogg,0,100
+ÅyLycorisÅz
+"...*Staaare*."
+
+$VOICE,v\AOZ0093.ogg,0,100
+ÅyAoiÅz
+(She's looking...right...this...way?!)
+
+Lycoris is staring at me as if expecting something. I feel the wind go out of my sails and plop my hovering backside back down into my seat.
+
+$L_MONT,2,,0,0,0,M,RC30L0304
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0047.ogg,0,100
+ÅyLycorisÅz
+"You don't need to hold back, you know?"
+
+You usually have no interest in what people do, why is it only NOW that you care so much?!
+
+$VOICE,v\AOZ0094.ogg,0,100
+ÅyAoiÅz
+(Dammit! It's just a bite, I'm sure it'll be fine!)
+
+
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,47,c\rule01.s25,300,1
+$EX,PPFGBLUR,11,11
+$L_BG,b\bg32_01d.s25,500,0,0
+$L_MONT,2,,0,0,0,M,AO20L0227
+$DRAW_EX,47,c\rule01.s25,300,1
+
+$A_CHR,05,2,3,10,300
+
+$L_DELAY,2,T,3000
+$L_MONT,2,,0,0,0,M,AO20L0226
+$A_CHR,151,2,1,1
+$L_DELAY,2,T,4500
+$L_MONT,2,,0,0,0,M,AO20L0227
+$A_CHR,02,2,1,10,300
+$L_DELAY,2,E
+
+$VOICE,v\AOZ0095.ogg,0,100
+ÅyAoiÅz
+"Mgh...mmghhh! Here goes...*chomp*!"
+
+I thrust the spoon I'm clutching into my mouth somewhat desperately.
+
+$A_CHR,06,2,3,5,500
+
+$L_DELAY,2,T,4000
+$SE,se\SE_G048.ogg,0,0
+$L_MONT,2,,0,0,0,M,AO20L0128
+$A_CHR,151,2,1,1
+$L_DELAY,2,E
+
+$VOICE,v\AOZ0096.ogg,0,100
+ÅyAoiÅz
+"Mgh! Mgh! Mgh! ...No way. It's good?"
+
+The moment the food enters my mouth, a unique scent reaches my nostrils, followed immediately by a slightly sweet flavor soaked into the meat that hits me with a delicious shock.
+
+$L_MONT,2,,0,0,0,M,AO20L0103
+$DRAW_EX,1,,300,0
+$A_CHR,01,2,1,10,300
+
+$VOICE,v\AOZ0097.ogg,0,100
+ÅyAoiÅz
+"Om! Nom! What the heck...this is delish! Gyuudon is da bomb! Om nom nom!"
+
+With every chew the juices from the meat mingle with the sweetness of the rice, transforming the at first overpowering taste into the most exquisite of flavors.
+
+$L_MONT,2,,0,0,0,M,AO20L0115
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0098.ogg,0,100
+ÅyAoiÅz
+"Hey, is this seriously on the Rubina menu? Nom, I guess I just never noticed it before...om nom."
+
+I'm compelled to check as I stuff my cheeks with the gyuudon like a hamster.
+
+$FACE,,M,RC30F0303
+
+$VOICE,v\RCZ0048.ogg,0,100
+ÅyLycorisÅz
+"That's because it's not officially on the menu. It's probably not your fault you've never seen it."
+
+$FACE
+
+I see. If it's not on the official menu, then it makes sense I missed it.
+
+$L_MONT,2,,0,0,0,M,AO20L0119
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0099.ogg,0,100
+ÅyAoiÅz
+"Just what dirty dealings did it take for this three-star restaurant to make you privy to their unofficial menu?"
+
+$FACE,,M,RC30F0110
+
+$VOICE,v\RCZ0049.ogg,0,100
+ÅyLycorisÅz
+"Dirty dealings? The old lady who works in the kitchens was the client for one of the cases I handled, that's all."
+
+$FACE
+
+Would this "case" she handled be related to vampires...?
+
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,1,b\bg32_01d.s25,0,0,0
+$L_CHR,5,b\tr2.s25,0,0,0
+$L_MONT,2,,250,50,0,M,AO20M0105
+$L_MONT,3,,-250,50,0,M,RC30M0106
+$DRAW_EX,1,,300,0
+
+$VOICE,v\AOZ0100.ogg,0,100
+ÅyAoiÅz
+"Is she family of the victims?"
+
+$VOICE,v\RCZ0050.ogg,0,100
+ÅyLycorisÅz
+"...Yes. She's Japanese. Her son was attacked by a vampire and she came to us."
+
+$L_MONT,2,,250,50,0,M,AO20M0109
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0101.ogg,0,100
+ÅyAoiÅz
+"I see."
+
+Most of the people involved with the Rubina have some connection with vampires.
+
+Orphans who had no place else to go after their parents were killed when they were children and bereaved family members end up devoting their lives to eradicating vampires as hunters, trainers, or staff members.
+
+A wild hatred toward vampires is shared by all members of the Rubina...it's what drives us to fight to our last breath.
+
+That's why there's nothing strange about the fact that a worker in the canteen has lost family to them.
+
+$L_MONT,3,,-250,50,0,M,RC30M0210
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0051.ogg,0,100
+ÅyLycorisÅz
+"And gyuudon is not high-class cooking."
+
+$L_MONT,3,,-250,50,0,M,RC30M0302
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0052.ogg,0,100
+ÅyLycorisÅz
+"The ribs are simmered with onion to get rid of the smell, and it's offered at a low price. It is a friend of the common folk."
+
+$L_MONT,2,,250,50,0,M,AO20M0203
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0102.ogg,0,100
+ÅyAoiÅz
+"Huh...even though it's so delicious? Om nom nom."
+
+I continue devouring the gyuudon as I respond noncommittally to Lycoris' talk. It really is delicious!
+
+$L_MONT,3,,-250,50,0,M,RC30M0312
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0053.ogg,0,100
+ÅyLycorisÅz
+"A friend of the common folk...that phrase kind of makes me envious."
+
+$L_MONT,2,,250,50,0,M,AO20M0106
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0103.ogg,0,100
+ÅyAoiÅz
+"Lycoris...?"
+
+Even though her tone is monotonous and her face expressionless...it seems to me like Lycoris is crying.
+
+;Å@Å¶Å¶Å¶Å@ÇrÇdÅFê»ÇóßÇ¬âπÅ@ÉKÉ^Éb
+$SE,se\SE_B093.ogg,0,0
+$L_BG,b\bg32_01.s25,0,0,0
+$DRAW_EX,1,,300,0
+
+$L_MONT,3,,-250,150,0,M,RC30M0115
+$A_CHR,128,3,-250,0,800,1
+$A_CHR,151,3,300,1
+$DRAW
+
+$VOICE,v\RCZ0054.ogg,0,100
+ÅyLycorisÅz
+"If you like it, you can have it all. I can always get more for myself."
+
+She gets to her feet and my hand pauses midway to my mouth as I realize.
+
+Before I know it, I've polished off over half the contents of the huge bowl.
+
+;Å@Å¶Å¶Å¶Å@ÇrÇdÅFê»ÇóßÇ¬âπÅ@ÉKÉ^Éb
+$SE,se\SE_B093.ogg,0,0
+
+$L_MONT,2,,250,150,0,M,AO20M0204
+$A_CHR,128,2,250,0,800,1
+$A_CHR,151,2,300,1
+$DRAW
+
+$VOICE,v\AOZ0104.ogg,0,100
+ÅyAoiÅz
+"Oh! Th-then I'll go get it for you! You just wait here..."
+
+$MUSIC_FADE
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,2,b\tr.s25,0,0,0
+$DRAW_EX,1,,300,0
+$L_CHR,1,b\bg32_01d.s25,-250,150,0
+$A_CHR,114,1,-300,150,500,1
+$A_CHR,151,1,500,1
+$DRAW
+
+$VOICE,v\WOM0001.ogg,0,100
+ÅyAgent AÅz
+"Ew! I thought something stank of rotten meat, and sure enough there's the red-headed harbinger of death...!"
+
+;Å@Å¶Å¶Å¶Å@Å™Å™Å™Å@É{É\É{É\ê∫
+
+$VOICE,v\WON0001.ogg,0,100
+ÅyAgent BÅz
+"I'd rather people with the stink of death on them didn't frequent the canteen, wouldn't you?"
+
+;Å@Å¶Å¶Å¶Å@Å™Å™Å™Å@É{É\É{É\ê∫
+$MUSIC,m\bgm07.ogg,1
+
+As I stand up I overhear the cruel voices of my colleagues, and I swallow what I was about to say.
+
+$FACE,,M,RC30F0106
+
+$VOICE,v\RCZ0055.ogg,0,100
+ÅyLycorisÅz
+"......"
+
+$FACE
+
+Lycoris ignores them, her face still expressionless.
+
+$A_CHR,114,1,200,150,2000,1
+
+When I look around to try and identify the owners of the voices, I realize that everyone around us is keeping their distance while stealing glances our way and sneering.
+
+$A_CHR,114,1,0,150,500,1
+
+$L_MONT,3,,0,0,0,M,AO20L0308
+
+
+$VOICE,v\AOZ0105.ogg,0,100
+ÅyAoiÅz
+"Hey, you! What do you think you're looking at?!"
+
+
+$VOICE,v\WOM0002.ogg,0,100
+ÅyAgent AÅz
+"If you hang around with her, you're going to get yourself killed!"
+
+$VOICE,v\WON0002.ogg,0,100
+ÅyAgent BÅz
+"That's right! She's the harbinger of death. Every buddy of hers ends up dead sooner or later."
+
+$L_MONT,3,,0,0,0,M,AO20L0309
+
+The scornful voice, barely suppressing a snicker, echoes through the canteen.
+
+$L_MONT,3,,0,0,0,M,AO20L0221
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0106.ogg,0,100
+ÅyAoiÅz
+"It's not like she killed her buddies! If they died fighting vampires, that's an honorable death!"
+
+To be wounded or die in the line of duty is an honor to us.
+
+To sneer at that is no less than sacrilege toward the whole meaning of the Rubina...even more so, to the deaths of our friends and loved ones.
+
+$L_MONT,3,,0,0,0,M,AO20L0220
+
+$VOICE,v\WOM0003.ogg,0,100
+ÅyAgent AÅz
+"But still, don't you think it's weird that, while countless buddies of hers have died, she always strolls back alive?"
+
+$VOICE,v\WON0003.ogg,0,100
+ÅyAgent BÅz
+"I've heard that she uses her buddies as bait and takes down the vampire while they're being devoured."
+
+$L_MONT,3,,0,0,0,M,AO20L0308
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0107.ogg,0,100
+ÅyAoiÅz
+"That's awful! Who the hell would believe such a baseless insult!"
+
+This is way beyond a joke!
+
+$L_MONT,3,,0,0,0,M,AO20L0207
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0108.ogg,0,100
+ÅyAoiÅz
+"Lycoris! Tell them! Tell them not to spread this nonsense! Can't you hear what they're saying about you?!"
+
+Seething with rage, I turn the brunt of my anger on Lycoris, who is sitting in silence, still as a statue.
+
+$FACE,,M,RC30F0106
+
+$VOICE,v\RCZ0056.ogg,0,100
+ÅyLycorisÅz
+"...It is like they say. Being beside me means death."
+
+$FACE
+$L_MONT,3,,0,0,0,M,AO20L0324
+$DRAW_EX,1,,300,0
+$A_CHR,01,3,1,10,300
+
+$VOICE,v\AOZ0109.ogg,0,100
+ÅyAoiÅz
+"What?!"
+
+I'd expected her to get angry too, to go off on her critics with her usual sarcasm, and so her response is completely out of left field.
+
+$L_MONT,3,,0,0,0,M,AO20L0122
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0110.ogg,0,100
+ÅyAoiÅz
+"Hey?! Y-you...do you even understand what I'm saying here?!"
+
+$L_BG,b\bg32_01.s25,0,0,0
+$L_MONT,2,,-250,0,0,M,RC30S0106
+$L_MONT,3,,200,0,0,M,AO20S0106
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0057.ogg,0,100
+ÅyLycorisÅz
+"Yes, I understand. Which is why..."
+
+She looks not at her sneering colleagues, but right into my eyes as she quietly speaks...
+
+$L_MONT,2,,-250,0,0,M,RC30S0315
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0058.ogg,0,100
+ÅyLycorisÅz
+"...You shouldn't get any closer to me either."
+
+$L_MONT,3,,200,0,0,M,AO20S0124
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0111.ogg,0,100
+ÅyAoiÅz
+"...!"
+
+It's a complete rejection.
+
+
+While we've been undertaking the same missions, although we're nowhere near like we were in the past, we've gradually started to talk a bit more. I'd started to think to myself that perhaps she trusted me a little.
+
+But...was it just me who thought that?
+
+$L_CHR,2,,
+$L_MONT,4,,-100,0,0,M,RC30M0107
+$DRAW_EX,0,,300,0
+$SE,se\SE_C030.ogg,0,0
+$A_CHR,128,4,0,0,500,1
+$A_CHR,150,4,500,1
+$DRAW
+
+$VOICE,v\RCZ0059.ogg,0,100
+ÅyLycorisÅz
+"......"
+
+$SE_FADE,1000,0
+Lycoris cuts across in front of me and exits the canteen, her red hair flying behind her, leaving me standing there at a loss for words.
+
+$L_MONT,3,,200,0,0,M,AO20S0314
+$DRAW_EX,1,,300,0
+
+$A_CHR,128,3,100,0,300,1
+$SE,se\SE_C005.ogg,0,0
+
+$VOICE,v\AOZ0112.ogg,0,100
+ÅyAoiÅz
+"W-wait, Lycoris?!"
+
+$L_MONT,3,,100,0,0,M,AO20S0110
+$DRAW_EX,0,,300,0
+
+I try to rush after her, but my feet won't do as I want, and all I can do is watch her slim figure go...
+
+;Å@Å¶Å¶Å¶Å@ñÇñ@è≠èóbg0301ÅiòLâ∫Åj
+
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,5,b\tr2.s25,0,0,0
+$DRAW_EX,2,c\rule24.s25,1000,1
+$WAIT,500
+
+$L_CHR,1,b\bg31_01d.s25,0,200,0
+$DRAW_EX,2,c\rule24.s25,800,1
+$A_CHR,05,1,0,5,800
+$SE,se\SE_C002rl.ogg,1,0
+$DRAW
+$WAIT, 500
+
+
+Another hour passes before I leave the canteen myself.
+
+$FACE,,M,AO20F0109
+
+$VOICE,v\AOZ0113.ogg,0,100
+ÅyAoiÅz
+"I can't believe it, I can't believe it...I seriously can't believe it!"
+
+$FACE
+
+I storm down the long corridor toward the HR office.
+
+They can't say those things! They shouldn't be allowed! They're the absolute worst specimens of human beings!
+
+$FACE,,M,AO20F0221
+
+$VOICE,v\AOZ0114.ogg,0,100
+ÅyAoiÅz
+"I can't believe people so despicable are part of the Rubina! What the hell is with them?!"
+
+$FACE
+
+$VOICE,v\WOM0004.ogg,0,100
+ÅyAgent AÅz
+'If you hang around with her, you're going to get yourself killed!'
+
+;Å@Å¶Å¶Å¶Å@Å™Å™Å™Å@âÒëzÉ{ÉCÉXÉGÉtÉFÉNÉg
+
+Their hideously grating voices are still ringing in my ears.
+
+$FACE,,M,AO20F0226
+
+$VOICE,v\AOZ0115.ogg,0,100
+ÅyAoiÅz
+"What are they, idiots? Are they idiots? They are idiots!"
+
+$FACE
+
+$VOICE,v\WON0004.ogg,0,100
+ÅyAgent BÅz
+'I've heard that she uses her buddies as bait and takes down the vampire while they're being devoured.'
+
+;Å@Å¶Å¶Å¶Å@Å™Å™Å™Å@âÒëzÉ{ÉCÉXÉGÉtÉFÉNÉg
+
+$FACE,,M,AO20F0326
+
+$VOICE,v\AOZ0116.ogg,0,100
+ÅyAoiÅz
+"What's this about being killed?! What's this about a harbinger of death who uses their buddy as bait to survive?! Don't you know Lycoris is the idiot who uses herself as decoy?!"
+
+$FACE
+
+Just today, it was because Lycoris acted as bait and drew the vampire close that I was able to concentrate everything on the final blow.
+
+$SE_FADE,10,0
+$A_CHR,00,1
+$L_BG,b\bg31_01.s25,0,0,0
+$L_MONT,2,,0,0,0,M,AO20M0120
+$DRAW_EX,1,,300,0
+
+$VOICE,v\AOZ0117.ogg,0,100
+ÅyAoiÅz
+"They act all high and mighty, like they know everything, when they don't know anything about it! It's shit, pure shit! Their entire existence is poop!"
+
+Even though they're not talking about me, for some reason I'm seething with a repulsion that twists deep within my stomach.
+
+$L_MONT,2,,0,0,0,M,AO20M0327
+$DRAW_EX,1,,300,0
+$A_CHR,06,2,0,5,300
+
+$VOICE,v\AOZ0118.ogg,0,100
+ÅyAoiÅz
+(Aaaargh, geez! I'm so pissed!)
+
+$A_CHR,02,2
+
+Of course I'd beaten them to a pulp after that. It had taken some effort, since it was two against one, but neither of them were a match for me!
+
+$L_MONT,2,,0,0,0,M,AO20M0207
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0119.ogg,0,100
+ÅyAoiÅz
+"And Lycoris, too! I'm disgusted with her! Utterly disgusted! Letting those shits get away with saying those things!"
+
+$VOICE,v\RCZ0060.ogg,0,100
+ÅyLycorisÅz
+'...You shouldn't get any closer to me either.'
+
+;Å@Å¶Å¶Å¶Å@Å™Å™Å™Å@âÒëzÉ{ÉCÉXÉGÉtÉFÉNÉg
+$L_MONT,2,,0,0,0,M,AO20M0109
+$DRAW_EX,0,,300,0
+
+Thinking back on it just feeds the dark emotions roiling inside me.
+
+$L_MONT,2,,0,0,0,M,AO20M0327
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0120.ogg,0,100
+ÅyAoiÅz
+"Fine! As you wish, I won't come near you anymore! I'll tell Ms. Miller directly, I don't want to be paired with Lycoris again under any circumstances!"
+
+The sooner I sever any and all bonds with Lycoris, the better! That's what I'm thinking as I head toward the HR office to see Ms. Miller, but...
+
+$MUSIC_FADE
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,2,c\rule01.s25,500,1
+$L_BG,b\bg31_01d.s25,0,-500,0
+$L_CHR,1,b\tr.s25,0,0,0
+$L_MONT,2,,0,0,0,M,AO20L0107
+$DRAW_EX,2,c\rule01.s25,500,1
+
+$L_DELAY,2,T,3000
+$L_MONT,2,,0,0,0,M,AO20L0106
+$L_DELAY,2,E
+
+$VOICE,v\AOZ0121.ogg,0,100
+ÅyAoiÅz
+"Ms. Miller! I need to talkÅ\...huh?"
+
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,5,b\tr2.s25,0,0,0
+$DRAW_EX,0,,1000,1
+
+When I arrive in front of my destination and raise my hand to bang on the door...I hear voices from the other side, and hesitate to knock knowing there's already someone in there.
+
+;ï«âzÇµ
+
+$VOICE,v\RCZ0061.ogg,0,100
+ÅyLycorisÅz
+'...Please, Ms. Miller.'
+
+$FACE,,M,AO20F0122
+
+$VOICE,v\AOZ0122.ogg,0,100
+ÅyAoiÅz
+(Huh? That voice is...Lycoris?!)
+
+$FACE
+$DRAW
+$MUSIC,m\bgm17.ogg,1
+$EX,PPFGBLUR,11,11
+$L_CHR,1,b\bg33_01d.s25,50,-250,0
+$A_CHR,114,1,0,-250,1000,1
+$A_CHR,151,1,1000,1
+$DRAW
+
+Hearing the voice of the person I least want to see right now, I press my ear to the door to hear what's going on.
+
+$VOICE,v\WOL0005.ogg,0,100
+ÅyMs. MillerÅz
+'I've allowed your selfish demand that you don't want a designated buddy, but...this I cannot approve.'
+
+$VOICE,v\WOL0006.ogg,0,100
+ÅyMs. MillerÅz
+'You must be out of your mind to want to undertake your missions alone from here on. I cannot allow a valuable agent of the Rubina do that kind of thing!'
+
+$FACE,,M,AO20F0124
+
+$VOICE,v\AOZ0123.ogg,0,100
+ÅyAoiÅz
+(Undertake missions alone?!)
+
+$FACE
+
+Take on a vampire alone. There is nothing more dangerous. No matter how strong you are, it's suicide.
+
+$L_MONT,2,,450,-220,0,M,RC30M0111
+$A_CHR,114,2,400,-220,500,1
+$A_CHR,151,2,500,1
+$DRAW
+
+$VOICE,v\RCZ0062.ogg,0,100
+ÅyLycorisÅz
+'I'm sorry. But...please.'
+
+$VOICE,v\WOL0007.ogg,0,100
+ÅyMs. MillerÅz
+'*Sigh*... Raise your head, Lycoris Radiata. You can bow before me all you like, but my answer will not change.'
+
+Ms. Miller's usually highly strung tone has softened like a parent soothing a child as she admonishes Lycoris.
+
+$VOICE,v\WOL0008.ogg,0,100
+ÅyMs. MillerÅz
+'I know as well as anyone just how much you hate vampires, and how kind a child you are...'
+
+$VOICE,v\WOL0009.ogg,0,100
+ÅyMs. MillerÅz
+'And that, after the vampires are dead, you offer up a prayer of peace for the souls they had when they were human.'
+
+$L_MONT,2,,400,-220,0,M,RC30M0305
+$DRAW_EX,0,,300,0
+
+$VOICE,v\RCZ0063.ogg,0,100
+ÅyLycorisÅz
+'...?! How do you know that?!'
+
+$FACE,,M,AO20F0122
+
+$VOICE,v\AOZ0124.ogg,0,100
+ÅyAoiÅz
+(That was a prayer of salvation for the human soul taken by the vampire?!)
+
+$FACE
+
+If so, then does that mean that wiping the dirt from its face was because she wanted to make it as close to human as possible? And shooting it was to cover that up from the Rubina?
+
+
+$L_BG,b\bg31_01.s25,0,0,0
+$L_MONT,2,,-400,0,0,M,AO20M0112
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0125.ogg,0,100
+ÅyAoiÅz
+"If that's what it was then why didn't she just say so, the idiot!"
+
+$L_MONT,2,,-400,0,0,M,AO20M0106
+
+$VOICE,v\WOL0010.ogg,0,100
+ÅyMs. MillerÅz
+'How would I not notice? I am the head of the Rubina HR department. Every piece of information relating to the Rubina's agents finds its way to my ears.'
+
+$VOICE,v\WOL0011.ogg,0,100
+ÅyMs. MillerÅz
+'As the one responsible for the lives of our agents, it's only natural. It is my job to look after both your bodies and minds, and make sure you come back here alive.'
+
+$L_MONT,2,,-400,0,0,M,AO20M0101
+
+Ms. Miller says proudly.
+
+It's true that the missions Ms. Miller hands out are often dangerous. But they are never reckless.
+
+That's not just because Ms. Miller keeps a watchful eye on each of us and our abilities individually. It's because she keeps abreast of absolutely everythingÅ\health management, mental condition, personal relationshipsÅ\and prepares the very best environment for us to operate in.
+
+That's why, when the Rubina agents refer to her, it's with the title "Ms." as a mark of respect.
+
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,5,b\tr.s25,0,0,0
+$DRAW_EX,0,,500,1
+$EX,PPFGBLUR,11,11
+$L_CHR,1,b\bg33_01d.s25,-500,100,0
+$A_CHR,114,1,500,100,180000,1
+$A_CHR,151,1,1000,1
+$DRAW
+$WAIT, 1000
+
+$VOICE,v\WOL0012.ogg,0,100
+ÅyMs. MillerÅz
+'If the reason you're brooding over this is the death of your buddies, then I am the cause of that, since I am the one who chose those buddies for you. If you're looking for someone to blame, make it me.'
+
+$FACE,,M,RC30F0109
+
+$VOICE,v\RCZ0064.ogg,0,100
+ÅyLycorisÅz
+'What?! That's not true! It's all down to my own deficiencies!'
+
+$FACE,,M,RC30F0114
+
+$VOICE,v\RCZ0065.ogg,0,100
+ÅyLycorisÅz
+'My own inexperience...my inability to protect my partner because I had my hands full just fighting the vampire...that is the cause!'
+
+$FACE
+
+Lycoris' voice is shaking slightly and she sniffs from time to time. It sounds like she's crying.
+
+$FACE,,M,RC30F0311
+
+$VOICE,v\RCZ0066.ogg,0,100
+ÅyLycorisÅz
+'...Aoi is a good person. ...Though she might be impulsive, quarrelsome, and an overall incurable idiot...but, she's a really good person...'
+
+$FACE
+
+It's hard to tell if she's complimenting or insulting me, and it feels like embarrassment and irritation are fighting within me.
+
+$FACE,,M,RC30F0109
+
+$VOICE,v\RCZ0067.ogg,0,100
+ÅyLycorisÅz
+'I...I don't want to get Aoi killed...! And not just her...I don't want to see any more of my buddies die!'
+
+$FACE
+
+Lycoris' words pierce my heart like a razor-sharp arrow.
+
+To think that she doesn't want to be paired with anyone because she doesn't want to see anyone die. But then...that's akin to suicide!
+
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,0,,500,1
+$L_BG,b\bg31_01d.s25,0,0,0
+$L_CHR,1,b\tr.s25,0,0,0
+$L_MONT,2,,-400,0,0,M,AO20L0113
+$DRAW_EX,0,,1000,1
+
+$VOICE,v\AOZ0126.ogg,0,100
+ÅyAoiÅz
+"...You're such an idiot, Lycoris."
+
+She's idiotic, stupidly smart, moody and disagreeable, but she's also kinder than anyone I know.
+
+$L_MONT,2,,-400,0,0,M,AO20L0110
+
+...At the core you haven't changed, have you.
+
+She's the girl who, during my week at the Radiata house, when night came and I'd get scared and start to cry, would come into my room to hold my hand and talk to me until I fell asleep...my big sister.
+
+$L_MONT,2,,-400,0,0,M,AO20L0112
+
+$VOICE,v\WOL0013.ogg,0,100
+ÅyMs. MillerÅz
+'I understand your feelings. But the Rubina's rules are absolute. Exceptions are not permitted for anyone or any reason...please understand that.'
+
+$VOICE,v\RCZ0068.ogg,0,100
+ÅyLycorisÅz
+'...I understand.'
+
+Lycoris responds weakly to Ms. Miller's firm words.
+
+$VOICE,v\RCZ0069.ogg,0,100
+ÅyLycorisÅz
+'Thank you for speaking with me.'
+
+$MUSIC_FADE
+$L_MONT,2,,-400,0,0,M,AO20L0106
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0127.ogg,0,100
+ÅyAoiÅz
+(Crap, she's coming out!)
+
+$L_BG,b\bg31_01.s25,0,0,0
+$L_MONT,2,,-400,0,0,M,AO20M0127
+$DRAW_EX,1,,300,0
+;Å@Å¶Å¶Å¶Å@à®ÅAóßÇøäGè¡Çµ
+$SE,se\SE_C024.ogg,0,0
+
+$A_CHR,129,2,0,0,500,1
+$A_CHR,150,2,500,1
+$DRAW
+
+I hurriedly dash into the room next door to hide.
+
+$SE,se\SE_F016.ogg,0,0
+
+;Å@Å¶Å¶Å¶Å@ÉäÉRÉäÉXÅAóßÇøäGï\é¶
+$L_DELAY,2,T,1000
+$L_MONT,2,,-450,0,0,M,RC30M0106
+$A_CHR,114,2,-400,0,500,1
+$A_CHR,151,2,500,1
+$L_DELAY,2,E
+
+$VOICE,v\RCZ0070.ogg,0,100
+ÅyLycorisÅz
+"...Please excuse me."
+
+$SE,se\SE_F025.ogg,0,0
+$L_MONT,2,,-400,0,0,M,RC30M0110
+$DRAW_EX,0,,300,0
+$A_CHR,02,2,1,10,500
+
+$VOICE,v\RCZ0071.ogg,0,100
+ÅyLycorisÅz
+"...*Sigh*."
+
+After carefully closing the door behind her, Lycoris heaves a deep sigh then leaves.
+
+$L_MONT,2,,-400,0,0,M,RC30M0111
+$L_MONT,3,,0,800,0,M,AO20L0228
+$DRAW_EX,1,,300,1
+
+
+$A_CHR,128,2,-200,0,1000,1
+$A_CHR,150,2,500,1
+$DRAW
+$SE,se\SE_C030.ogg,2,0
+
+
+
+$SE,se\SE_F033.ogg,0,0
+$DRAW
+
+$WAIT, 500
+
+;Å@Å¶Å¶Å¶Å@à®ÅAóßÇøäGï\é¶
+
+$A_CHR,114,3,0,0,300,1
+$A_CHR,01,3,1,10,600
+
+$VOICE,v\AOZ0128.ogg,0,100
+ÅyAoiÅz
+"Phew...! I was scared she was gonna bust me!"
+
+$SE_FADE,100,0
+$L_MONT,3,,0,0,0,M,AO20M0119
+$DRAW_EX,1,,300,0
+$A_CHR,02,3,1,10,300
+
+After watching through the keyhole until Lycoris is out of sight, I step back out into the corridor.
+
+$L_MONT,3,,0,0,0,M,AO20M0302
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0129.ogg,0,100
+ÅyAoiÅz
+"Now then...next it's my turn to negotiate!"
+
+While I'd been listening to Lycoris and Ms. Miller's conversation, my mind had been whirring.
+
+And now I'm facing the door to the HR office once again, about to put that plan into action.
+
+$L_MONT,3,,0,0,0,M,AO20M0304
+$DRAW_EX,1,,300,0
+$A_CHR,114,3,-400,0,1000,1
+$A_CHR,02,3,2,10,500
+
+$VOICE,v\AOZ0130.ogg,0,100
+ÅyAoiÅz
+"Alright! Let's do this!"
+
+;Å@Å¶Å¶Å¶Å@ÇrÇdÅFÉhÉAÇÉmÉbÉNÇ∑ÇÈâπÅ@ÉRÉìÉRÉì
+$WINDOW,0
+$SE,se\SE_F001.ogg,0,2
+
+$VOICE,v\WOL0014.ogg,0,100
+ÅyMs. MillerÅz
+'Who is it?'
+
+$L_MONT,3,,-400,0,0,M,AO20M0107
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0131.ogg,0,100
+ÅyAoiÅz
+"Aoi Kamishiro! May I come in?"
+
+;Å@Å¶Å¶Å¶Å@ÇrÇdÅFÉhÉAÇäJÇØÇÈâπ
+$SE,se\SE_F016.ogg,0,0
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,2,c\rule01.s25,500,1
+$MUSIC,m\bgm08.ogg,1
+$L_BG,b\bg33_01.s25,0,0,0
+$DRAW_EX,2,c\rule01.s25,500,1
+;Å@Å¶Å¶Å¶Å@îwåiÅFñÇñ@è≠èóbg1401
+
+$L_MONT,2,,300,0,0,M,AO20M0101
+$A_CHR,114,2,200,0,500,1
+$A_CHR,151,2,500,1
+$DRAW
+$A_CHR,02,2,2,10,250
+
+$VOICE,v\WOL0015.ogg,0,100
+ÅyMs. MillerÅz
+"*Sigh*...I seem to be having a lot of visitors today. So, how can I help you?"
+
+$L_MONT,2,,200,0,0,M,AO20M0107
+$DRAW_EX,0,,300,0
+
+$VOICE,v\AOZ0132.ogg,0,100
+ÅyAoiÅz
+"I have come to talk to you about my assignment as Lycoris Radiata's temporary buddy."
+
+Hearing this, Ms. Miller puts the thick-as-a-phone-book sheaf of documents that she's holding back down on the desk and adjusts her glasses.
+
+$VOICE,v\WOL0016.ogg,0,100
+ÅyMs. MillerÅz
+"Let's hear it then."
+
+$L_CHR,5,b\bgblack.s25,0,0,0
+$A_CHR,151,5,8000,1
+$DRAW
+
+;Å@Å¶Å¶Å¶Å@Å™Å™Å™Å@Ç‰Ç¡ÇΩÇËÇ∆åæÇ¡ÇƒÇ≠ÇæÇ≥Ç¢ÅB
+
+I start to talk.
+
+For some reason Ms. Miller's mouth is curved into a smile all through my clumsy explanation...
+
+
+$MUSIC_FADE
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,0,,1000,1
+
+$MOVIE,mv\eye_ao2.mpg,0,0
+
+$WAIT, 500
+
+;Å@Å¶Å¶Å¶Å@à√ì]
+
+;Å@Å¶Å¶Å¶Å@ì˙ïtïœçXââèo
+
+
+

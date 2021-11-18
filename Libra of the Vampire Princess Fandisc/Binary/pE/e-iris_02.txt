@@ -1,0 +1,2689 @@
+;===================================================
+
+
+;ãzååïPÇÃÉäÉuÉâÅ@ÉCÉäÉXâﬂãéï“Å@iris_02
+
+
+;===================================================
+
+$L_BG,b\bg40_01d.s25,0,0,0
+$DRAW_EX,0,,1000,1
+
+$WAIT, 500
+
+;îwåiÅ@äXï¿Ç›
+
+At a location five minutes' walk from Lambal Server.
+
+
+$EX,PPFGBLUR,11,11
+$L_CHR,1,b\bg40_01d.s25,0,0,0
+$L_MONT,2,,0,0,0,M,IS20D0104
+$L_CHR,3,b\tr2.s25,0,0,0
+$DRAW_EX,0,,500,1
+$WAIT, 300
+
+$VOICE,v\IRZ0082.ogg,0,100
+ÅyIrisÅz
+"And a few peaceful days have passed."
+
+$MUSIC,m\bgm02.ogg,1
+
+$L_BG,b\bg40_01.s25,0,0,0
+$L_MONT,4,,-200,0,0,M,AN20S0107
+$L_MONT,2,,200,0,0,M,IS20S0202
+$DRAW_EX,0,,1000,1
+$WAIT, 500
+
+$VOICE,v\ACN0103.ogg,0,100
+ÅyAconiteÅz
+"What's wrong, muttering such a thing out of the blue?"
+
+$L_MONT,2,,200,0,0,M,IS20S0167
+
+$VOICE,v\IRZ0083.ogg,0,100
+ÅyIrisÅz
+"Nothing. Just felt the urge to say it for some reason."
+
+$L_MONT,4,,-200,0,0,M,AN20S0118
+
+$L_DELAY,4,T,500
+$A_CHR,114,4,-300,0,500,1
+$L_DELAY,4,E
+
+$VOICE,v\ACN0104.ogg,0,100
+ÅyAconiteÅz
+"O-okay."
+
+$L_MONT,2,,200,0,0,M,IS20S0311
+
+$VOICE,v\IRZ0084.ogg,0,100
+ÅyIrisÅz
+"Hey, why are you edging away from me?"
+
+$L_MONT,4,,-300,0,0,M,AN20S0219
+
+$VOICE,v\ACN0105.ogg,0,100
+ÅyAconiteÅz
+"...No particular reason."
+
+$L_MONT,2,,200,0,0,M,IS20S0211
+
+$VOICE,v\IRZ0085.ogg,0,100
+ÅyIrisÅz
+"...Oh?"
+
+
+$A_CHR,114,2,150,0,300,1
+
+$L_DELAY,4,T,300
+$L_MONT,4,,-300,0,0,M,AN20S0118
+$A_CHR,114,4,-350,0,300,1
+$L_DELAY,4,E
+
+*Closes in*. *Moves away*.
+
+
+$A_CHR,114,2,0,0,500,1
+
+$L_DELAY,4,T,400
+$A_CHR,114,4,-450,0,500,1
+$L_DELAY,4,E
+
+
+*Closes in*. *Moves away*.
+
+$FACE,,M,GR10F0105
+
+$VOICE,v\GRG0043.ogg,0,100
+ÅyGalegaÅz
+"What are you doing?"
+
+$FACE
+
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,2,c\rule09.s25,500,1
+$L_BG,b\bg40_01.s25,0,0,0
+$L_MONT,4,,-350,0,0,M,AN20M0105
+$L_MONT,3,,0,0,0,M,GR10M0211
+$L_MONT,2,,350,0,0,M,IS20M0111
+$DRAW_EX,2,c\rule09.s25,500,1
+
+$VOICE,v\ACN0106.ogg,0,100
+ÅyAconiteÅz
+"Oh, if it isn't Galega. The Galega who said he was curious about the 'goddess' we heard about during the communication we had a few days ago and went off to investigate it."
+
+$L_MONT,3,,0,0,0,M,GR10M0312
+
+$VOICE,v\GRG0044.ogg,0,100
+ÅyGalegaÅz
+"Thanks for the explanation. So, why are you playing games with someone like Pumila? Although, thinking about it, it's a fairly common scene."
+
+$L_MONT,2,,350,0,0,M,IS20M0314
+
+$VOICE,v\IRZ0086.ogg,0,100
+ÅyIrisÅz
+"What do you mean by 'someone like'? I thought you were a pervert?!"
+
+$L_MONT,4,,-350,0,0,M,AN20M0215
+
+$VOICE,v\ACN0107.ogg,0,100
+ÅyAconiteÅz
+"Yeah, Iris suddenly started saying weird things, so I thought she may have been contaminated by infection force."
+
+$L_MONT,3,,0,0,0,M,GR10M0216
+
+$VOICE,v\GRG0045.ogg,0,100
+ÅyGalegaÅz
+"OH, I see. I get it."
+
+$L_MONT,2,,350,0,0,M,IS20M0323
+$DRAW_EX,1,,300,0
+$A_CHR,02,2,2,10,300
+
+$VOICE,v\IRZ0087.ogg,0,100
+ÅyIrisÅz
+"I'm sane!"
+
+$L_MONT,2,,350,0,0,M,IS20M0324
+$L_MONT,3,,0,0,0,M,GR10M0209
+
+$VOICE,v\GRG0046.ogg,0,100
+ÅyGalegaÅz
+"Pumila...everyone who goes mad thinks they're sane."
+
+$L_MONT,4,,-350,0,0,M,AN20M0116
+$A_CHR,06,2,0,5,500
+
+$VOICE,v\ACN0108.ogg,0,100
+ÅyAconiteÅz
+"Gah... Iris has fallen victim to infection force... Forgive me for not noticing sooner."
+
+$L_MONT,2,,350,0,0,M,IS20A0108
+$A_CHR,00,2
+
+$VOICE,v\IRZ0088.ogg,0,100
+ÅyIrisÅz
+"You two... You'd better stop it right there, before I make you regret it!"
+
+$EX,PPFGBLUR,11,11
+$L_BG,b\bg40_01.s25,0,0,0
+$L_MONT,4,,400,0,0,M,AN20L0204
+$L_MONT,3,,-400,0,0,M,GR10L0203
+$EX,PPFGBLUR,6,6
+$L_MONT,2,,0,0,0,M,IS20B0105
+$DRAW_EX,0,,300,0
+
+$VOICE,v\ACN0109.ogg,0,100
+ÅyAconiteÅz
+"By the way, what's the occasion to bring you outside, Galega?"
+
+$VOICE,v\GRG0047.ogg,0,100
+ÅyGalegaÅz
+"Right, actually I have something I want to show you, Aconite."
+
+$L_BG,b\bg40_01.s25,0,0,0
+$EX,PPFGBLUR,6,6
+$L_MONT,4,,400,0,0,M,AN20L0205
+$EX,PPFGBLUR,6,6
+$L_MONT,3,,-400,0,0,M,GR10L0204
+$L_MONT,2,,0,0,0,M,IS20B0108
+$DRAW_EX,0,,500,1
+
+$VOICE,v\IRZ0089.ogg,0,100
+ÅyIrisÅz
+"Hey."
+
+The three of themÅ\Aconite and Galega messing around with IrisÅ\are the same as usual.
+
+
+$MUSIC_FADE
+
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,5,b\tr2.s25,0,0,0
+$DRAW_EX,2,c\rule25.s25,1500,1
+$WAIT, 1000
+$L_CHR,1,b\bg41_01d.s25,600,200,0
+$A_CHR,114,1,-600,200,120000,1
+$A_CHR,151,1,1000,1
+$DRAW
+$WAIT, 1000
+
+;îwåiÅ@âºê›éwóﬂé∫
+
+Over the past few days, the sixth commando unit, led by Aconite, has restructured their defense network and is on the alert to protect each server that still remains free of infection force.
+
+Since the Bebel has collapsed as an organization, it was not compulsory, but ex-Bebel members as well as volunteers from the civilians who were left behind have elected to join, and it has become a fairly large-scale undertaking.
+
+$MUSIC,m\bgm04.ogg,1
+
+$FACE,,M,IS20F0201
+
+$VOICE,v\IRZ0090.ogg,0,100
+ÅyIrisÅz
+"In any case, I didn't think you were such a hard worker."
+
+$FACE
+$L_BG,b\bg41_01.s25,0,0,0
+$L_MONT,4,,0,0,0,M,AN20S0106
+$L_MONT,3,,-300,0,0,M,GR10S0101
+$L_MONT,2,,300,0,0,M,IS20S0110
+$DRAW_EX,0,,1000,1
+$WAIT, 500
+
+$VOICE,v\ACN0110.ogg,0,100
+ÅyAconiteÅz
+"Huh? What are you talking about?"
+
+$L_MONT,3,,-300,0,0,M,GR10S0203
+
+$VOICE,v\GRG0048.ogg,0,100
+ÅyGalegaÅz
+"You got this going all by yourself, without anyone telling you to. You even went out of your way to contact surviving members from other units."
+
+$L_MONT,4,,0,0,0,M,AN20S0214
+
+$VOICE,v\ACN0111.ogg,0,100
+ÅyAconiteÅz
+"What? Are you saying what I've been doing is pointless?"
+
+$L_MONT,2,,300,0,0,M,IS20S0304
+
+$VOICE,v\IRZ0091.ogg,0,100
+ÅyIrisÅz
+"I'm not saying that. Normally you hate any kind of hassle. In the past, you refused to do anything more than the bare minimum, but now here you are working voluntarily. Honestly, I'm seeing you in a new light.
+
+$L_MONT,3,,-300,0,0,M,GR10S0301
+
+$VOICE,v\GRG0049.ogg,0,100
+ÅyGalegaÅz
+"Yeah. I agree with Pumila on that. I thought you'd say something like, 'I'm gonna take a look around this crumbling world' and then drift off aimlessly."
+
+$L_MONT,4,,0,0,0,M,AN20S0267
+
+$L_DELAY,4,T,2000
+$L_MONT,4,,0,0,0,M,AN20S0113
+$L_DELAY,4,E
+
+$VOICE,v\ACN0112.ogg,0,100
+ÅyAconiteÅz
+"What...? I've been thinking about things seriously too! And, you know, we're still alive. So I figured it wouldn't be so bad to struggle on 'til the end."
+
+$L_MONT,2,,300,0,0,M,IS20S0203
+
+$VOICE,v\IRZ0092.ogg,0,100
+ÅyIrisÅz
+"...You're right."
+
+There's a hint of sorrow in Aconite's expression. But Iris, who has been together with him for a long time, knows that it's not all pessimism about the future. She also didn't miss the embarrassed look from just a moment before.
+
+$L_BG,b\bg41_01d.s25,0,0,0
+$L_CHR,1,b\tr.s25,0,0,0
+$L_MONT,2,,0,0,0,M,IS20L0172
+$DRAW_EX,0,,1000,1
+
+$VOICE,v\IRZ0093.ogg,0,100
+ÅyIrisÅz
+(Honestly...it's rare to catch such a look on him. But it's always good to see Aconite's embarrassed face.)
+
+$L_MONT,2,,350,0,0,M,IS20L0107
+$L_MONT,3,,-350,0,0,M,GR11L0203
+$DRAW_EX,0,,300,0
+
+$VOICE,v\GRG0050.ogg,0,100
+ÅyGalegaÅz
+(I secretly recorded Aconite just now... If you give me 30 minutes of rubbing your legs, I'llÅ\)
+
+$L_MONT,2,,350,0,0,M,IS20L0311
+
+$VOICE,v\IRZ0094.ogg,0,100
+ÅyIrisÅz
+(Oh, my only option seems to be to take it by force.)
+
+$L_BG,b\bg41_01.s25,0,0,0
+$L_MONT,3,,-150,0,0,M,GR10M0212
+$L_MONT,2,,150,0,0,M,IS20M0311
+$DRAW_EX,0,,1000,1
+
+$L_DELAY,2,T,2000
+$L_MONT,2,,150,0,0,M,IS20M0174
+$L_DELAY,2,E
+
+$VOICE,v\GRG0051.ogg,0,100
+ÅyGalegaÅz
+"...It's not like I'm particularly attached to it, so you can have it."
+
+;ÇﬂÇ¡ÇøÇ·èŒäÁ
+$SE,se\SE_G040.ogg,0,0
+$L_MONT,5,,0,0,0,M,IS20L0155
+$L_CHR,4,ef\effect13.s25,0,0,0
+$L_CHR,6,ef\wk.s25,0,0,0
+$DRAW_EX,2,c\rule06.s25,500,1
+
+$VOICE,v\IRZ0095.ogg,0,100
+ÅyIrisÅz
+"Thank you."
+
+$SE_FADE,1000,0
+$L_CHR,5,,
+$L_CHR,4,,
+$L_CHR,6,,
+$L_MONT,3,,-150,0,0,M,GR10M0213
+$L_MONT,2,,150,0,0,M,IS20M0171
+$DRAW_EX,0,,300,0
+
+$VOICE,v\GRG0052.ogg,0,100
+ÅyGalegaÅz
+"...Why don't you show that smile to Aconite?"
+
+$L_MONT,2,,150,0,0,M,IS20M0107
+
+$VOICE,v\IRZ0096.ogg,0,100
+ÅyIrisÅz
+"Huh? Did you say something?"
+
+$L_MONT,3,,-150,0,0,M,GR11M0316
+
+$VOICE,v\GRG0053.ogg,0,100
+ÅyGalegaÅz
+"No, nothing."
+
+$FACE,,M,AN20F0118
+
+$VOICE,v\ACN0113.ogg,0,100
+ÅyAconiteÅz
+"Hey, I know you're close, but seeing you two whispering together right in front of me makes me feel really left out!"
+
+$FACE
+$L_MONT,2,,0,0,0,M,AN20S0218
+$L_MONT,4,,150,0,0,M,IS20M0370
+$L_MONT,3,,-150,0,0,M,GR10M0101
+$DRAW_EX,0,,300,0
+$A_CHR,128,3,-350,0,300,1
+$A_CHR,128,4,350,0,300,1
+$DRAW
+
+$VOICE,v\IRZ0097.ogg,0,100
+ÅyIrisÅz
+"Wh-who are you saying is close?! I-I was justÅ\"
+
+$L_MONT,2,,0,0,0,M,AN20S0107
+
+The man she loves has got the wrong impression, and Iris becomes flustered. Galega decides to help her out so that she won't disgrace herself any further.
+
+$L_MONT,3,,-350,0,0,M,GR10M0203
+
+$VOICE,v\GRG0054.ogg,0,100
+ÅyGalegaÅz
+"She was just giving me a quick briefing. She is your lieutenant, after all... Actually, have you looked through the reports I gave you earlier?"
+
+$L_MONT,4,,350,0,0,M,IS20M0107
+$L_MONT,2,,0,0,0,M,AN20M0119
+$DRAW_EX,0,,300,0
+
+$VOICE,v\ACN0114.ogg,0,100
+ÅyAconiteÅz
+"Errrmmm, that one, right? That one, yeah. I left that entirely to Iris. Yeah, no problemo."
+
+
+
+$VOICE,v\IRZ0098.ogg,0,100
+ÅyIrisÅz
+"......"
+
+$L_MONT,3,,-350,0,0,M,GR10M0204
+
+$VOICE,v\GRG0055.ogg,0,100
+ÅyGalegaÅz
+"So he says, Pumila. Why don't you explain it in more detail to him later? When you two are alone."
+
+$L_BG,b\bg41_01d.s25,0,0,0
+$L_CHR,1,b\tr.s25,0,0,0
+$DRAW_EX,1,,300,0
+
+$FACE,,M,IS20F0110
+
+$VOICE,v\IRZ0099.ogg,0,100
+ÅyIrisÅz
+(...Hmph. You won't be getting a thank you from me for this.)
+
+$FACE,,M,GR10F0103
+
+$VOICE,v\GRG0056.ogg,0,100
+ÅyGalegaÅz
+(I've got enough already, so no need to bother.)
+
+$FACE,,M,IS20F0107
+
+$VOICE,v\IRZ0100.ogg,0,100
+ÅyIrisÅz
+(???)
+
+$FACE
+
+$L_BG,b\bg41_01.s25,0,0,0
+$L_MONT,4,,-200,0,0,M,AN20M0115
+$L_MONT,2,,200,0,0,M,IS20M0211
+$DRAW_EX,0,,1000,1
+$WAIT, 500
+
+After having this quiet little exchange with Galega, Iris brushes off his cryptic comment and lectures the frowning Aconite.
+
+$VOICE,v\IRZ0101.ogg,0,100
+ÅyIrisÅz
+"You can't keep ignoring the daily reports just because you find them boring."
+
+$L_MONT,4,,-200,0,0,M,AN20M0119
+
+$VOICE,v\ACN0115.ogg,0,100
+ÅyAconiteÅz
+"No, you see...I just trust my subordinates."
+
+$L_MONT,2,,200,0,0,M,IS20M0202
+
+$L_DELAY,2,T,3000
+$L_MONT,2,,200,0,0,M,IS20M0304
+$L_DELAY,2,E
+
+$VOICE,v\IRZ0102.ogg,0,100
+ÅyIrisÅz
+"Trust is important. And we perform our duties in order to live up to that trust. Right now, my duty is reporting."
+
+$L_MONT,4,,-200,0,0,M,AN20M0117
+
+$VOICE,v\ACN0116.ogg,0,100
+ÅyAconiteÅz
+"Fine... Keep it brief."
+
+All Aconite can do is wave a white flag, knowing that Iris has him cornered with a sound argument.
+
+
+$L_MONT,2,,200,0,0,M,IS20A0102
+
+$VOICE,v\IRZ0103.ogg,0,100
+ÅyIrisÅz
+"Rest assured. I am not good at useless conversation."
+
+$L_BG,b\bg41_01d.s25,0,0,0
+$L_CHR,1,b\tr.s25,0,0,0
+$L_MONT,3,,-350,0,0,M,GR10L0311
+$L_MONT,4,,350,0,0,M,AN20L0218
+$DRAW_EX,1,,1000,1
+
+$VOICE,v\GRG0057.ogg,0,100
+ÅyGalegaÅz
+"You're pretty eloquent when it comes to barrage fire, though..."
+
+$VOICE,v\ACN0117.ogg,0,100
+ÅyAconiteÅz
+"She sure is verbose when it comes to that..."
+
+$L_BG,b\bg41_01.s25,0,0,0
+$L_MONT,2,,0,0,0,M,IS20B0107
+$DRAW_EX,1,,300,0
+
+$VOICE,v\IRZ0104.ogg,0,100
+ÅyIrisÅz
+"Did you say something?"
+
+$L_MONT,4,,500,0,0,M,AN20L0213
+$L_MONT,3,,-500,0,0,M,GR10L0111
+$A_CHR,114,4,400,0,300,1
+$A_CHR,114,3,-400,0,300,1
+$A_CHR,151,4,300,1
+$A_CHR,151,3,300,1
+$DRAW
+
+$VOICE,v\GRG0058.ogg,0,100
+$VOICE,v\ACN0118.ogg,0,100
+ÅyAconite & GalegaÅz
+"Nothing at all."
+
+$L_MONT,2,,0,0,0,M,IS20S0111
+
+Iris looks coldly at the pair who are strangely in tune with one another.
+
+$L_MONT,2,,0,0,0,M,IS20S0111
+
+However, Galega drops the subject and gets back to the point.
+
+$L_MONT,3,,-400,0,0,M,GR10L0308
+$L_MONT,4,,400,0,0,M,AN20L0206
+$L_MONT,2,,0,0,0,M,IS20S0207
+$DRAW_EX,0,,300,0
+
+$VOICE,v\GRG0059.ogg,0,100
+ÅyGalegaÅz
+"Well, I looked into it over the past few days and... I discovered something quiteÅ\no, very interesting. Come with me."
+
+$MUSIC_FADE
+;îwåiÅ@ÉTÅ[ÉoÅ[ÉãÅ[ÉÄ
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,5,b\tr2.s25,0,0,0
+$DRAW_EX,0,,1000,1
+$WAIT, 500
+$L_CHR,1,b\bg42_01d.s25,-600,-250,0
+$A_CHR,114,1,600,-250,120000,1
+$A_CHR,151,1,1000,1
+$DRAW
+$WAIT, 1000
+
+$MUSIC,m\bgm07.ogg,1
+
+$FACE,,M,AN20F0108
+
+$VOICE,v\ACN0119.ogg,0,100
+ÅyAconiteÅz
+"Hey, hey, should we really be in here?"
+
+$FACE
+
+Galega has led them to the most central area of the server.
+
+Naturally, it is designated as a restricted and top secret area.
+
+In short, simply entering could lead to immediate arrest. It wouldn't even be unthinkable for there to be an execution without a trial.
+
+$L_BG,b\bg42_01.s25,0,0,0
+$L_MONT,2,,200,0,0,M,IS20S0110
+$L_MONT,3,,-200,0,0,M,GR10S0213
+$DRAW_EX,0,,1000,1
+
+$VOICE,v\IRZ0105.ogg,0,100
+ÅyIrisÅz
+"What are you so afraid of? There's no one to give us a slap on the wrist for it anymore."
+
+$VOICE,v\GRG0060.ogg,0,100
+ÅyGalegaÅz
+"But anyone who receives a general education learns that it's very bad to trespass into the center of the server."
+
+$L_MONT,2,,200,0,0,M,IS20S0109
+
+$VOICE,v\IRZ0106.ogg,0,100
+ÅyIrisÅz
+"Hey. Are you implying I lack common sense?"
+
+$L_MONT,3,,-200,0,0,M,GR10S0216
+
+$VOICE,v\GRG0061.ogg,0,100
+ÅyGalegaÅz
+"Oh, I thought I made that obvious?"
+
+$L_MONT,2,,200,0,0,M,IS20S0112
+
+$VOICE,v\IRZ0107.ogg,0,100
+ÅyIrisÅz
+"Hey, you?!"
+
+$WINDOW,0
+$A_CHR,114,3,-300,0,300,1
+$A_CHR,114,2,300,0,300,1
+$DRAW
+$WAIT, 300
+$L_MONT,4,,0,0,0,M,AN20S0210
+
+$VOICE,v\ACN0120.ogg,0,100
+ÅyAconiteÅz
+"Hey, hey, don't start a fight in a place like this. It wouldn't be funny if the cause of the server collapse wasn't infection force but a fight amongst ourselves."
+
+$L_MONT,2,,300,0,0,M,IS20B0109
+
+$VOICE,v\IRZ0108.ogg,0,100
+ÅyIrisÅz
+"Hmph. A lucky escape for you."
+
+$L_MONT,3,,-300,0,0,M,GR10S0313
+
+$VOICE,v\GRG0062.ogg,0,100
+ÅyGalegaÅz
+"Now, that's enough playing around with Pumila. Let's get back to business."
+
+$L_MONT,2,,300,0,0,M,IS20B0110
+$L_DELAY,2,T,1800
+$L_MONT,2,,300,0,0,M,IS20B0169
+$L_DELAY,2,E
+$L_DELAY,4,T,1500
+$A_CHR,114,4,450,0,500,1
+$L_DELAY,4,E
+
+
+$VOICE,v\IRZ0109.ogg,0,100
+ÅyIrisÅz
+"...WhaÅ\? Arrrgh!"
+
+$L_DELAY,3,T,3000
+$L_MONT,3,,-300,0,0,M,GR10S0213
+$A_CHR,06,3,2,10,500
+$L_DELAY,3,E
+
+Aconite holds Iris back just before her anger boils over again and sends Galega a look that appeals to him not to incite her any further. Galega shrugs his shoulders acceptingly.
+
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,0,,1000,1
+$EX,PPFGBLUR,11,11
+$L_BG,b\bg42_01d.s25,0,0,0
+$L_MONT,3,,0,0,0,M,GR10L0307
+$DRAW_EX,0,,1000,1
+
+$VOICE,v\GRG0063.ogg,0,100
+ÅyGalegaÅz
+"Now...before I begin... Life force is as essential for us to live, as much so as water and air."
+
+$FACE,,M,IS20F0112
+
+$VOICE,v\IRZ0110.ogg,0,100
+ÅyIrisÅz
+"Don't treat me like an idiot. Everyone in Derniere knows that!"
+
+$FACE,,M,AN20F0219
+
+$VOICE,v\ACN0121.ogg,0,100
+ÅyAconiteÅz
+"Whoa, there!"
+
+$FACE,,M,IS20F0223
+
+$VOICE,v\IRZ0111.ogg,0,100
+ÅyIrisÅz
+"Grrrrrrr!"
+
+$FACE
+$L_MONT,3,,0,0,0,M,GR10L0316
+
+
+$VOICE,v\GRG0064.ogg,0,100
+ÅyGalegaÅz
+"Hehe...keep holding her like that. If you put your arms around her from behind she'll quiet down for sure."
+
+$FACE,,M,AN20F0204
+
+$VOICE,v\ACN0122.ogg,0,100
+ÅyAconiteÅz
+"Will she...? There we go."
+
+$FACE,,M,IS20F0266
+
+$VOICE,v\IRZ0112.ogg,0,100
+ÅyIrisÅz
+"Purrr..."
+
+$FACE
+
+The moment Aconite puts his arms around her, Iris settles down.
+
+$L_MONT,3,,0,0,0,M,GR10L0113
+$DRAW_EX,0,,300,0
+
+While thinking she must have a lot on her plate switching between being a dog and a cat, Galega decides to prioritize explainingÅ\they won't get anywhere if he keeps getting Iris worked up.
+
+
+$L_MONT,3,,0,0,0,M,GR10L0203
+
+$VOICE,v\GRG0065.ogg,0,100
+ÅyGalegaÅz
+"The usage of life force is highly-diversified; it can be converted into all kinds of energy as well as being the conduit for the special powers we employ. It wouldn't be an exaggeration to call it an omnipotent energy."
+
+$L_MONT,3,,0,0,0,M,GR10L0201
+
+$VOICE,v\GRG0066.ogg,0,100
+ÅyGalegaÅz
+"So how is this life force produced?  Well, the conclusion is that it's produced by servers like the one we're at right now...but it's much deeper and more fundamental than that."
+
+$L_MONT,3,,0,0,0,M,GR10L0302
+
+$VOICE,v\GRG0067.ogg,0,100
+ÅyGalegaÅz
+"Why is life force generated from the servers? The secret, which has been kept from us for so long, lies ahead."
+
+$L_MONT,3,,0,0,0,M,GR11L0204
+
+$VOICE,v\GRG0068.ogg,0,100
+ÅyGalegaÅz
+"Oh...why didn't I notice it sooner? To think that something so fascinating lay so close by all this time."
+
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,0,,1000,1
+$L_BG,b\bg42_01.s25,0,0,0
+$DRAW_EX,0,,1000,1
+
+Galega, who has a researcher's temperament, continues his fervent speech.
+
+$MUSIC_FADE,3000
+
+$L_MONT,4,,-300,0,0,M,AN20M0114
+$L_MONT,2,,300,0,0,M,IS20M0115
+$A_CHR,114,4,-150,0,500,1
+$A_CHR,114,2,150,0,500,1
+$A_CHR,151,4,500,1
+$A_CHR,151,2,500,1
+$DRAW
+
+$VOICE,v\ACN0123.ogg,0,100
+ÅyAconiteÅz
+"Well..."
+
+$VOICE,v\IRZ0113.ogg,0,100
+ÅyIrisÅz
+"...We'd better be ready for this."
+
+They sigh in resignationÅ\both of them are close to Galega in their own ways, and both know that he isn't easily stopped when he gets like this.
+
+;éûä‘åoâﬂ
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,6,b\tr2.s25,0,0,0
+$DRAW_EX,2,c\rule07.s25,1500,1
+$WAIT, 1000
+$L_CHR,5,b\bg42_01d.s25,500,250,0
+$A_CHR,114,5,-500,250,120000,1
+$A_CHR,151,5,1000,1
+$DRAW
+$WAIT, 1000
+
+$MUSIC,m\bgm07.ogg,1
+
+$FACE,,M,GR10F0104
+
+$VOICE,v\GRG0069.ogg,0,100
+ÅyGalegaÅz
+"The clue was the 'goddess' the guy from the other day spoke of. I guessed that this goddess must be the existence which provides the heart of the server, so I did some research. Then I found it!"
+
+$FACE
+
+Although he's rambled through his speech, he finally gets to the core of the subject. Aconite and Iris straighten up to listen to him.
+
+$FACE,,M,GR10F0303
+
+$VOICE,v\GRG0070.ogg,0,100
+ÅyGalegaÅz
+"We are about to come face to face with the ultimate secret which has been kept for hundreds of years. Are you ready for it?"
+
+$FACE
+
+The two of them, who are more than a little bored with Galega's unwavering excitement, make a great effort not to hurry him along and simply nod in response.
+
+From previous experience they know all too well that, if they accidentally stimulate Galega now, he'll never get to the point.
+
+$FACE,,M,GR10F0104
+
+$VOICE,v\GRG0071.ogg,0,100
+ÅyGalegaÅz
+"Then...here we go!"
+
+$FACE
+$SE,se\SE_B071.ogg,0,0
+$MUSIC_FADE
+
+With a peculiar excitement, Galega pushes one of the many buttons, and with a clang the sound of some kind of moving machinery fills the area.
+
+$SE,se\SE_E067.ogg,0,1
+
+$L_BG,b\bg42_01.s25,0,0,0
+$DRAW_EX,0,,2000,1
+
+;Å\Å\ÉEÉBÉìÉEÉBÉìÉEÉBÉìÉEÉBÉìÉEÉBÉìÅcÅcÅcÅcÅB
+
+$FACE,,M,AN20F0108
+
+$VOICE,v\ACN0124.ogg,0,100
+ÅyAconiteÅz
+"Is this really all right...?"
+
+$FACE,,M,IS20F0117
+
+$VOICE,v\IRZ0114.ogg,0,100
+ÅyIrisÅz
+"I don't know, but...if push comes to shove, we'll leave him behind and run away."
+
+$FACE
+$SE_FADE,2000,0
+$SE_FADE,2000,1
+
+Iris surveys their surroundings warily as she declares she will cut Galega off if necessary.
+
+Right in front of the two of them, who cannot hide their nervousness, a massive cylindrical object connected to numerous tubes rises up.
+
+
+Another cylinder appears. Bubbles can occasionally be seen within it, suggesting that it's filled with some kind of liquid.
+
+
+But what attracts their attention the most is the enshrined human figure floating in the center of the cylinder.
+
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,1,b\bg42_02d.s25,0,-150,0
+$DRAW_EX,0,,1000,1
+
+$MUSIC,m\bgm01.ogg,1
+
+$FACE,,M,IS20F0108
+
+$VOICE,v\IRZ0115.ogg,0,100
+ÅyIrisÅz
+"What is this...?!"
+
+$FACE,,M,AN20F0107
+
+$VOICE,v\ACN0125.ogg,0,100
+ÅyAconiteÅz
+"Is it a...figure?"
+
+$FACE
+
+Before them is a figure made from a transparent substance which glimmers iridescently. As it has the curves which symbolize a female, they are compelled to agree with those who say it is the figure of a goddess.
+
+$L_CHR,2,b\tr2.s25,0,0,0
+$L_MONT,3,,-350,0,0,M,GR11L0301
+$DRAW_EX,1,,300,0
+
+$A_CHR,114,3,-450,0,800,1
+$A_CHR,114,1,150,-150,800,1
+$DRAW
+
+$VOICE,v\GRG0072.ogg,0,100
+ÅyGalegaÅz
+"Yeah. This is the reality of the goddess the guy on the other end of the communicator was talking about. It is the heart of this server; a living organism which produces life force."
+
+$FACE,,M,AN20F0108
+
+$VOICE,v\ACN0126.ogg,0,100
+ÅyAconiteÅz
+"A living organism?!"
+
+$FACE,,M,IS20F0207
+
+$VOICE,v\IRZ0116.ogg,0,100
+ÅyIrisÅz
+"It's...alive?"
+
+$FACE
+
+Looking up at the feminine figure floating in the cylinder, Iris and Aconite can't hide their surprise at Galega's words.
+
+Certainly, it is human-shaped and seems as though it could start moving at any moment, but its body is not just translucent but literally see-through. Its appearance is far from that of a living creature.
+
+
+$L_MONT,3,,-450,0,0,M,GR10L0202
+
+
+$VOICE,v\GRG0073.ogg,0,100
+ÅyGalegaÅz
+"If you're wondering what I'm basing that on, I myself am not yet convinced enough to be able to assert that it is indeed alive, but previous research seems to show that this is the case."
+
+
+$L_MONT,3,,-450,0,0,M,GR10L0101
+
+
+$VOICE,v\GRG0074a.ogg,0,100
+ÅyGalegaÅz
+"Records show that an unknown mineral was discovered in a meteorite which came flying into this planet tens of thousands of years ago. That seems to have been the beginning of everything."
+
+$L_MONT,3,,-450,0,0,M,GR10L0213
+
+$VOICE,v\GRG0074b.ogg,0,100
+ÅyGalegaÅz
+"But it was about seven hundred years ago..."
+
+
+Galega continues his explanation as he shows them images on an attached monitor.
+
+
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,2,c\rule01.s25,500,1
+$L_BG,b\bg42_02.s25,0,0,0
+$L_MONT,3,,-300,0,0,M,GR10S0208
+$L_MONT,4,,0,0,0,M,AN20S0109
+$L_MONT,2,,300,0,0,M,IS20S0102
+$DRAW_EX,2,c\rule01.s25,500,1
+
+;êØã ÅÅÇπÇ¢Ç¨ÇÂÇ≠
+
+$VOICE,v\GRG0075.ogg,0,100
+ÅyGalegaÅz
+"It was named 'Star Gem'. In the beginning, it was as small as a fist but as time passed it grew in volume."
+
+$L_MONT,3,,-300,0,0,M,GR10S0301
+
+$VOICE,v\GRG0076.ogg,0,100
+ÅyGalegaÅz
+"The research on Star Gem continued and it was discovered that, when it was split, an unknown energy was discharged from the fragments. And so they looked into methods of utilizing this energy."
+
+$L_MONT,4,,0,0,0,M,AN20S0202
+
+$VOICE,v\ACN0127.ogg,0,100
+ÅyAconiteÅz
+"So, the unknown energy was life force, and the method of utilizing it was the servers, which were built all over the world, and us."
+
+$L_MONT,3,,-300,0,0,M,GR10S0203
+
+$VOICE,v\GRG0077.ogg,0,100
+ÅyGalegaÅz
+"Yeah. At the time this server was built, it was no bigger than the size of a pebble."
+
+$L_MONT,2,,300,0,0,M,IS20S0210
+
+$VOICE,v\IRZ0117.ogg,0,100
+ÅyIrisÅz
+"So it took the form of a human as time passed. So what is this Star Gem in the end?"
+
+$MUSIC
+
+$L_BG,b\bgblack.s25,0,0,0
+$EX,PPFGBLUR,6,6
+$L_CHR,1,b\bg42_02d.s25,0,200,0
+$L_CHR,7,b\tr2.s25,0,0,0
+$L_MONT,6,,0,0,0,M,EN10L0102
+$DRAW_EX,0,,300,0
+
+$VOICE,v\ENS0027.ogg,0,100
+Åy???Åz
+"The Star Gem is a star itself. Or rather, it is an existence which might better be called an egg."
+
+$FACE,,M,AN20F0111
+
+$VOICE,v\ACN0128.ogg,0,100
+ÅyAconiteÅz
+"Who are you?!"
+
+$MUSIC,m\bgm06.ogg,1
+$SE,se\SE_C013.ogg,0,0
+$FACE
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,2,c\rule01.s25,500,1
+$L_BG,b\bg42_02.s25,0,0,0
+$L_MONT,1,,0,0,0,M,EN10M0102
+$DRAW_EX,2,c\rule02.s25,500,1
+
+A voice from behind startles Iris and the others, who react quickly.
+
+$EX,PPFGBLUR,11,11
+$L_BG,b\bg42_02.s25,0,0,0
+$EX,PPFGBLUR,11,11
+$L_MONT,1,,0,0,0,M,EN10S0102
+$L_CHR,2,b\tr.s25,0,0,0
+$L_MONT,4,,0,0,0,M,AN20L0109
+$DRAW_EX,0,,1000,1
+
+$VOICE,v\ACN0129.ogg,0,100
+ÅyAconiteÅz
+(Do you feel his presence?)
+
+$SE,se\SE_C032.ogg,0,0
+$A_CHR,128,4,-600,0,500,1
+$L_MONT,3,,600,0,0,M,IS20L0112
+$A_CHR,128,3,0,0,500,1
+$A_CHR,151,3,300,1
+$A_CHR,150,4,300,1
+$DRAW
+
+$VOICE,v\IRZ0118.ogg,0,100
+ÅyIrisÅz
+(No... I'm standing face to face with him and yet his presence is so slight that that he might not even be here.)
+
+$SE,se\SE_C032.ogg,0,0
+$A_CHR,128,3,600,0,500,1
+$L_MONT,5,,-600,0,0,M,GR10L0309
+$A_CHR,128,5,0,0,500,1
+$A_CHR,151,5,300,1
+$A_CHR,150,3,300,1
+$DRAW
+
+$VOICE,v\GRG0078.ogg,0,100
+ÅyGalegaÅz
+(It's probably some kind of thought projection. I would guess that his real body is somewhere else.)
+
+$L_BG,b\bg42_02.s25,0,0,0
+$L_MONT,6,,0,0,0,M,EN10M0101
+$DRAW_EX,0,,1000,1
+
+They're trying to grasp the situation as swiftly and calmly as possible.
+
+Their rapid reactions are exactly what is expected of them.
+
+$L_MONT,6,,0,0,0,M,EN10M0102
+
+$VOICE,v\ENS0028.ogg,0,100
+Åy???Åz
+"Oops, did I put you on guard? You were having such an interesting chat I couldn't help chiming in."
+
+While Iris and the others exercise caution, the man in robes stands there as carefree as can be.
+
+If Galega's guess is correct, he is a 'virtual shadow'. Even if they knocked him down swiftly, they probably wouldn't do any damage to his real body.
+
+
+$L_MONT,6,,0,0,0,M,EN10M0106
+$DRAW_EX,0,,300,0
+
+$VOICE,v\ENS0029.ogg,0,100
+ÅyEnoshÅz
+"Nice to meet you, Aconite Embroche. I am Enosh. You might know me if I say I am from the Ishua Sect. I am very glad to make your acquaintance."
+
+$FACE,,M,AN20F0118
+
+$VOICE,v\ACN0130.ogg,0,100
+ÅyAconiteÅz
+ÅgDomo. Well, Enosh-san I presume? I can't believe someone from the Ishua Sect has heard of me. I've really made a name for myself."
+
+$FACE
+$L_MONT,6,,0,0,0,M,EN10M0102
+$DRAW_EX,0,,300,0
+;íeñãódê∏ÅÅÉWÉFÉmÉTÉCÉhÉNÉCÅ[Éì
+
+$VOICE,v\ENS0030.ogg,0,100
+ÅyEnoshÅz
+"Yes. My subordinates are very capable. Of course, I know Galega Officinalis over there and also 'Genocide Queen Pumila', too."
+
+$MUSIC
+$EX,PPFGBLUR,11,11
+$L_BG,b\bg42_02d.s25,0,0,0
+$L_CHR,1,b\tr.s25,0,0,0
+$L_MONT,4,,350,0,0,M,AN20L0308
+$L_MONT,3,,-350,0,0,M,GR10L0308
+$DRAW_EX,1,,300,0
+
+$VOICE,v\ACN0131.ogg,0,100
+ÅyAconiteÅz
+"Genocide...?"
+
+$VOICE,v\GRG0079.ogg,0,100
+ÅyGalegaÅz
+"...Queen?"
+
+$MUSIC,m\bgm08.ogg,1
+$L_MONT,5,,0,700,0,M,IS20D0169
+$A_CHR,128,5,0,0,500,1
+$A_CHR,151,5,300,1
+$DRAW
+$L_DELAY,4,T,500
+$A_CHR,128,4,450,0,500,1
+$L_DELAY,4,E
+$L_DELAY,3,T,500
+$A_CHR,128,3,-450,0,500,1
+$L_DELAY,3,E
+
+$VOICE,v\IRZ0119.ogg,0,100
+ÅyIrisÅz
+"Waaaaaait a moment!! W-what's with that embarrassing name?!"
+
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,1,b\bg42_02.s25,0,0,0
+$L_MONT,2,,0,0,0,M,EN10S0101
+$DRAW_EX,0,,300,0
+
+$VOICE,v\ENS0031.ogg,0,100
+ÅyEnoshÅz
+"Are you not pleased with it? One of my subordinates who witnessed your destructive activity using an overwhelming barrage fire gave it to you out of deep respect..."
+
+$L_MONT,5,,550,0,0,M,IS20M0114
+$A_CHR,114,5,400,0,500,1
+$A_CHR,151,5,500,1
+$DRAW
+
+$VOICE,v\IRZ0120.ogg,0,100
+ÅyIrisÅz
+"Who cares??!! And why are you two agreeing with it!!!"
+
+$WINDOW,0
+$A_CHR,114,2,100,0,500,1
+$A_CHR,114,5,550,0,500,1
+$A_CHR,114,1,50,0,500,1
+$L_MONT,3,,-800,0,0,M,GR10M0316
+$L_MONT,4,,-600,0,0,M,AN20M0205
+$A_CHR,114,3,-600,0,500,1
+$A_CHR,114,4,-400,0,500,1
+$A_CHR,151,3,500,1
+$A_CHR,151,4,500,1
+$DRAW
+$WAIT, 500
+
+$VOICE,v\GRG0080.ogg,0,100
+ÅyGalegaÅz
+"Well, I think it's a good nickname that captures your character pretty well, 'Genocide Queen Pumila-san'...*chuckle*."
+
+$VOICE,v\ACN0132.ogg,0,100
+ÅyAconiteÅz
+"...Yeah, I think it's cool. 'Genocide Queen Pumila-sanÅfÅcpfft."
+
+
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,1,ef\effect8.s25,0,0,0
+$L_MONT,2,,0,0,0,M,IS20D0278
+$L_MONT,3,,0,0,0,M,IS20D0278
+$L_MONT,4,,0,0,0,M,IS20D0278
+$DRAW_EX,0,,1000,1
+$SE,se\SE_H033.ogg,1,0
+$A_CHR,11,3,0,256,0,500
+$A_CHR,11,4,0,0,256,500
+$A_CHR,05,3,0,20,500
+$A_CHR,06,4,0,20,500
+
+
+
+$VOICE,v\IRZ0121.ogg,0,100
+ÅyIrisÅz
+"Y O U...!"
+
+Quivering with shame, Iris raises a voice as if it were crawling up from the bowels of the earth.
+
+Not only was she given a horrible nickname, but on top of that the man she loves laughed at it.
+
+Life force surges and sparks on the surface of her body as if to reflect the degree of her anger. Perhaps even enough to emit a golden aura and make her hair stand on end.
+
+$SE_FADE,1000,0
+$L_BG,b\bg42_02.s25,0,0,0
+$L_MONT,4,,200,0,0,M,AN20S0317
+$L_MONT,3,,-200,0,0,M,GR10S0215
+$L_MONT,6,,0,0,0,M,EN10S0104
+$DRAW_EX,1,,300,0
+
+$A_CHR,06,4,0,10,500
+$A_CHR,06,3,0,8,400
+$A_CHR,06,6,0,5,300
+
+$VOICE,v\ACN0133.ogg,0,100
+ÅyAconiteÅz
+"C-c-calm down, Iris. I understand you're angry, but not here."
+
+$VOICE,v\GRG0081.ogg,0,100
+ÅyGalegaÅz
+"Right, right, right. And we're not even the ones you should be getting angry at, are we?"
+
+$VOICE,v\ENS0032.ogg,0,100
+ÅyEnoshÅz
+"The name was created by my subordinate, not me. My subordinate! Please don't forget that."
+
+Calm down, please calm downÅ\the three men are all silently praying in unison, as if pacifying an angry god.
+
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,1,ef\effect8.s25,0,0,0
+$L_MONT,2,,0,0,0,M,IS20D0227
+$DRAW_EX,0,,1000,1
+
+Even if their principles and positions are different, people can join hands once they are faced with a common enemy.
+
+
+Iris had been raging mad, but faced by these three quivering, dithering men, she suddenly doesn't care that much about it anymore.
+
+$L_MONT,2,,0,0,0,M,IS20D0109
+
+$VOICE,v\IRZ0122.ogg,0,100
+ÅyIrisÅz
+"Tsk, I'll punish Aconite later."
+
+
+$L_BG,b\bg42_02.s25,0,0,0
+$L_MONT,4,,200,0,0,M,AN20S0308
+$L_MONT,3,,-200,0,0,M,GR10S0101
+$L_MONT,6,,0,0,0,M,EN10S0101
+$DRAW_EX,1,,300,0
+
+$A_CHR,01,4,1,10,300
+
+$VOICE,v\ACN0134.ogg,0,100
+ÅyAconiteÅz
+"No fair!"
+
+$L_MONT,3,,-200,0,0,M,GR10S0313
+
+$VOICE,v\GRG0082.ogg,0,100
+ÅyGalegaÅz
+"Fair."
+
+Enosh's projection senses the matter has been settled among the three, but he's already wishing to go home.
+
+Even though his words were the trigger, he hadn't expected to end up in such a dangerous situation. He reflexively wipes the imaginary sweat from his brow.
+
+$MUSIC_FADE,3000
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,1,,300,0
+
+He needs to start over.
+
+
+
+;éûä‘åoâﬂ
+
+$L_BG,b\bg42_02.s25,0,0,0
+$L_MONT,6,,-300,0,0,M,EN10S0103
+$DRAW_EX,2,c\rule07.s25,1500,1
+$WAIT, 500
+
+$MUSIC,m\bgm07.ogg,1
+
+$L_MONT,4,,350,0,0,M,AN20M0116
+$A_CHR,114,4,300,0,500,1
+$A_CHR,151,4,500,1
+$DRAW
+
+$VOICE,v\ACN0135.ogg,0,100
+ÅyAconiteÅz
+"Er...now. Tell us the reason why you sent your projection all the way here."
+
+After a few minutes of silence as everyone gets themselves back in check, Aconite is the first to speak. Although you could say that, as their leader, Iris and Galega pushed him to do it.
+
+In contrast, Enosh, without giving away any reaction to the nature of his form having been seen through, acts with complete confidence, as though this is the first take.
+
+$L_MONT,6,,-300,0,0,M,EN10M0102
+
+$VOICE,v\ENS0033.ogg,0,100
+ÅyEnoshÅz
+"Oh, you noticed, did you? It seems you have rather sharp eyes."
+
+$L_MONT,4,,300,0,0,M,AN20M0119
+
+$VOICE,v\ACN0136.ogg,0,100
+ÅyAconiteÅz
+"Y-yeah...kind of. Nothing special."
+
+$FACE,,M,GR11F0316
+
+$VOICE,v\GRG0083.ogg,0,100
+ÅyGalegaÅz
+"That's right."
+
+$FACE,,M,IS20F0104
+
+$VOICE,v\IRZ0123.ogg,0,100
+ÅyIrisÅz
+"Oh, I guess so."
+
+$FACE
+$L_MONT,4,,300,0,0,M,AN20M0115
+$DRAW_EX,0,,300,0
+$A_CHR,02,4,1,10,300
+
+$L_DELAY,4,T,1000
+$L_MONT,4,,300,0,0,M,AN20M0209
+$L_DELAY,4,E
+
+$VOICE,v\ACN0137.ogg,0,100
+ÅyAconiteÅz
+"...*Cough*. And?"
+
+Aconite glosses over it.
+
+$EX,PPFGBLUR,11,11
+$L_BG,b\bg42_02d.s25,0,0,0
+$L_MONT,6,,0,0,0,M,EN10L0106
+$DRAW_EX,0,,300,0
+
+$VOICE,v\ENS0034.ogg,0,100
+ÅyEnoshÅz
+"Yes. I'd really like for all of you to come over to our side and walk along with 'Mother Life force'."
+
+
+$FACE,,M,AN20F0214
+
+$VOICE,v\ACN0138.ogg,0,100
+ÅyAconiteÅz
+"I see. I'd rather you put things more directly, but you're basically saying you came to solicit us?"
+
+$FACE
+$L_MONT,6,,0,0,0,M,EN10L0102
+
+$VOICE,v\ENS0035.ogg,0,100
+ÅyEnoshÅz
+"Yes. The time has come for this planet to pay for the sins it has committed over the long years. At this rate, you'll all be swallowed up in the process."
+
+$L_MONT,6,,0,0,0,M,EN10L0106
+
+$VOICE,v\ENS0036.ogg,0,100
+ÅyEnoshÅz
+"I gather that the three of you have great natural gifts. How about using your powers for Decay, Mother Life Force?"
+
+$L_BG,b\bg42_02.s25,0,0,0
+$L_CHR,5,b\tr2.s25,0,0,0
+$L_MONT,4,,-200,0,0,M,AN20M0118
+$L_MONT,2,,200,0,0,M,IS20M0211
+$DRAW_EX,0,,1000,1
+
+$VOICE,v\ACN0139.ogg,0,100
+ÅyAconiteÅz
+"I said be more direct... Why do all these pretentious types like purposefully making everything so hard to understand?"
+
+$VOICE,v\IRZ0124.ogg,0,100
+ÅyIrisÅz
+"Do we need to listen to this? We already know our answer."
+
+
+Certainly, Aconite never had any intention of joining the Ishua Sect from the start. He just doesn't want to flatly deny him without giving him a chance to tell his side of the story.
+
+Whether it's life force or infection force, there are too many things he doesn't know. He'd certainly had no idea that there was this female-shaped figure in the center of the server.
+
+Maybe there is a way to save Derniere.
+
+It's not like he's thinking that specifically, but he can't deny that he's been at a deadlock for the past few days. After all, hope is necessary to keep trying.
+
+$L_BG,b\bg42_02.s25,0,0,0
+$L_MONT,6,,100,0,0,M,EN10S0103
+$DRAW_EX,0,,1000,1
+
+
+$VOICE,v\ENS0037.ogg,0,100
+ÅyEnoshÅz
+"Oh dear. I'm putting it as simply as possible. Then, I'm afraidÅ\"
+
+
+$L_MONT,3,,-300,0,0,M,GR10S0108
+$A_CHR,114,3,-250,0,500,1
+$A_CHR,151,3,500,1
+$DRAW
+
+$L_DELAY,3,T,3000
+$L_MONT,3,,-250,0,0,M,GR10S0308
+$L_DELAY,3,E
+
+$VOICE,v\GRG0084.ogg,0,100
+ÅyGalegaÅz
+"Wait a minute. How about we start with pooling all our information together? There are many things I personally want to ask you, so would you mind waiting for our answer until after that?"
+
+$L_MONT,6,,100,0,0,M,EN10S0102
+
+$VOICE,v\ENS0038.ogg,0,100
+ÅyEnoshÅz
+"...Of course. I do not mind."
+
+Galega, who has sensed a dangerous light in Enosh's eyes, succeeds in prolonging their conversation by taking the wind out of Enosh's sails.
+
+It's also true that he's done it out of his own curiosity.
+
+$L_MONT,6,,100,0,0,M,EN10S0101
+
+$VOICE,v\ENS0039.ogg,0,100
+ÅyEnoshÅz
+"Then...where should I start, I wonder?"
+
+$L_MONT,3,,-250,0,0,M,GR10S0307
+
+$FACE,,M,AN20F0215
+
+$VOICE,v\ACN0140.ogg,0,100
+ÅyAconiteÅz
+"I'll leave it to you."
+
+$FACE
+$L_MONT,3,,-250,0,0,M,GR10S0203
+
+$VOICE,v\GRG0085.ogg,0,100
+ÅyGalegaÅz
+"...Well then, let's go with a format where I ask a question and you answer it."
+
+Aconite immediately foists everything onto Galega and gives him a thumbs-up along with a big smile as if to say "I believe in you".
+
+$FACE,,M,IS20F0202
+
+$VOICE,v\IRZ0125.ogg,0,100
+ÅyIrisÅz
+"......"
+
+$FACE
+
+As for Iris, it's difficult to say whether she's listening or not. She's completely indifferent to anything that doesn't interest her, meaning, things which don't involve Aconite.
+
+
+$L_MONT,6,,100,0,0,M,EN10S0102
+
+$VOICE,v\ENS0040.ogg,0,100
+ÅyEnoshÅz
+"All right. Please start."
+
+Thus, Galega and Enosh's Q&A begins and Aconite and Iris kill time out while staying of their way.
+
+;éûä‘åoâﬂ
+
+$MUSIC_FADE
+
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,5,b\tr2.s25,0,0,0
+$DRAW_EX,0,,1000,1
+$WAIT, 1000
+$L_CHR,1,b\bg42_02d.s25,600,200,0
+$A_CHR,114,1,-600,200,180000,1
+$A_CHR,151,1,500,1
+$DRAW
+$WAIT, 1000
+
+Their session continues for an hour or so.
+
+Enosh's answers include a substantial amount of information Galega already knew, as well as knowledge that is too technical to mean anything to him.
+
+After comparing and adjusting his own information with Enosh's, Galega nods satisfactorily and closes his eyes for a moment to organize the data.
+
+$MUSIC,m\bgm04.ogg,1
+
+$FACE,,M,GR10F0111
+
+$VOICE,v\GRG0086.ogg,0,100
+ÅyGalegaÅz
+"The Star Gem is considered to be a single star, and life force is the energy which encircles the star. Of course, there is life force flowing through the planet on which we stand too, but it is too diffused for us to utilize."
+
+$FACE,,M,GR10F0112
+
+$VOICE,v\GRG0087a.ogg,0,100
+ÅyGalegaÅz
+"So servers were built all over the world in order to artificially overlay two stars and deliberately create channels where life force could flow smoothly."
+
+$FACE,,M,GR10F0213
+
+$VOICE,v\GRG0087b.ogg,0,100
+ÅyGalegaÅz
+"As the flow of life force increased, it grew denser, and it became possible to obtain a high enough concentration to be utilized."
+
+
+$FACE,,M,GR10F0301
+
+$VOICE,v\GRG0088.ogg,0,100
+ÅyGalegaÅz
+"In theory, it wouldn't have been strange for the planet to have been adversely affected since the energy circling around it was being used. But that didn't happen. Because the Star Gem is also a star."
+
+$FACE,,M,GR10F0101
+
+$VOICE,v\GRG0089.ogg,0,100
+ÅyGalegaÅz
+"Essentially, with two stars' worth of capacity, there must have been more supply than demand. I'm not sure if that's why, but as time passed the fragments of the Star Gem swelled."
+
+$FACE,,M,GR10F0108
+
+$VOICE,v\GRG0090.ogg,0,100
+ÅyGalegaÅz
+"And so the capacity increased again, and it has supported Derniere over the last several hundred years."
+
+$FACE
+
+So far it is almost the same information Galega acquired beforehandÅ\he had put it into words simple to confirm it.
+
+The problem isÅ\
+
+
+$L_BG,b\bg42_02.s25,0,0,0
+$L_MONT,4,,-200,0,0,M,AN20M0109
+$L_MONT,2,,200,0,0,M,IS20M0207
+$DRAW_EX,0,,1000,1
+$WAIT, 500
+
+$VOICE,v\ACN0141.ogg,0,100
+ÅyAconiteÅz
+"In the end, the true nature of the Star Gem, or the fact that life force is actually energy circling around stars, or other things of that nature, aren't very important for us now."
+
+$L_MONT,2,,200,0,0,M,IS20M0210
+
+$VOICE,v\IRZ0126.ogg,0,100
+ÅyIrisÅz
+"Oh! You were actually listening."
+
+Aconite, who had been listening to Galega and Enosh's dialogue next to them, is striving to simplify and get a grip on this information in his own way. He isn't able to get what he'd been hoping for.
+
+$L_MONT,4,,-200,0,0,M,AN20M0115
+
+$VOICE,v\ACN0142.ogg,0,100
+ÅyAconiteÅz
+"In short, the Star Gem we've been using is like a transplanted organ. The blood running through it is life force. And infection force is like the original life force or blood of the Star Gem."
+
+$L_MONT,4,,-200,0,0,M,AN20M0214
+
+$VOICE,v\ACN0143.ogg,0,100
+ÅyAconiteÅz
+"The current condition of this planet is due to a part of the Star Gem having a rejection reaction, so to speak. It rapidly causes a chain reaction and amplifies...and spreads just like cancer cells."
+
+$L_MONT,4,,-200,0,0,M,AN20M0215
+
+$VOICE,v\ACN0144.ogg,0,100
+ÅyAconiteÅz
+"I can't help wondering why it happened after such a long time, but I suppose a few hundred years is only a flash in the life of a star."
+
+
+$L_BG,b\bg42_02.s25,0,0,0
+$L_MONT,2,,350,0,0,M,IS20S0124
+$L_MONT,3,,-350,0,0,M,GR10S0305
+$L_MONT,6,,-100,0,0,M,EN10S0104
+$DRAW_EX,1,,300,0
+
+$VOICE,v\IRZ0127.ogg,0,100
+$VOICE,v\ENS0041.ogg,0,100
+$VOICE,v\GRG0091.ogg,0,100
+ÅyAll ThreeÅz
+"......"
+
+
+Aconite's metaphorical interpretation has the others at a loss for words.
+
+He ignores Iris muttering rudely, "It can't be. Is this really THAT Aconite?!", and continues.
+
+
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,2,b\tr2.s25,0,0,0
+$DRAW_EX,0,,1000,1
+$L_CHR,1,b\bg42_02d.s25,0,-300,0
+$A_CHR,114,1,0,100,120000,1
+$A_CHR,151,1,1000,1
+$DRAW
+
+$FACE,,M,AN20F0116
+
+$VOICE,v\ACN0145.ogg,0,100
+ÅyAconiteÅz
+"But in that case, sooner or later, infection force is going to overflow from every server...which means we're doomed, I guess?"
+
+$FACE
+
+Aconite looks up at the Star GemÅ\the goddess figureÅ\floating in the cylinder.
+
+;The body is literally transparent with a rainbow glimmer to it that waxes and wanes. On its back are rows of stalagmite-like crystals that look like wings.
+
+;The figure, with its arms slightly spread, could truly have descended from Heaven.
+
+
+;óáêgÇâBÇ∑Ç‡ÇÃÇÕâΩÇ‡Ç»Ç≠ÅAëSÇƒÇîòÇØèoÇµÇƒÇ¢ÇÈÇ∆Ç¢Ç§ÇÃÇ…ÅAî⁄‡ŒÇ≥ÇÕä¥Ç∂Ç»Ç¢ÅBå|èpÇ…ñæÇÈÇ≠Ç»Ç¢ÉAÉNÉiÉCÉgÇ≈Ç≥Ç¶ÅAÇªÇÃî¸ÇµÇ≥Ç…ÇΩÇﬂëßÇ™èoÇÈÇŸÇ«ÅAÇªÇÃë¢å`ÇÕê_îÈÇ™Ç©Ç¡ÇƒÇ¢ÇÈÅB
+
+Aconite almost finds himself asking for salvation, but he is one of those who has used her (Star Gem) mercilessly. He thinks in no way it would go so conveniently and shakes his head to himself.
+
+$VOICE,v\ACN0146.ogg,0,100
+ÅyAconiteÅz
+(For several hundred years, you've been trapped here, having your body used against your will...as a mere part in a machine. I guess it's no surprise you got angry and broken... Huh?)
+
+Aconite, who has been staring at the goddess figure intensely enough to trigger Iris' jealousy sensor, notices a change.
+
+
+$L_MONT,4,,450,0,0,M,AN20L0209
+
+$VOICE,v\ACN0147.ogg,0,100
+ÅyAconiteÅz
+"Hey... Galega..."
+
+$L_MONT,3,,-450,0,0,M,GR10L0208
+
+$VOICE,v\GRG0092.ogg,0,100
+ÅyGalegaÅz
+"Yeah? What's the matter?"
+
+$L_MONT,4,,450,0,0,M,AN20L0210
+
+$VOICE,v\ACN0148.ogg,0,100
+ÅyAconiteÅz
+"Maybe it's my imagination...but it looked like her mouth just moved..."
+
+
+$L_MONT,3,,-450,0,0,M,GR10L0105
+$FACE,,M,EN10F0101
+
+$VOICE,v\ENS0042.ogg,0,100
+ÅyEnoshÅz
+"......"
+
+$FACE
+
+$L_BG,b\bg42_02.s25,0,0,0
+$L_MONT,4,,300,0,0,M,IS20S0302
+$DRAW_EX,0,,300,0
+
+$VOICE,v\IRZ0128.ogg,0,100
+ÅyIrisÅz
+"Hmph! You must have imagined it."
+
+Without noticing Iris' subtly thorny demeanor, Aconite walks up to the cylinder and gazes intently at the figure so as not to miss the slightest change.
+
+$MUSIC_FADE
+
+Someone says "Oh!", as the figure's mouth undeniably moves, opening slowly.
+
+$SE,se\SE_K080.ogg,0,0
+$SE,se\SE_K071.ogg,0,1
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,1,b\bg42_02d.s25,0,0,0
+$GLEFECT,1,3
+$L_CHR,2,b\bg42_02d.s25,0,0,0
+$L_CHR,3,b\bg42_02d.s25,0,0,0
+$L_CHR,5,e\emo.s25,0,0,0
+$DRAW_EX,1,,300,0
+$A_CHR,11,2,0,256,0,1500
+$A_CHR,11,3,0,0,256,1500
+$A_CHR,31,2,640,360,0,100,120,1000
+$A_CHR,31,3,640,360,0,120,100,1000
+$EMOTION,5,èWíÜ1
+$DRAW
+
+$VOICE,v\WOO0001.ogg,0,100
+ÅyGoddess FigureÅz
+"Laaaaaaaaaaaaa!!!"
+
+$MUSIC,m\bgm14.ogg,1
+
+A clear, high-pitched note reverberates through the room.
+
+Immediately after, a shock wave strikes Aconite, Iris and Galega as though they've been hit on the head with a blunt instrument.
+
+$FACE,,M,AN20F0117
+$SE,se\SE_K023.ogg,0,2
+
+$VOICE,v\ACN0149.ogg,0,100
+ÅyAconiteÅz
+"Ugh, what's going on? There's something inside my head?!"
+
+$FACE,,M,GR10F0114
+$SE,se\SE_K072.ogg,0,1
+
+$VOICE,v\GRG0093.ogg,0,100
+ÅyGalegaÅz
+"Argh... Is this telepathy?! No, it's similar, but..."
+
+$WINDOW,0
+$SE,se\SE_K078.ogg,0,0
+$SE_FADE,1000,1
+$DRAW
+$WAIT, 1000
+$FACE,,M,IS20F0118
+$SE_FADE,1000,0
+
+$VOICE,v\IRZ0129.ogg,0,100
+ÅyIrisÅz
+"It's going directly into our brains...!"
+
+$FACE
+
+The three of them are down on their knees on the floor, holding their head in their hands. Only one is left standing to watch them with a sour face.
+
+
+$SE_FADE,1000,0
+$GLEFECT,0
+$STOPEMO,11
+$EX,PPFGBLUR,11,11
+$L_BG,ef\effect7.s25,0,0,0
+$L_MONT,6,,0,0,0,M,EN10L0107
+$L_CHR,7,b\tr2.s25,0,0,0
+$DRAW_EX,1,,300,0
+
+$VOICE,v\ENS0043.ogg,0,100
+ÅyEnoshÅz
+"Tsk!! If things had continued as they were, getting them to come over to our side was only a matter of time... Damn, I can't believe it's awakening right now."
+
+Enosh glares at the goddess figure, which is still issuing forth its shrill cry.
+
+It must be quite an unexpected occurrence as the man's language has become coarse, although he doesn't realize it himself.
+
+$L_MONT,6,,0,0,0,M,EN10L0103
+
+$VOICE,v\ENS0044.ogg,0,100
+ÅyEnoshÅz
+"There's nothing I can do. If it wakes up like this, there'll be nothing but trouble. I'm gonna move up the deadline."
+
+$L_BG,b\bg42_02.s25,0,0,0
+$L_MONT,6,,350,0,0,M,EN10S0103
+$DRAW_EX,2,c\rule09.s25,500,1
+
+$L_DELAY,6,T,1500
+$A_CHR,114,6,75,0,1000,1
+$L_DELAY,6,E
+
+Ignoring the people curled up on the floor, Enosh walks up to the cylinder.
+
+$FACE,,M,AN20F0116
+
+$VOICE,v\ACN0150.ogg,0,100
+ÅyAconiteÅz
+"Argh...what are you going to...do?"
+
+$FACE
+$L_MONT,6,,75,0,0,M,EN10S0106
+
+$VOICE,v\ENS0045.ogg,0,100
+ÅyEnoshÅz
+"Well. I would like her to join us, by all means."
+
+Saying so, Enosh turns both his hands to the goddess figure.
+
+$L_MONT,7,,-100,0,0,M,AN20C1204
+$A_CHR,114,7,0,0,300,1
+$A_CHR,151,7,300,1
+$DRAW
+
+$VOICE,v\ACN0151.ogg,0,100
+ÅyAconiteÅz
+"Stop...!!"
+
+$SE,se\SE_K003.ogg,0,0
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,1,ef\effect01b.s25,0,0,0
+$L_CHR,2,ef\effect01b.s25,0,0,0
+$L_CHR,3,ef\effect01b.s25,0,0,0
+$DRAW_EX,2,c\rule44.s25,300,1
+$A_CHR,11,2,0,256,0,500
+$A_CHR,11,3,0,0,256,500
+$A_CHR,05,2,0,20,500
+$A_CHR,06,3,0,20,500
+$DRAW
+$WAIT, 500
+
+Whether from intuition, or the goddess figure's fear being transmitted to him, Aconite is propelled by the urge to stop Enosh and he leaps at him, despite his vision being blurred by the pain in his head.
+
+
+$SE,se\SE_I051.ogg,0,0
+$L_BG,b\bg42_02.s25,0,0,0
+$L_MONT,3,,0,0,0,M,EN10M0102
+$DRAW_EX,1,,300,1
+
+$A_CHR,114,3,150,0,500,1
+$A_CHR,02,3,1,20,500
+$A_CHR,150,3,300,1
+$DRAW
+$WAIT, 200
+$L_MONT,4,,150,0,0,M,EN10S0102
+$A_CHR,114,4,250,0,500,1
+$A_CHR,151,4,300,1
+$A_CHR,02,4,2,5,250
+$DRAW
+
+$VOICE,v\ENS0046.ogg,0,100
+ÅyEnoshÅz
+"Oops. Let us meet again later, if you're still alive. Of course, it will be my real body that deals with you then."
+
+
+
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,2,ef\magic01.s25,0,0,0
+$L_CHR,3,ef\magic01.s25,0,0,0
+$L_CHR,5,e\emo.s25,0,0,0
+$DRAW_EX,1,,300,0
+$SE,se\SE_K012.ogg,0,0
+$A_CHR,51,3,640,360,180,105,100,300
+$A_CHR,11,3,0,180,0,500
+$A_CHR,06,3,0,10,300
+$EMOTION,5,èWíÜ2
+
+After easily dodging Aconite's ramming attack, Enosh's double says only that before firing all the infection force forming his body into the goddess figure.
+
+$SE,se\SE_K072.ogg,0,0
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,1,b\bg42_02d.s25,0,0,0
+$DRAW_EX,1,,300,1
+$EFECT,29,500,200
+
+$VOICE,v\WOO0002.ogg,0,100
+ÅyGoddess FigureÅz
+"YAAAAAAAAAAAAAAAAAAAA!!!!"
+
+;ìØéû
+
+$L_CHR,2,b\tr.s25,0,0,0
+$L_MONT,4,,0,0,0,M,AN20M0116
+$L_MONT,3,,-300,0,0,M,GR10M0311
+$L_MONT,2,,300,0,0,M,IS20M0118
+$A_CHR,06,1,0,10,500
+$DRAW_EX,11,,1000,1
+
+$VOICE,v\ACN0152.ogg,0,100
+$VOICE,v\IRZ0130.ogg,0,100
+$VOICE,v\GRG0094.ogg,0,100
+ÅyAll ThreeÅz
+"Ugh?!!!"
+
+Immediately after, a dissonant sound reverberates.
+
+It's different from the previous sensation, which had felt like someone groping around inside their skullsÅ\this shriek pierces the brain directly.
+
+They reflexively press both hands against their ears in an effort to withstand the shrill noise.
+
+$L_MONT,4,,0,0,0,M,AN20M0114
+
+$VOICE,v\ACN0153.ogg,0,100
+ÅyAconiteÅz
+"Uggh...what the hell is this?"
+
+Unable to keep up with these developments, Aconite can't help grumbling, but he is far from remedying the situation.
+
+$L_MONT,2,,300,0,0,M,IS20M0114
+
+$VOICE,v\IRZ0131.ogg,0,100
+ÅyIrisÅz
+"Ah... Aconite!!!"
+
+$L_MONT,4,,0,0,0,M,AN20M0313
+
+$L_DELAY,4,T,1500
+$L_MONT,4,,0,0,0,M,AN20M0308
+$L_DELAY,4,E
+
+$VOICE,v\ACN0154.ogg,0,100
+ÅyAconiteÅz
+"What...now...?"
+
+Hearing Iris' scream, Aconite turns around to see the goddess figure, which had been glittering iridescently until just a moment ago, turning black from its feet up.
+
+$L_MONT,3,,-300,0,0,M,GR10M0215
+
+$VOICE,v\GRG0095.ogg,0,100
+ÅyGalegaÅz
+"Is this...it can't be, infection force?! Is it being contaminated by infection force?"
+
+$L_MONT,4,,0,0,0,M,AN20M0117
+
+$L_DELAY,4,T,2000
+$L_MONT,4,,0,0,0,M,AN20M0311
+$L_DELAY,4,E
+
+$VOICE,v\ACN0155.ogg,0,100
+ÅyAconiteÅz
+"Hey, hey, hey...seriously! Oh, crap, seal it off! Cut the lines before infection force crosses to the neighboring servers!"
+
+$L_MONT,3,,-300,0,0,M,GR10M0210
+
+$VOICE,v\GRG0096.ogg,0,100
+ÅyGalegaÅz
+"Argh, there's not enough time for the system to switch over."
+
+$L_MONT,4,,0,0,0,M,AN20M0112
+
+$VOICE,v\ACN0156.ogg,0,100
+ÅyAconiteÅz
+"We've gotta destroy it physically. Iris! Target that group of tubes!"
+
+$L_CHR,5,ef\bl50.s25,0,0,0
+$L_MONT,6,,100,0,0,M,IS20C0107
+$A_CHR,114,6,0,0,300,1
+$A_CHR,151,6,300,1
+$DRAW
+
+$VOICE,v\IRZ0132.ogg,0,100
+ÅyIrisÅz
+"Understood!"
+
+$SE,se\SE_K028.ogg,0,0
+$L_BG,b\bgwhite.s25,0,0,0
+$DRAW_EX,2,c\rule06.s25,1000,1
+$L_CHR,1,b\bg42_02d.s25,0,0,0
+$A_CHR,50,1,640,360,150,500,1
+$L_CHR,2,b\tr2.s25,0,0,0
+$L_CHR,5,b\bgwhite.s25,0,0,0
+$DRAW_EX,0,,300,0
+$A_CHR,05,1,0,10,1500
+$A_CHR,150,5,1500,1
+
+Aconite gives the order to fire to Iris, who is good at causing widespread annihilation. He then turns his eyes to the goddess figure whose entire lower body has now been dyed black.
+
+
+$SE,se\SE_K072.ogg,0,1
+$VOICE,v\WOO0003.ogg,0,100
+ÅyGoddess FigureÅz
+"YAAAAAAAAAAAAAA..."
+
+$FACE,,M,AN20F0112
+
+$VOICE,v\ACN0157.ogg,0,100
+ÅyAconiteÅz
+"Damn."
+
+$FACE
+
+$SE_FADE,1000,0
+$SE_FADE,1000,1
+
+It no longer has a voice powerful enough to shake the room. All it can do is cry out weakly.
+
+$FACE,,M,AN20F0111
+
+$VOICE,v\ACN0158.ogg,0,100
+ÅyAconiteÅz
+"Hey! Isn't there anything we can do?! If you're consumed by infection force..."
+
+$FACE
+
+$VOICE,v\WOO0004.ogg,0,100
+ÅyGoddess FigureÅz
+"Laaa..."
+
+$FACE,,M,AN20F0116
+
+$VOICE,v\ACN0159.ogg,0,100
+ÅyAconiteÅz
+"Huh?! I can't do that...! Damn, is that really the only way left...?"
+
+$FACE
+
+$VOICE,v\WOO0005.ogg,0,100
+ÅyGoddess FigureÅz
+"Aaa..."
+
+$FACE,,M,AN20F0208
+
+$VOICE,v\ACN0160.ogg,0,100
+ÅyAconiteÅz
+"What's this?!"
+
+$SE,se\SE_K080.ogg,0,0
+$FACE
+$L_BG,ef\effect02.s25,0,0,0
+$DRAW_EX,2,c\rule44.s25,2000,1
+$WAIT, 500
+
+Aconite, who has mysteriously communicated with the goddess figure, feels life force building up in both of his hands.
+
+Wondering what's going on, he turns his eyes back to the goddess figure to find her arms, which have not yet been contaminated by infection force, turning into light and disappearing.
+
+
+$SE,se\SE_K005.ogg,0,0
+$L_CHR,1,ef\effect12.s25,0,0,0
+$DRAW_EX,2,c\rule43.s25,1500,1
+$L_CHR,5,b\bgwhite.s25,0,0,0
+$L_CHR,4,e\wp_ex.s25,0,-800,0
+$L_CHR,2,ef\effect7.s25,0,0,0
+$DRAW_EX,1,,300,0
+$A_CHR,150,5,2000,1
+$A_CHR,114,4,0,200,30000,1
+$DRAW
+
+
+Particles of the light gather on his palm then stretch out little by little. Then, with one bright flash, a big sword manifests itself in his hand.
+
+
+$L_CHR,6,b\tr.s25,0,0,0
+$L_MONT,7,,450,0,0,M,AN20L0306
+
+$L_DELAY,7,T,2000
+$L_MONT,7,,450,0,0,M,AN20L1301
+$L_DELAY,7,E
+
+$VOICE,v\ACN0161.ogg,0,100
+ÅyAconiteÅz
+"...A farewell gift, I suppose? I'll accept it gratefully."
+
+
+$VOICE,v\WOO0006.ogg,0,100
+ÅyGoddess FigureÅz
+"......"
+
+$MUSIC_FADE,2000
+
+$L_MONT,7,,450,0,0,M,AN20L1109
+$L_CHR,8,b\bgblack.s25,0,0,0
+$A_CHR,151,8,2000,1
+
+No voice can be heard anymore from the goddess figure, which has turned black up to her eyes.
+
+
+Aconite nods once. Then, with the object she entrusted to him held to his chest, he checks on the others' status in order to come up with a plan for what to do next.
+
+
+$L_BG,b\bg42_02d.s25,0,0,300
+$L_CHR,1,b\tr.s25,0,0,0
+$L_MONT,3,,-250,0,0,M,GR10M0309
+$L_MONT,2,,250,0,0,M,IS20M0109
+$DRAW_EX,2,c\rule01.s25,500,1
+
+$MUSIC,m\bgm12.ogg,1
+
+$FACE,,M,AN20F0101
+
+$VOICE,v\ACN0162.ogg,0,100
+ÅyAconiteÅz
+"Galega, Iris! How is it over there?!"
+
+$FACE
+
+$VOICE,v\GRG0097.ogg,0,100
+ÅyGalegaÅz
+"According to a report from the guys on patrol, infection force seems to be approaching. Also a group that looks like Ishua Sect members have been seen nearby."
+
+$L_MONT,2,,250,0,0,M,IS20M0310
+
+$L_DELAY,2,T,4000
+$L_MONT,2,,250,0,0,M,IS20M0307
+$L_DELAY,2,E
+
+$VOICE,v\IRZ0133.ogg,0,100
+ÅyIrisÅz
+"I'm mostly finished here. I'd like to think infection force has not leaked into the neighboring servers, but there's no way to confirm it from here... Uh, what's that you're holding?"
+
+$FACE,,M,AN20F1109
+
+$VOICE,v\ACN0163.ogg,0,100
+ÅyAconiteÅz
+"I'll explain later. We'll abandon this server. Notify all members, including civilians, that all those who refuse to die with this planet must assemble at Point S4-JC."
+
+$FACE
+$L_MONT,2,,250,0,0,M,IS20M0217
+
+$L_DELAY,2,T,2000
+$L_MONT,2,,250,0,0,M,IS20M0219
+$L_DELAY,2,E
+
+$VOICE,v\IRZ0134.ogg,0,100
+ÅyIrisÅz
+"What's over there...? No, what's this? This feeling..."
+
+$L_CHR,3,,
+$L_MONT,4,,-250,0,0,M,AN20M1109
+
+$VOICE,v\ACN0164.ogg,0,100
+ÅyAconiteÅz
+"You got a lot of information from her just now, didn't you, Iris? Then, you should know."
+
+$L_MONT,2,,250,0,0,M,IS20M0216
+
+$VOICE,v\IRZ0135.ogg,0,100
+ÅyIrisÅz
+"O-oh...?"
+
+$WINDOW,0
+$A_CHR,114,2,350,0,300,1
+$A_CHR,150,2,300,1
+$A_CHR,114,4,-150,0,300,1
+$A_CHR,150,4,300,1
+$DRAW
+$WAIT, 300
+$L_MONT,5,,150,0,0,M,AN20M1309
+$A_CHR,114,5,250,0,300,1
+$L_MONT,3,,-350,0,0,M,GR10M0302
+$A_CHR,114,3,-250,0,300,1
+$DRAW
+
+Aconite has no time to waste on Iris, whose memory is slightly confused. He quickly goes over to Galega.
+
+$VOICE,v\ACN0165.ogg,0,100
+ÅyAconiteÅz
+"Galega, after you finish the communications, go on ahead to the rendezvous point."
+
+$L_MONT,3,,-250,0,0,M,GR10M0201
+
+$VOICE,v\GRG0098.ogg,0,100
+ÅyGalegaÅz
+"Got it. You want me to go ahead and start the preparations. Now that the server here is down, we'll have to secure a power source, too."
+
+Galega seems to understand Aconite's intent, and his words make Aconite feel that he will never fail him.
+
+$L_MONT,5,,250,0,0,M,AN20M0104
+
+$VOICE,v\ACN0166.ogg,0,100
+ÅyAconiteÅz
+"Yeah, I'm counting on you. I'll stay hereÅ\"
+
+$EX,PPFGBLUR,11,11
+$L_BG,b\bg42_01.s25,0,0,0
+$L_CHR,1,b\tr.s25,0,0,0
+$L_MONT,2,,0,0,0,M,IS20L0202
+$DRAW_EX,1,,300,0
+
+$VOICE,v\IRZ0136.ogg,0,100
+ÅyIrisÅz
+"No, I'll stay."
+
+$FACE,,M,AN20F1107
+
+$VOICE,v\ACN0167.ogg,0,100
+ÅyAconiteÅz
+"Iris?"
+
+$FACE
+
+Aconite almost asks Iris why she's getting willful at a time like this, but he stops when he sees her eyes.
+
+$L_MONT,2,,0,0,0,M,IS20L0111
+
+$L_DELAY,2,T,3000
+$L_MONT,2,,0,0,0,M,IS20L0304
+$L_DELAY,2,E
+
+$VOICE,v\IRZ0137.ogg,0,100
+ÅyIrisÅz
+"Honestly, there are many things I don't understand, but I've concluded that I should be the one to remain here. There are other things you must do. Right, Commander?"
+
+$L_BG,b\bg42_01.s25,0,0,0
+$L_MONT,3,,350,0,0,M,GR10S0203
+$L_MONT,2,,-300,0,0,M,IS20S0304
+$L_MONT,4,,100,0,0,M,AN20S1106
+$DRAW_EX,0,,1000,1
+
+$VOICE,v\GRG0099.ogg,0,100
+ÅyGalegaÅz
+"She's right. I'll send out the message, but it would be best if you take command and lead them directly, Aconite. We'll be traveling over a vast area, so you're just the man for the job."
+
+With both Iris and Galega in agreement, Aconite has no comeback. And since it's also a race against time, Aconite nods.
+
+$L_MONT,2,,-300,0,0,M,IS20B0203
+
+$L_DELAY,2,T,2000
+$L_MONT,2,,-300,0,0,M,IS20B0103
+
+$VOICE,v\IRZ0138.ogg,0,100
+ÅyIrisÅz
+"If you understand, that's fine. Now, 'Go! Don't worry about me!' "
+
+Iris says with a grin. Her expression is extremely smug.
+
+$L_MONT,4,,100,0,0,M,AN20S1102
+
+$L_DELAY,4,T,500
+$L_MONT,4,,100,0,0,M,AN20S1104
+$L_DELAY,4,E
+
+$VOICE,v\ACN0168.ogg,0,100
+ÅyAconiteÅz
+"...Haha. Okay, I leave you in charge! Let's go, Galega."
+
+$L_MONT,3,,350,0,0,M,GR10S0203
+
+$VOICE,v\GRG0100.ogg,0,100
+ÅyGalegaÅz
+"Yeah."
+
+$SE,se\SE_C001.ogg,0,0
+$WINDOW,0
+$A_CHR,114,3,550,0,300,1
+$A_CHR,114,4,300,0,300,1
+$A_CHR,150,3,300,1
+$A_CHR,150,4,300,1
+$L_CHR,5,b\bgblack.s25,0,0,0
+$A_CHR,151,5,500,1
+$DRAW
+
+Aconite dashes from the room and rushes out of the server facility.
+
+
+
+He has no fear. Because Iris has his back.
+
+;îwåiÅ@äXï¿Ç›
+
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,0,,300,1
+
+$WINDOW,0
+$L_CHR,1,b\bg40_01.s25,-50,0,0
+$A_CHR,114,1,-50,0,500,1
+$A_CHR,151,1,500,1
+$L_MONT,4,,100,0,0,M,AN20S1301
+$L_MONT,3,,-300,0,0,M,GR10S0101
+$A_CHR,114,4,200,0,500,1
+$A_CHR,114,3,-200,0,500,1
+$A_CHR,151,4,500,1
+$A_CHR,151,3,500,1
+$DRAW
+
+$VOICE,v\ACN0169.ogg,0,100
+ÅyAconiteÅz
+"Now then, I'm gonna look in on them for a moment."
+
+$L_MONT,3,,-200,0,0,M,GR10S0103
+
+$VOICE,v\GRG0101.ogg,0,100
+ÅyGalegaÅz
+"Then, why don't you break up infection force and the Ishua Sect bunch on the way? It looks like they're having a really hard time."
+
+$L_MONT,4,,200,0,0,M,AN20S1101
+
+$VOICE,v\ACN0170.ogg,0,100
+ÅyAconiteÅz
+"I suppose I should. I'll do what I can. I'm counting on you, too."
+
+$L_MONT,3,,-200,0,0,M,GR10S0316
+
+$VOICE,v\GRG0102.ogg,0,100
+ÅyGalegaÅz
+"Understood. Still, Pumila will hold the fort down here and you'll be doing the same in the opposite direction. I have nothing to worry about."
+
+$L_MONT,4,,200,0,0,M,AN20S1205
+
+$VOICE,v\ACN0171.ogg,0,100
+ÅyAconiteÅz
+"All right. See you later."
+
+$L_MONT,4,,200,0,0,M,AN20S1103
+$L_MONT,3,,-200,0,0,M,GR10S0104
+
+Aconite will stop the approaching infection force and the Ishua Sect while Galega tries to prepare a new secret weapon by sifting through Enosh's implanted information.
+
+$SE,se\SE_C032.ogg,0,0
+$A_CHR,128,3,100,0,500,1
+$A_CHR,128,4,-100,0,500,1
+$DRAW
+
+$L_DELAY,3,T,1500
+$A_CHR,129,3,500,0,500,1
+$A_CHR,150,3,500,1
+$L_DELAY,3,E
+$L_DELAY,4,T,1500
+$SE,se\SE_K002.ogg,0,0
+$A_CHR,129,4,-500,0,500,1
+$A_CHR,150,4,500,1
+$L_DELAY,4,E
+
+They turn back to back and dash off in their different directions.
+
+
+$MUSIC_FADE
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,2,c\rule25.s25,1500,1
+$WAIT, 500
+$L_BG,b\bg42_01.s25,0,0,0
+$L_CHR,1,ef\kiri.s25,0,0,0
+$DRAW_EX,2,c\rule25.s25,1500,1
+
+;îwåiÅ@ÉTÅ[ÉoÅ[ÉãÅ[ÉÄ
+
+After watching Aconite and Galega leaving the room over her shoulder, Iris returns her gaze to the goddess figure floating in the cylinder and frowns at its transformation.
+
+$MUSIC,m\bgm09.ogg,1
+
+$FACE,,M,IS20F0211
+
+$VOICE,v\IRZ0139.ogg,0,100
+ÅyIrisÅz
+"I've seen many people contaminated by infection force, but this is my first time seeing one who creates it."
+
+$SE,se\SE_K082.ogg,0,0
+$FACE
+$L_CHR,3,ef\magic09.s25,0,0,0
+$DRAW_EX,2,c\rule15.s25,1500,1
+
+$VOICE,v\WOO0007.ogg,0,100
+ÅyGoddess FigureÅz
+"WOOOOOOOOOOOO..."
+
+$A_CHR,150,3,1500,1
+
+There is something in there, wrapped in sinister infection force, that spits out a repulsive voice dripping with deeply-held resentment.
+
+$WINDOW,0
+
+$EX,PPFGBLUR,50,0
+$L_MONT,5,,-300,0,0,M,IS20A0101
+$A_CHR,114,5,0,0,500,1
+$A_CHR,151,5,300,1
+$DRAW
+$WAIT, 400
+$L_MONT,6,,0,0,0,M,IS20A0101
+$A_CHR,150,5,100,1
+$A_CHR,151,6,100,1
+$DRAW
+
+$VOICE,v\IRZ0140.ogg,0,100
+ÅyIrisÅz
+"It has changed you this much. Well, they did well in naming it infection force. Now, you probably can't hear me anymore, but..."
+
+$SE,se\SE_K062.ogg,1,0
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,1,ef\effect7.s25,0,0,0
+$L_CHR,2,ef\irisa01.s25,0,0,0
+$L_CHR,3,ef\irisa01.s25,0,0,0
+$L_CHR,4,ef\irisa01.s25,0,0,0
+$L_MONT,5,,0,0,0,M,IS20A0102
+$DRAW_EX,2,c\rule06.s25,1500,1
+$A_CHR,11,3,0,256,0,500
+$A_CHR,11,4,0,0,256,500
+$A_CHR,05,3,0,5,500
+$A_CHR,06,4,0,5,500
+
+She floods her entire body with life force, materializes a swarm of countless particles around her, then gathers them together to form star-shells. This is Iris' signature technique.
+
+$L_DELAY,5,T,4000
+$L_MONT,5,,0,0,0,M,IS20A0203
+$L_DELAY,5,E
+
+$VOICE,v\IRZ0141.ogg,0,100
+ÅyIrisÅz
+"It was entrusted to me with no questions asked, so rest assured, if you keep on madly discharging infection force, I, Iris Pumila will blow it all away."
+
+
+$SE,se\SE_K024.ogg,0,0
+$SE,se\SE_K025.ogg,0,1
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,6,ef\effect02.s25,0,0,0
+$L_CHR,5,e\emo.s25,0,0,0
+$L_CHR,1,ef\irisa02.s25,0,0,0
+$L_CHR,2,ef\irisa02.s25,0,0,0
+$L_CHR,3,ef\irisa02.s25,0,0,0
+$DRAW_EX,2,c\rule06.s25,500,1
+$EMOTION,5,èWíÜ1
+$A_CHR,11,2,0,256,0,500
+$A_CHR,11,3,0,0,256,500
+$A_CHR,05,2,0,20,500
+$A_CHR,06,3,0,20,500
+$A_CHR,150,6,500,1
+$DRAW
+
+First, she delivers a volley of the star-shells floating around her against the figure as if to say this is just a warm-up.
+
+It's mere child's play for Iris to hit an unmoving, scarecrow-like target with every one of her shells.
+
+
+;SEÅ@òAë±îöî≠âπ
+$SE,se\SE_J008a.ogg,0,0
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,1,ef\ban_05.s25,0,0,0
+$L_CHR,2,ef\ban_05.s25,0,0,0
+$L_CHR,3,ef\ban_05.s25,0,0,0
+$A_CHR,50,1,640,360,150,1,1
+$A_CHR,50,2,640,360,150,1,1
+$A_CHR,50,3,640,360,150,1,1
+$L_CHR,4,ef\ban_12.s25,0,0,0
+$DRAW_EX,0,,300,1
+$A_CHR,150,4,300,1
+$DRAW
+$WAIT, 200
+$SE,se\SE_J019.ogg,0,1
+$A_CHR,50,3,640,360,200,300,1
+$A_CHR,114,3,-200,100,300,1
+$A_CHR,150,3,300,1
+$DRAW
+$WAIT, 250
+$SE,se\SE_J008a.ogg,0,2
+$A_CHR,50,2,640,360,200,300,1
+$A_CHR,114,2,200,-100,300,1
+$A_CHR,150,2,300,1
+$DRAW
+$WAIT, 250
+$SE,se\SE_J019.ogg,0,3
+$A_CHR,50,1,640,360,200,300,1
+$A_CHR,06,1,0,10,300
+$DRAW
+
+;Å\Å\ÉYÉhÉhÉhÉhÉhÉhÉhÇ¡ÅB
+
+A thundering noise rumbles through the air with the impact. Fumes from the explosions fill the server room, lowering her visibility, but Iris' bombardments don't stop.
+
+$L_MONT,2,,-100,0,0,M,IS20C0223
+$A_CHR,114,2,0,0,300,1
+
+$VOICE,v\IRZ0142.ogg,0,100
+ÅyIrisÅz
+"Not yet! I'm far from done!!!"
+
+$SE,se\SE_K011.ogg,0,0
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,1,ef\irisa01.s25,0,0,0
+$DRAW_EX,1,,300,1
+$WAIT, 300
+
+$SE,se\SE_K025.ogg,0,1
+$L_CHR,1,ef\irisa02.s25,0,0,0
+$L_CHR,2,ef\irisa02.s25,0,0,0
+$L_CHR,3,ef\irisa02.s25,0,0,0
+$DRAW_EX,1,,300,0
+
+$A_CHR,11,2,0,256,0,500
+$A_CHR,11,3,0,0,256,500
+$A_CHR,05,2,0,20,500
+$A_CHR,06,3,0,20,500
+$DRAW
+
+$WAIT, 800
+
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,2,b\bg42_03d.s25,0,250,0
+$L_CHR,3,b\bgwhite.s25,0,0,0
+$L_CHR,5,e\emo.s25,0,0,0
+$SE,se\SE_J007.ogg,0,2
+$DRAW_EX,2,c\rule43.s25,500,1
+$A_CHR,06,2,0,10,3000
+$A_CHR,150,3,1500,1
+$DRAW
+
+Iris can't tell the condition of the goddess figure, which is now engulfed in white smoke. However, if she believes the information sent directly into her brain, this degree of attack will onlyÅ\
+
+$SE_FADE,1000,0
+$SE_FADE,1000,1
+$WINDOW,0
+$SE,se\SE_K083.ogg,0,0
+$A_CHR,114,2,0,0,400,1
+$A_CHR,50,2,640,360,150,500,1
+$EMOTION,5,èWíÜ2
+$DRAW
+
+$VOICE,v\WOO0008.ogg,0,100
+ÅyGoddess FigureÅz
+"WOOOOOOOOOOOOO!!!!"
+
+$SE,se\SE_K003.ogg,0,0
+$L_BG,b\bgwhite.s25,0,0,0
+$DRAW_EX,1,,300,1
+$L_CHR,2,ef\zan5.s25,0,0,0
+$L_CHR,1,ef\effect01b.s25,0,0,0
+$DRAW_EX,47,c\rule12.s25,500,1
+
+With a cry like a roll of thunder, black blades slice through white smoke and fly towards Iris.
+
+$A_CHR,150,2,300,1
+$SE,se\SE_K002.ogg,0,0
+$L_MONT,4,,0,100,0,M,IS20B0102
+$A_CHR,114,4,0,0,300,1
+$A_CHR,151,4,300,1
+$DRAW
+
+$VOICE,v\IRZ0143.ogg,0,100
+ÅyIrisÅz
+"Too easy!"
+
+$SE,se\SE_K003.ogg,0,0
+$L_MONT,4,,0,0,0,M,IS20B0107
+$DRAW_EX,1,,300,1
+$A_CHR,128,4,50,0,100,1
+$DRAW
+$WAIT, 100
+$SE,se\SE_K003.ogg,0,1
+$A_CHR,128,4,-100,0,300,1
+$DRAW
+$WAIT, 300
+$L_MONT,4,,-100,0,0,M,IS20B0207
+$DRAW_EX,0,,100,0
+$WAIT, 100
+$SE,se\SE_K003.ogg,0,2
+$L_MONT,4,,-100,0,0,M,IS20S0308
+$DRAW_EX,1,,100,0
+$A_CHR,128,4,0,0,200,1
+$A_CHR,50,4,640,0,120,200,1
+$A_CHR,150,4,200,1
+$DRAW
+
+
+Iris takes an oblique stance and dodges the assassin's daggers by stepping lightly to the right and left. As she concentrates life force into her right arm and is about to fire back, she senses danger.
+
+She dives forward and to the right, and a moment laterÅ\
+
+
+$SE,se\SE_J019.ogg,0,0
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,3,ef\magic01.s25,0,0,0
+$L_CHR,2,b\bgwhite.s25,0,0,0
+$L_CHR,1,ef\magic02.s25,0,0,0
+$DRAW_EX,1,,300,1
+$A_CHR,50,3,640,360,200,800,1
+$DRAW
+$WAIT, 100
+$SE,se\SE_J018.ogg,0,1
+$A_CHR,150,3,500,1
+$DRAW
+$WAIT, 300
+$A_CHR,150,2,500,1
+$DRAW
+
+*Explode*!!
+
+$FACE,,M,IS20F0212
+
+$VOICE,v\IRZ0144.ogg,0,100
+ÅyIrisÅz
+"Gah?!"
+
+$FACE
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,1,,300,1
+$SE,se\SE_K023.ogg,0,0
+$L_CHR,1,ef\magic09.s25,0,0,0
+$DRAW_EX,2,c\rule01.s25,500,1
+
+She feels infection force behind her. A shroud of dark-colored life force is encroaching upon the room.
+
+$L_CHR,2,b\tr.s25,0,0,0
+$DRAW
+$L_MONT,3,,100,0,0,M,IS20A0108
+$A_CHR,114,3,250,0,3500,1
+$A_CHR,151,3,300,1
+$DRAW
+
+$VOICE,v\IRZ0145.ogg,0,100
+ÅyIrisÅz
+"Clever."
+
+It seems the black stones shot out just now are compressed infection force. When they make impact, they burst open like grenades, dispersing infection force around them.
+
+
+$L_MONT,3,,250,0,0,M,IS20M0209
+$DRAW_EX,0,,300,0
+
+$L_DELAY,3,T,2000
+$L_MONT,3,,250,0,0,M,IS20M0316
+$L_DELAY,3,E
+
+$VOICE,v\IRZ0146.ogg,0,100
+ÅyIrisÅz
+"At this level, I can still ignore it, but...hey, hey."
+
+$SE,se\SE_K072.ogg,0,0
+$SE,se\SE_J011.ogg,0,1
+$L_CHR,2,b\bg43_02d.s25,0,250,0
+$A_CHR,50,2,640,360,150,100,1
+$L_CHR,3,ef\kiri.s25,0,0,0
+$L_CHR,4,ef\kiri.s25,0,0,0
+$L_CHR,5,ef\kiri.s25,0,0,0
+$L_CHR,6,b\tr2.s25,0,0,0
+$L_CHR,7,b\bgblack.s25,0,0,0
+$DRAW_EX,0,,1000,1
+$SE,se\SE_K014.ogg,0,2
+$A_CHR,150,7,1000,1
+$A_CHR,150,5,5000,1
+$A_CHR,150,4,10000,1
+$A_CHR,150,3,15000,1
+$A_CHR,114,2,0,-350,60000,1
+$DRAW
+
+As the smoke fades away, the space where the goddess figure was floating becomes clear.
+
+The cylinder must have been blasted away by Iris' attack, as it is nowhere to be seen, but more importantly the size of the figure has changed.
+
+The crystals on its back have become like gigantic mountains and the upper body of the goddess figure, which is attached at their center, is protruding forward.
+
+Its surface is enveloped in dark red light and infection force is overflowing from it and crawling over the floor like dry ice. It's clear that the room will be engulfed in infection force within minutes.
+
+$SE_FADE,1000,0
+$L_MONT,8,,-200,0,0,M,IS20D0107
+$A_CHR,114,8,0,0,300,1
+$A_CHR,151,8,300,1
+$DRAW
+
+$L_DELAY,8,T,2000
+$SE,se\SE_K001.ogg,0,0
+$L_MONT,8,,0,0,0,M,IS20D0210
+$L_DELAY,8,E
+
+$VOICE,v\IRZ0147.ogg,0,100
+ÅyIrisÅz
+"Hmph. I am good at domination battle, too. Haaaaaah!!"
+
+$SE,se\SE_K002.ogg,0,0
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,7,ef\effect02.s25,0,0,0
+$DRAW_EX,2,c\rule06.s25,500,1
+$L_CHR,7,b\bgwhite.s25,0,0,0
+$L_CHR,6,ef\irisa02.s25,0,0,0
+$L_CHR,5,ef\irisa02.s25,0,0,0
+$L_CHR,4,ef\irisa02.s25,0,0,0
+$L_CHR,3,ef\effect7.s25,0,0,0
+$DRAW_EX,2,c\rule06.s25,1000,1
+$SE,se\SE_K024.ogg,0,1
+$SE,se\SE_K025.ogg,0,0
+$A_CHR,150,7,1000,1
+$A_CHR,11,6,0,256,0,500
+$A_CHR,11,5,0,0,256,500
+$A_CHR,05,6,0,20,500
+$A_CHR,06,5,0,20,500
+$DRAW
+
+Iris wraps herself in life force, then releases it with a loud yell. A wall of light fills the room with Iris in the center and in the next second, a storm of shock waves blasts outward in a 360 degree radius.
+
+
+;Å\Å\ÉSÉSÉIÉIÉIÉIÉIÉIÉIÉIÉIÉIÉIÉIÉHÉHÉHÉHÅIÅI
+
+;SEÅ@îöî≠âπ
+$SE,se\SE_J008.ogg,0,0
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,2,b\bg43_02d.s25,500,-200,0
+$L_CHR,3,b\tr2.s25,0,0,0
+$L_CHR,5,ef\ban_05.s25,0,0,0
+$L_CHR,4,b\bgwhite.s25,0,0,0
+$DRAW_EX,1,,300,1
+
+$WAIT, 100
+
+$A_CHR,50,5,640,360,250,2500,1
+$A_CHR,114,2,-500,-200,120000,1
+$DRAW
+
+$L_DELAY,5,T,1000
+$A_CHR,150,5,1000,1
+$SE,se\SE_J011.ogg,0,1
+$L_DELAY,5,E
+
+$L_DELAY,4,T,1000
+$A_CHR,150,4,3000,1
+$SE,se\SE_J008a.ogg,0,1
+$L_DELAY,4,E
+
+;îwåiÅ@ÉKÉåÉLÇÃéRÅ@äO
+
+As the storm of light subsides, the place where the server used to stand looks like a war-torn battlefield after an air-raid. The area is filled with debris as far as the eye can see.
+
+Only around Iris is clear ground visible in the form of a crater, but it's a cold comfort.
+
+$FACE,,M,IS20F0104
+
+$VOICE,v\IRZ0148.ogg,0,100
+ÅyIrisÅz
+"Hmm... Now it's a little easier to move."
+
+$FACE
+
+Iris herself is completely unabashed. In fact, she feels she can finally go all out and is pumped up and ready to fight.
+
+$SE,se\SE_K084.ogg,0,0
+$L_BG,b\bg43_02.s25,0,0,0
+$DRAW_EX,11,,1000,1
+
+$VOICE,v\WOO0009.ogg,0,100
+ÅyGoddess FigureÅz
+"WOOOOOOOOOOOOO..."
+
+The black crystal stands alone among the debris. Perhaps it's to be expected that it doesn't have a single mark on it even after being exposed to that attack.
+
+However, surely it's just her imagination, but the sound that can be heard coming from it seems filled with bewilderment at Iris' merciless attack.
+
+$L_MONT,2,,400,0,0,M,IS20S0202
+$A_CHR,114,2,300,0,300,1
+$A_CHR,151,2,300,1
+$DRAW
+
+$L_DELAY,2,T,500
+$L_MONT,2,,300,0,0,M,IS20S0210
+$L_DELAY,2,T,4000
+$L_MONT,2,,300,0,0,M,IS20B0107
+$L_DELAY,2,E
+
+$VOICE,v\IRZ0149.ogg,0,100
+ÅyIrisÅz
+"Now, which will run dry first: my life force...or your infection force..."
+
+Although her previous attack completely extinguished the infection force, it oozes out again from the thing which used to be the goddess figure, encroaching on the surrounding area.
+
+However, a battlefield without obstacles is Iris' territory.
+
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,1,ef\effect8.s25,0,0,0
+$L_CHR,3,b\tr2.s25,0,0,0
+$L_MONT,2,,600,-200,0,M,IS20D0101
+$A_CHR,114,2,600,0,1000,1
+$DRAW_EX,0,,1000,1
+
+$WAIT, 300
+
+$SE,se\SE_A101.ogg,0,0
+$L_MONT,2,,600,0,0,M,IS20D1122
+$DRAW_EX,0,,100,0
+
+$WAIT, 500
+
+$L_BG,b\bgblack.s25,0,0,0
+$EX,PPFGBLUR,0,50
+$SE,se\SE_A100.ogg,0,0
+$L_CHR,5,b\bg43_02d.s25,250,-250,0
+$L_CHR,1,e\emo.s25,0,0,0
+$L_CHR,4,es\exs02_000200-1-1-1.s25,0,0,0
+$DRAW_EX,1,,300,1
+$EMOTION,1,åıíe
+$A_CHR,01,4,0,10,1500
+$A_CHR,114,5,250,250,600,1
+$DRAW
+$WAIT, 200
+$A_CHR,150,5,300,1
+$SE,se\SE_K040.ogg,1,1
+$SE,se\SE_K062.ogg,1,2
+
+
+*Unfold*. Iris expands wings of life force on her back and smoothly floats up into the air. She spreads her arms wide and generates an uncountable number of star-shells.
+
+
+$MUSIC_FADE,2000
+$STOPEMO,1
+$SE_FADE,1000,0
+$SE_FADE,2000,1
+$SE_FADE,2000,2
+$L_BG,b\bgblack.s25,0,0,0
+$L_CHR,5,b\tr.s25,0,0,0
+$L_CHR,4,es\evs02d_-1000200-1-1.s25,0,300,0
+$DRAW_EX,0,,1000,1
+
+$VOICE,v\IRZ0150.ogg,0,100
+ÅyIrisÅz
+"Round two, here we go!"
+
+$L_BG,b\bgblack.s25,0,0,0
+$DRAW_EX,0,,1000,1
+
+
+;ÉVÅ[Éìì]ä∑
+;iris_03.txtÇ÷
+
